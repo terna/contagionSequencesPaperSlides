@@ -1,0 +1,10 @@
+\babel@toc {english}{}
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@sectionintoc {2}{Contagion Representation}{3}{0}{2}
+\beamer@subsectionintoc {2}{1}{The Proposed Technique}{3}{0}{2}
+\beamer@subsectionintoc {2}{2}{Significant Sequence Examples}{4}{0}{2}
+\beamer@sectionintoc {3}{Simulation Batches and Heat-Maps}{5}{0}{3}
+\beamer@subsectionintoc {3}{1}{Batches}{5}{0}{3}
+\beamer@subsectionintoc {3}{2}{Two Heat-Maps}{6}{0}{3}
+\beamer@sectionintoc {4}{Policies and Results}{7}{0}{4}
+\beamer@sectionintoc {5}{Q\&As}{8}{0}{5}

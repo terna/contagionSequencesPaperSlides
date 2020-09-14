@@ -1,0 +1,38 @@
+\BOOKMARK [1][-]{section.1}{A quick introduction to epidemic modeling}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Why model? Why agents? Why another model? }{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Our model}{section.1}% 3
+\BOOKMARK [1][-]{section.2}{The visualization of the sequences of contagions in simulated epidemics}{}% 4
+\BOOKMARK [2][-]{subsection.2.1}{Contagion sequences}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.2}{A few sequences suggesting a policy via counterfactual limitations}{section.2}% 6
+\BOOKMARK [1][-]{section.3}{Simulation repetition and emerging key results}{}% 7
+\BOOKMARK [1][-]{section.4}{Cost-benefit analysis of the of interventions}{}% 8
+\BOOKMARK [1][-]{section.5}{Summarizing}{}% 9
+\BOOKMARK [1][-]{appendix.A}{Appendix: Analyzing examples of contagion sequences}{}% 10
+\BOOKMARK [2][-]{subsubsection.A.0.1}{How to analyze the figures of this section}{appendix.A}% 11
+\BOOKMARK [2][-]{subsection.A.1}{Epidemics without containment measures}{appendix.A}% 12
+\BOOKMARK [3][-]{subsubsection.A.1.1}{Case 1: workplaces, nursing homes, and homes}{subsection.A.1}% 13
+\BOOKMARK [3][-]{subsubsection.A.1.2}{Case 2: multiple sources of infection}{subsection.A.1}% 14
+\BOOKMARK [3][-]{subsubsection.A.1.3}{Case 3: workplaces and homes}{subsection.A.1}% 15
+\BOOKMARK [2][-]{subsection.A.2}{Cases with containment measures}{appendix.A}% 16
+\BOOKMARK [3][-]{subsubsection.A.2.1}{Case 4, again the importance of workplaces \(brown\) and homes \(cyan\)}{subsection.A.2}% 17
+\BOOKMARK [3][-]{subsubsection.A.2.2}{Case 5, with workplaces \(brown\), hospitals \(pink\), nursing homes \(orange\) and homes \(cyan\), then workplaces \(brown\)}{subsection.A.2}% 18
+\BOOKMARK [3][-]{subsubsection.A.2.3}{Case 6, with workplaces \(brown\) and nursing homes \(orange\)}{subsection.A.2}% 19
+\BOOKMARK [2][-]{subsection.A.3}{Short running epidemic, with containment measures}{appendix.A}% 20
+\BOOKMARK [3][-]{subsubsection.A.3.1}{Case 7, only nursing homes \(orange\)}{subsection.A.3}% 21
+\BOOKMARK [3][-]{subsubsection.A.3.2}{Case 8 with workers and control of fragility in two steps}{subsection.A.3}% 22
+\BOOKMARK [3][-]{subsubsection.A.3.3}{Case 9, a spontaneously stopping epidemic}{subsection.A.3}% 23
+\BOOKMARK [1][-]{appendix.B}{Appendix: batches of 1,000 simulated experiments generating data for policy proposals}{}% 24
+\BOOKMARK [2][-]{subsection.B.1}{Epidemics without containment measures}{appendix.B}% 25
+\BOOKMARK [2][-]{subsection.B.2}{Epidemics with basic non-pharmaceutical containment measures, no school in September 2020}{appendix.B}% 26
+\BOOKMARK [2][-]{subsection.B.3}{Epidemics with basic non-pharmaceutical containment measures, school open in September 2020}{appendix.B}% 27
+\BOOKMARK [2][-]{subsection.B.4}{Epidemics with immediate stop of fragile workers, non-pharmaceutical containment measures, no school in September 2020}{appendix.B}% 28
+\BOOKMARK [2][-]{subsection.B.5}{Epidemics with absolute isolation of nursing homes, non-pharmaceutical containment measures, no school in September 2020}{appendix.B}% 29
+\BOOKMARK [2][-]{subsection.B.6}{Epidemics stopping fragile people, non-pharmaceutical containment measures, no school in September 2020}{appendix.B}% 30
+\BOOKMARK [2][-]{subsection.B.7}{Epidemics excluding fragility of any type, non-pharmaceutical containment measures, no school in September 2020}{appendix.B}% 31
+\BOOKMARK [2][-]{subsection.B.8}{Epidemics excluding fragility of any type, non-pharmaceutical containment measures, factories open, no school in September 2020}{appendix.B}% 32
+\BOOKMARK [2][-]{subsection.B.9}{Epidemics excluding fragility of any type, non-pharmaceutical containment measures, factories open, schools open in September 2020}{appendix.B}% 33
+\BOOKMARK [1][-]{appendix.C}{Appendix: How the visualization of contagion sequences works}{}% 34
+\BOOKMARK [2][-]{subsection.C.1}{The data}{appendix.C}% 35
+\BOOKMARK [2][-]{subsection.C.2}{The plot}{appendix.C}% 36
+\BOOKMARK [2][-]{subsection.C.3}{The colors}{appendix.C}% 37
+\BOOKMARK [1][-]{appendix.D}{Appendix: The calendar}{}% 38

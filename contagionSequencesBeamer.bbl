@@ -1,0 +1,103 @@
+\begin{thebibliography}{11}
+\ProvideTextCommand{\guillemotleft}{OT1}{%
+  \leavevmode\raise .27ex\hbox{$\scriptscriptstyle\ll$}}
+\ProvideTextCommand{\guillemotright}{OT1}{%
+  \leavevmode\raise .27ex\hbox{$\scriptscriptstyle\gg$}}
+\newcommand{\enquote}[1]{\guillemotleft#1\guillemotright}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{Axtell(2000)}]{axtell2000agents}
+Axtell, R. (2000).
+\newblock {\it {Why agents? On the varied motivations for agent computing in
+  the social sciences}\/}.
+\newblock Tech. rep., Center on Social and Economic Dynamics Brookings
+  Institution.
+
+\bibitem[{Bellomo {\it et~al.\/}(2020)Bellomo, Bingham, Chaplain, Dosi, Forni,
+  Knopoff, Lowengrub, Twarock and Virgillito}]{doi:10.1142/S0218202520500323}
+Bellomo, N., Bingham, R., Chaplain, M. A.~J., Dosi, G., Forni, G., Knopoff,
+  D.~A., Lowengrub, J., Twarock, R. and Virgillito, M.~E. (2020).
+\newblock {\it A multiscale model of virus pandemic: Heterogeneous interactive
+  entities in a globally connected world\/}.
+\newblock In \enquote{Mathematical Models and Methods in Applied Sciences},
+  vol.~30(08), pp. 1591-1651.
+\newline\urlprefix\url{https://doi.org/10.1142/S0218202520500323}
+
+\bibitem[{Epstein(2008)}]{epstein2008model}
+Epstein, J. (2008).
+\newblock {\it Why model?\/}.
+\newblock In \enquote{Journal of Artificial Societies and Social Simulation},
+  vol.~11(4), p.~12.
+\newline\urlprefix\url{http://jasss.soc.surrey.ac.uk/11/4/12.html}
+
+\bibitem[{Miles {\it et~al.\/}(2020)Miles, Stedman and
+  Heald}]{doi:10.1111/ijcp.13674}
+Miles, D., Stedman, M. and Heald, A.~H. (2020).
+\newblock {\it {``Stay at Home, Protect the National Health Service, Save
+  Lives'': a cost benefit analysis of the lockdown in the United Kingdom}\/}.
+\newblock In \enquote{International Journal of Clinical Practice}, vol.
+  n/a(n/a), p. e13674.
+\newline\urlprefix\url{https://onlinelibrary.wiley.com/doi/abs/10.1111/ijcp.13674}
+
+\bibitem[{Rahmandad and Sterman(2008)}]{rahmandad2008heterogeneity}
+Rahmandad, H. and Sterman, J. (2008).
+\newblock {\it Heterogeneity and network structure in the dynamics of
+  diffusion: Comparing agent-based and differential equation models\/}.
+\newblock In \enquote{Management Science}, vol.~54(5), pp. 998--1014.
+
+\bibitem[{Scala {\it et~al.\/}(2020)Scala, Flori, Spelta, Brugnoli, Cinelli,
+  Quattrociocchi and Pammolli}]{Scala:2020aa}
+Scala, A., Flori, A., Spelta, A., Brugnoli, E., Cinelli, M., Quattrociocchi, W.
+  and Pammolli, F. (2020).
+\newblock {\it Time, space and social interactions: exit mechanisms for the
+  Covid-19 epidemics\/}.
+\newblock In \enquote{Scientific Reports}, vol.~10(1), p. 13764.
+\newline\urlprefix\url{https://doi.org/10.1038/s41598-020-70631-9}
+
+\bibitem[{Silvagno {\it et~al.\/}(2020)Silvagno, Vernone and
+  Pescarmona}]{Silvagno_2020}
+Silvagno, F., Vernone, A. and Pescarmona, G.~P. (2020).
+\newblock {\it The Role of Glutathione in Protecting against the Severe
+  Inflammatory Response Triggered by COVID-19\/}.
+\newblock In \enquote{Antioxidants}, vol.~9(7), p. 624.
+\newline\urlprefix\url{http://dx.doi.org/10.3390/antiox9070624}
+
+\bibitem[{Squazzoni {\it et~al.\/}(2020)Squazzoni, Polhill, Edmonds, Ahrweiler,
+  Antosz, Scholz, Chappin, Borit, Verhagen, Giardini and
+  Gilbert}]{squazzoni2020}
+Squazzoni, F., Polhill, J.~G., Edmonds, B., Ahrweiler, P., Antosz, P., Scholz,
+  G., Chappin, E., Borit, M., Verhagen, H., Giardini, F. and Gilbert, N.
+  (2020).
+\newblock {\it Computational Models That Matter During a Global Pandemic
+  Outbreak: A Call to Action\/}.
+\newblock In \enquote{Journal of Artificial Societies and Social Simulation},
+  vol.~23(2), p.~10.
+\newline\urlprefix\url{http://jasss.soc.surrey.ac.uk/23/2/10.html}
+
+\bibitem[{Steinmann {\it et~al.\/}(2020)Steinmann, Wang, van Voorn and
+  Kwakkel}]{steinmann2020don}
+Steinmann, P., Wang, J.~R., van Voorn, G.~A. and Kwakkel, J.~H. (2020).
+\newblock {\it Don't try to predict COVID-19. If you must, use deep uncertainty
+  methods\/}.
+\newblock In \enquote{Review of Artificial Societies and Social Simulation},
+  vol.~17.
+\newline\urlprefix\url{https://rofasss.org/2020/04/17/deep-uncertainty/}
+
+\bibitem[{Terna {\it et~al.\/}(2020)Terna, Pescarmona, Acquadro, Pescarmona,
+  Russo and Terna}]{SIsaR}
+Terna, P., Pescarmona, G., Acquadro, A., Pescarmona, P., Russo, G. and Terna,
+  S. (2020).
+\newblock {\it {SIsaR, An Agent-Based Model of the Diffusion of Covid-19 Using
+  NetLogo, with Susceptible, Infected, symptomatic, asymptomatic, and Recovered
+  People}\/}.
+\newline\urlprefix\url{https://terna.to.it/simul/SIsaR.html}
+
+\bibitem[{Wilensky(1999)}]{NetLogo}
+Wilensky, U. (1999).
+\newblock {\it NetLogo\/}.
+\newline\urlprefix\url{http://ccl.northwestern.edu/netlogo/}
+
+\end{thebibliography}

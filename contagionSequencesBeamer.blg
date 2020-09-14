@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: contagionSequencesBeamer.aux
+The style file: plainnatmm.bst
+Database file #1: ./bibliografiaGenerale.bib
+You've used 11 entries,
+            2925 wiz_defined-function locations,
+            681 strings with 7998 characters,
+and the built_in function-call counts, 7927 in all, are:
+= -- 594
+> -- 406
+< -- 19
++ -- 159
+- -- 144
+* -- 654
+:= -- 1204
+add.period$ -- 31
+call.type$ -- 11
+change.case$ -- 109
+chr.to.int$ -- 11
+cite$ -- 11
+duplicate$ -- 564
+empty$ -- 513
+format.name$ -- 173
+if$ -- 1548
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 115
+newline$ -- 74
+num.names$ -- 44
+pop$ -- 220
+preamble$ -- 1
+purify$ -- 92
+quote$ -- 0
+skip$ -- 234
+stack$ -- 0
+substring$ -- 285
+swap$ -- 391
+text.length$ -- 15
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 99
+warning$ -- 0
+while$ -- 47
+width$ -- 0
+write$ -- 157
