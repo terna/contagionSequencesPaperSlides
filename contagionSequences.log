@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  19 SEP 2020 17:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  25 SEP 2020 19:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -669,13 +669,13 @@ ier (name{figure.19}) has been already used, duplicate ignored
                                                   \fi \fi 
 l.674 
        <./withShort2.png>]
-<HM30_readRunResults1k_noControl_plusHM.png, id=511, 500.87125pt x 302.12875pt>
-
-File: HM30_readRunResults1k_noControl_plusHM.png Graphic file (type png)
-<use HM30_readRunResults1k_noControl_plusHM.png>
-Package pdftex.def Info: HM30_readRunResults1k_noControl_plusHM.png  used on in
-put line 703.
-(pdftex.def)             Requested size: 301.00192pt x 181.57368pt.
+<HM30_readRunResults1k_noControl_plusHMlog.png, id=511, 506.89375pt x 302.12875
+pt>
+File: HM30_readRunResults1k_noControl_plusHMlog.png Graphic file (type png)
+<use HM30_readRunResults1k_noControl_plusHMlog.png>
+Package pdftex.def Info: HM30_readRunResults1k_noControl_plusHMlog.png  used on
+ input line 703.
+(pdftex.def)             Requested size: 301.00192pt x 179.41154pt.
  [25pdfTeX warning (ext4): destination with the same identifier (name{table.2})
  has been already used, duplicate ignored
 
@@ -688,14 +688,14 @@ gure.20}) has been already used, duplicate ignored
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.740 
-       <./HM30_readRunResults1k_noControl_plusHM.png>]
-<HM30_readRunResults1k_withControl_plusHM.png, id=532, 494.84875pt x 314.17375p
-t>
-File: HM30_readRunResults1k_withControl_plusHM.png Graphic file (type png)
-<use HM30_readRunResults1k_withControl_plusHM.png>
-Package pdftex.def Info: HM30_readRunResults1k_withControl_plusHM.png  used on 
-input line 744.
-(pdftex.def)             Requested size: 301.00192pt x 191.10399pt.
+       <./HM30_readRunResults1k_noControl_plusHMlog.png>]
+<HM30_readRunResults1k_withControl_plusHMlog.png, id=532, 506.89375pt x 314.173
+75pt>
+File: HM30_readRunResults1k_withControl_plusHMlog.png Graphic file (type png)
+<use HM30_readRunResults1k_withControl_plusHMlog.png>
+Package pdftex.def Info: HM30_readRunResults1k_withControl_plusHMlog.png  used 
+on input line 744.
+(pdftex.def)             Requested size: 301.00192pt x 186.56416pt.
  [27pdfTeX warning (ext4): destination with the same identifier (name{table.3})
  has been already used, duplicate ignored
 
@@ -708,15 +708,15 @@ l.782
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.782 
-       <./HM30_readRunResults1k_withControl_plusHM.png>]
-<HM30_readRunResults1k_basicControl_schoolOpenSept_plusHM.png, id=541, 494.8487
-5pt x 314.17375pt>
-File: HM30_readRunResults1k_basicControl_schoolOpenSept_plusHM.png Graphic file
- (type png)
-<use HM30_readRunResults1k_basicControl_schoolOpenSept_plusHM.png>
+       <./HM30_readRunResults1k_withControl_plusHMlog.png>]
+<HM30_readRunResults1k_basicControl_schoolOpenSept_plusHMlog.png, id=541, 506.8
+9375pt x 314.17375pt>
+File: HM30_readRunResults1k_basicControl_schoolOpenSept_plusHMlog.png Graphic f
+ile (type png)
+<use HM30_readRunResults1k_basicControl_schoolOpenSept_plusHMlog.png>
 Package pdftex.def Info: HM30_readRunResults1k_basicControl_schoolOpenSept_plus
-HM.png  used on input line 786.
-(pdftex.def)             Requested size: 301.00192pt x 191.10399pt.
+HMlog.png  used on input line 786.
+(pdftex.def)             Requested size: 301.00192pt x 186.56416pt.
 
 Overfull \hbox (10.3224pt too wide) in paragraph at lines 794--794
 []\T1/cmr/bx/n/12 Epidemics with im-me-di-ate stop of frag-ile work-ers, non-ph
@@ -728,22 +728,22 @@ has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.822 \end{table}
-                 pdfTeX warning (ext4): destination with the same identifier (n
-ame{figure.22}) has been already used, duplicate ignored
+l.823 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+22}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.822 \end{table}
-                  <./HM30_readRunResults1k_basicControl_schoolOpenSept_plusHM.p
-ng>]
-<HM30_readRunResults1k_with_sFW_at20_plusHM.png, id=554, 494.84875pt x 325.215p
-t>
-File: HM30_readRunResults1k_with_sFW_at20_plusHM.png Graphic file (type png)
-<use HM30_readRunResults1k_with_sFW_at20_plusHM.png>
-Package pdftex.def Info: HM30_readRunResults1k_with_sFW_at20_plusHM.png  used o
-n input line 827.
-(pdftex.def)             Requested size: 344.005pt x 226.08083pt.
+l.823 
+       <./HM30_readRunResults1k_basicControl_schoolOpenSept_plusHMlog.png>]
+<HM30_readRunResults1k_with_sFW_at20_plusHMlog.png, id=554, 506.89375pt x 325.2
+15pt>
+File: HM30_readRunResults1k_with_sFW_at20_plusHMlog.png Graphic file (type png)
+
+<use HM30_readRunResults1k_with_sFW_at20_plusHMlog.png>
+Package pdftex.def Info: HM30_readRunResults1k_with_sFW_at20_plusHMlog.png  use
+d on input line 827.
+(pdftex.def)             Requested size: 344.005pt x 220.71155pt.
 
 Overfull \hbox (20.49776pt too wide) in paragraph at lines 833--833
 []\T1/cmr/bx/n/12 Epidemics with ab-so-lute iso-la-tion of nurs-ing homes, non-
@@ -755,126 +755,124 @@ has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.838 F
-       irst trial: we put in action the prohibition of the visits to the nur...
-pdfTeX warning (ext4): destination with the same identifier (name{figure.23}) h
-as been already used, duplicate ignored
+l.839 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+23}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.838 F
-       irst trial: we put in action the prohibition of the visits to the nur...
- <./HM30_readRunResults1k_with_sFW_at20_plusHM.png>]
-<HM30_readRunResults1k_with_NH_OP_BZ_at20_plusHM.png, id=563, 494.84875pt x 325
-.215pt>
-File: HM30_readRunResults1k_with_NH_OP_BZ_at20_plusHM.png Graphic file (type pn
-g)
-<use HM30_readRunResults1k_with_NH_OP_BZ_at20_plusHM.png>
-Package pdftex.def Info: HM30_readRunResults1k_with_NH_OP_BZ_at20_plusHM.png  u
-sed on input line 867.
-(pdftex.def)             Requested size: 344.005pt x 226.08083pt.
+l.839 
+       <./HM30_readRunResults1k_with_sFW_at20_plusHMlog.png>]
+<HM30_readRunResults1k_with_NH_OP_BZ_at20_plusHMlog.png, id=564, 506.89375pt x 
+325.215pt>
+File: HM30_readRunResults1k_with_NH_OP_BZ_at20_plusHMlog.png Graphic file (type
+ png)
+<use HM30_readRunResults1k_with_NH_OP_BZ_at20_plusHMlog.png>
+Package pdftex.def Info: HM30_readRunResults1k_with_NH_OP_BZ_at20_plusHMlog.png
+  used on input line 867.
+(pdftex.def)             Requested size: 344.005pt x 220.71155pt.
  [30pdfTeX warning (ext4): destination with the same identifier (name{table.6})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.872 
-      ]
-<HM30_readRunResults1k_with_Frag_at20_plusHM.png, id=570, 494.84875pt x 325.215
-pt>
-File: HM30_readRunResults1k_with_Frag_at20_plusHM.png Graphic file (type png)
-<use HM30_readRunResults1k_with_Frag_at20_plusHM.png>
-Package pdftex.def Info: HM30_readRunResults1k_with_Frag_at20_plusHM.png  used 
-on input line 907.
-(pdftex.def)             Requested size: 344.005pt x 226.08083pt.
- [31pdfTeX warning (ext4): destination with the same identifier (name{figure.24
-}) has been already used, duplicate ignored
+l.902 \end{table}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{figure.24}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.912 
-      pdfTeX warning (ext4): destination with the same identifier (name{table.7
-}) has been already used, duplicate ignored
+l.902 \end{table}
+                  <./HM30_readRunResults1k_with_NH_OP_BZ_at20_plusHMlog.png>]
+<HM30_readRunResults1k_with_Frag_at20_plusHMlog.png, id=572, 506.89375pt x 325.
+215pt>
+File: HM30_readRunResults1k_with_Frag_at20_plusHMlog.png Graphic file (type png
+)
+<use HM30_readRunResults1k_with_Frag_at20_plusHMlog.png>
+Package pdftex.def Info: HM30_readRunResults1k_with_Frag_at20_plusHMlog.png  us
+ed on input line 907.
+(pdftex.def)             Requested size: 344.005pt x 220.71155pt.
+
+[31pdfTeX warning (ext4): destination with the same identifier (name{table.7}) 
+has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.912 
-       <./HM30_readRunResults1k_with_NH_OP_BZ_at20_plusHM.png>] [32pdfTeX warni
-ng (ext4): destination with the same identifier (name{figure.25}) has been alre
-ady used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.943 
-       <./HM30_readRunResults1k_with_Frag_at20_plusHM.png>]
-<HM30_readRunResults1k_with_NoAllFrag_at20_plusHM.png, id=591, 494.84875pt x 32
-5.215pt>
-File: HM30_readRunResults1k_with_NoAllFrag_at20_plusHM.png Graphic file (type p
-ng)
-<use HM30_readRunResults1k_with_NoAllFrag_at20_plusHM.png>
-Package pdftex.def Info: HM30_readRunResults1k_with_NoAllFrag_at20_plusHM.png  
-used on input line 947.
-(pdftex.def)             Requested size: 344.005pt x 226.08083pt.
- [33pdfTeX warning (ext4): destination with the same identifier (name{table.8})
- has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.983 
+l.918 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
-26}) has been already used, duplicate ignored
+25}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.983 
-       <./HM30_readRunResults1k_with_NoAllFrag_at20_plusHM.png>]
-<HM30_readRunResults1k_with_NoAllFrag_openFacs_at20_plusHM.png, id=599, 500.871
-25pt x 325.215pt>
-File: HM30_readRunResults1k_with_NoAllFrag_openFacs_at20_plusHM.png Graphic fil
-e (type png)
-<use HM30_readRunResults1k_with_NoAllFrag_openFacs_at20_plusHM.png>
-Package pdftex.def Info: HM30_readRunResults1k_with_NoAllFrag_openFacs_at20_plu
-sHM.png  used on input line 987.
-(pdftex.def)             Requested size: 344.005pt x 223.37137pt.
- [34pdfTeX warning (ext4): destination with the same identifier (name{table.9})
+l.918 
+       <./HM30_readRunResults1k_with_Frag_at20_plusHMlog.png>]
+<HM30_readRunResults1k_with_NoAllFrag_at20_plusHMlog.png, id=586, 506.89375pt x
+ 325.215pt>
+File: HM30_readRunResults1k_with_NoAllFrag_at20_plusHMlog.png Graphic file (typ
+e png)
+<use HM30_readRunResults1k_with_NoAllFrag_at20_plusHMlog.png>
+Package pdftex.def Info: HM30_readRunResults1k_with_NoAllFrag_at20_plusHMlog.pn
+g  used on input line 947.
+(pdftex.def)             Requested size: 344.005pt x 220.71155pt.
+ [32pdfTeX warning (ext4): destination with the same identifier (name{table.8})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1023 \end{table}
-                  pdfTeX warning (ext4): destination with the same identifier (
-name{figure.27}) has been already used, duplicate ignored
+l.952 
+      ]
+<HM30_readRunResults1k_with_NoAllFrag_openFacs_at20_plusHMlog.png, id=594, 506.
+89375pt x 325.215pt>
+File: HM30_readRunResults1k_with_NoAllFrag_openFacs_at20_plusHMlog.png Graphic 
+file (type png)
+<use HM30_readRunResults1k_with_NoAllFrag_openFacs_at20_plusHMlog.png>
+Package pdftex.def Info: HM30_readRunResults1k_with_NoAllFrag_openFacs_at20_plu
+sHMlog.png  used on input line 987.
+(pdftex.def)             Requested size: 344.005pt x 220.71155pt.
+ [33pdfTeX warning (ext4): destination with the same identifier (name{figure.26
+}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1023 \end{table}
-                   <./HM30_readRunResults1k_with_NoAllFrag_openFacs_at20_plusHM
-.png>]
-<HM30_readRunResults1k_with_NoAllFrag_openFacs_at20_openSchoolSep_plusHM.png, i
-d=609, 500.87125pt x 325.215pt>
-File: HM30_readRunResults1k_with_NoAllFrag_openFacs_at20_openSchoolSep_plusHM.p
-ng Graphic file (type png)
-<use HM30_readRunResults1k_with_NoAllFrag_openFacs_at20_openSchoolSep_plusHM.pn
-g>
+l.992 
+      pdfTeX warning (ext4): destination with the same identifier (name{table.9
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.992 
+       <./HM30_readRunResults1k_with_NoAllFrag_at20_plusHMlog.png>]
+<HM30_readRunResults1k_with_NoAllFrag_openFacs_at20_openSchoolSep_plusHMlog.png
+, id=603, 506.89375pt x 325.215pt>
+File: HM30_readRunResults1k_with_NoAllFrag_openFacs_at20_openSchoolSep_plusHMlo
+g.png Graphic file (type png)
+<use HM30_readRunResults1k_with_NoAllFrag_openFacs_at20_openSchoolSep_plusHMlog
+.png>
 Package pdftex.def Info: HM30_readRunResults1k_with_NoAllFrag_openFacs_at20_ope
-nSchoolSep_plusHM.png  used on input line 1028.
-(pdftex.def)             Requested size: 344.005pt x 223.37137pt.
- [35pdfTeX warning (ext4): destination with the same identifier (name{table.10}
+nSchoolSep_plusHMlog.png  used on input line 1028.
+(pdftex.def)             Requested size: 344.005pt x 220.71155pt.
+ [34pdfTeX warning (ext4): destination with the same identifier (name{figure.27
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1033 
+       pdfTeX warning (ext4): destination with the same identifier (name{table.
+10}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1033 
+        <./HM30_readRunResults1k_with_NoAllFrag_openFacs_at20_plusHMlog.png>]
+[35pdfTeX warning (ext4): destination with the same identifier (name{figure.28}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1048 \item t
-              he ID of the agent transmitting the contagion (for the initial...
-pdfTeX warning (ext4): destination with the same identifier (name{figure.28}) h
-as been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.1048 \item t
-              he ID of the agent transmitting the contagion (for the initial...
- <./HM30_readRunResults1k_with_NoAllFrag_openFacs_at20_openSchoolSep_plusHM.png
->] [36] (./contagionSequences.bbl [37])
+l.1056 \item t
+              he starting infection day, i.e., the previous value plus the i...
+ <./HM30_readRunResults1k_with_NoAllFrag_openFacs_at20_openSchoolSep_plusHMlog.
+png>] [36] (./contagionSequences.bbl [37])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1117.
  [38]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 1117.
@@ -892,12 +890,12 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1117.
  ) 
 Here is how much of TeX's memory you used:
  7820 strings out of 480608
- 118698 string characters out of 5903631
+ 118860 string characters out of 5903631
  396108 words of memory out of 5000000
  23357 multiletter control sequences out of 15000+600000
  556859 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,11n,45p,1220b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,10n,45p,1220b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<
 /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
@@ -919,7 +917,7 @@ dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2020/texmf-di
 st/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2020/texmf-dist
 /fonts/type1/public/cm-super/sftt0900.pfb></usr/local/texlive/2020/texmf-dist/f
 onts/type1/public/cm-super/sftt1095.pfb>
-Output written on contagionSequences.pdf (38 pages, 987449 bytes).
+Output written on contagionSequences.pdf (38 pages, 990270 bytes).
 PDF statistics:
  756 PDF objects out of 1000 (max. 8388607)
  636 compressed objects within 7 object streams
