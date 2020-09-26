@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  25 SEP 2020 19:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  26 SEP 2020 12:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -886,12 +886,15 @@ Package rerunfilecheck Info: File `contagionSequences.out' has not changed.
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1117.
  ) 
 Here is how much of TeX's memory you used:
  7820 strings out of 480608
  118860 string characters out of 5903631
- 396108 words of memory out of 5000000
+ 396139 words of memory out of 5000000
  23357 multiletter control sequences out of 15000+600000
  556859 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -917,7 +920,7 @@ dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2020/texmf-di
 st/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2020/texmf-dist
 /fonts/type1/public/cm-super/sftt0900.pfb></usr/local/texlive/2020/texmf-dist/f
 onts/type1/public/cm-super/sftt1095.pfb>
-Output written on contagionSequences.pdf (38 pages, 990270 bytes).
+Output written on contagionSequences.pdf (38 pages, 990530 bytes).
 PDF statistics:
  756 PDF objects out of 1000 (max. 8388607)
  636 compressed objects within 7 object streams
