@@ -1,4 +1,4 @@
-\begin{thebibliography}{11}
+\begin{thebibliography}{12}
 \ProvideTextCommand{\guillemotleft}{OT1}{%
   \leavevmode\raise .27ex\hbox{$\scriptscriptstyle\ll$}}
 \ProvideTextCommand{\guillemotright}{OT1}{%
@@ -32,6 +32,16 @@ Epstein, J. (2008).
 \newblock In \enquote{Journal of Artificial Societies and Social Simulation},
   vol.~11(4), p.~12.
 \newline\urlprefix\url{http://jasss.soc.surrey.ac.uk/11/4/12.html}
+
+\bibitem[{Ghorbani {\it et~al.\/}(2020)Ghorbani, Lorig, de~Bruin, Davidsson,
+  Dignum, Dignum, van~der Hurk, Jensen, Kammler, Kreulen {\it
+  et~al.\/}}]{ghorbani2020assocc}
+Ghorbani, A., Lorig, F., de~Bruin, B., Davidsson, P., Dignum, F., Dignum, V.,
+  van~der Hurk, M., Jensen, M., Kammler, C., Kreulen, K. {\it et~al.\/} (2020).
+\newblock {\it {The ASSOCC Simulation Model: A Response to the Community Call
+  for the COVID-19 Pandemic}\/}.
+\newblock In \enquote{Review of Artificial Societies and Social Simulation}.
+\newline\urlprefix\url{https://rofasss.org/2020/04/25/the-assocc-simulation-model/}
 
 \bibitem[{Miles {\it et~al.\/}(2020)Miles, Stedman and
   Heald}]{doi:10.1111/ijcp.13674}

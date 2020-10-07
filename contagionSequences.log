@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  26 SEP 2020 12:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  8 OCT 2020 00:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -423,22 +423,22 @@ This may cause the page layout to be inconsistent, however.
 LaTeX Warning: Reference `AppCalendar' on page 4 undefined on input line 127.
 
 [4] [5]
-<withShort1.png, id=250, 944.52875pt x 521.95pt>
+<withShort1.png, id=252, 944.52875pt x 521.95pt>
 File: withShort1.png Graphic file (type png)
 <use withShort1.png>
 Package pdftex.def Info: withShort1.png  used on input line 175.
 (pdftex.def)             Requested size: 188.9024pt x 104.38814pt.
-<withShort1A.png, id=252, 936.49875pt x 521.95pt>
+<withShort1A.png, id=254, 936.49875pt x 521.95pt>
 File: withShort1A.png Graphic file (type png)
 <use withShort1A.png>
 Package pdftex.def Info: withShort1A.png  used on input line 175.
 (pdftex.def)             Requested size: 187.29643pt x 104.38814pt.
-<withShort1A200.png, id=253, 936.49875pt x 521.95pt>
+<withShort1A200.png, id=255, 936.49875pt x 521.95pt>
 File: withShort1A200.png Graphic file (type png)
 <use withShort1A200.png>
 Package pdftex.def Info: withShort1A200.png  used on input line 178.
 (pdftex.def)             Requested size: 187.29643pt x 104.38814pt.
-<withShort1B.png, id=254, 939.51pt x 521.95pt>
+<withShort1B.png, id=256, 939.51pt x 521.95pt>
 File: withShort1B.png Graphic file (type png)
 <use withShort1B.png>
 Package pdftex.def Info: withShort1B.png  used on input line 178.
@@ -462,12 +462,12 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 (hyperref)                than one, level fixed on input line 369.
 
 [12]
-<no3a.png, id=374, 942.52126pt x 521.95pt>
+<no3a.png, id=379, 942.52126pt x 521.95pt>
 File: no3a.png Graphic file (type png)
 <use no3a.png>
 Package pdftex.def Info: no3a.png  used on input line 433.
 (pdftex.def)             Requested size: 301.00192pt x 166.68494pt.
-<no3b.png, id=375, 936.49875pt x 521.95pt>
+<no3b.png, id=380, 936.49875pt x 521.95pt>
 File: no3b.png Graphic file (type png)
 <use no3b.png>
 Package pdftex.def Info: no3b.png  used on input line 441.
@@ -479,12 +479,12 @@ Package pdftex.def Info: no3b.png  used on input line 441.
                                                   \fi \fi 
 l.446 
        <./no3a.png>]
-<no4a.png, id=386, 942.52126pt x 521.95pt>
+<no4a.png, id=391, 942.52126pt x 521.95pt>
 File: no4a.png Graphic file (type png)
 <use no4a.png>
 Package pdftex.def Info: no4a.png  used on input line 454.
 (pdftex.def)             Requested size: 301.00192pt x 166.68494pt.
-<no4b.png, id=387, 936.49875pt x 521.95pt>
+<no4b.png, id=392, 936.49875pt x 521.95pt>
 File: no4b.png Graphic file (type png)
 <use no4b.png>
 Package pdftex.def Info: no4b.png  used on input line 463.
@@ -502,7 +502,7 @@ l.469
                                                   \fi \fi 
 l.469 
        <./no3b.png> <./no4a.png>]
-<no5a.png, id=398, 942.52126pt x 521.95pt>
+<no5a.png, id=403, 942.52126pt x 521.95pt>
 File: no5a.png Graphic file (type png)
 <use no5a.png>
 Package pdftex.def Info: no5a.png  used on input line 479.
@@ -514,7 +514,7 @@ Package pdftex.def Info: no5a.png  used on input line 479.
                                                   \fi \fi 
 l.484 
        <./no4b.png>]
-<no5b.png, id=407, 936.49875pt x 521.95pt>
+<no5b.png, id=412, 936.49875pt x 521.95pt>
 File: no5b.png Graphic file (type png)
 <use no5b.png>
 Package pdftex.def Info: no5b.png  used on input line 487.
@@ -532,17 +532,17 @@ l.502
                                                   \fi \fi 
 l.502 
        <./no5a.png> <./no5b.png>]
-<with6a.png, id=422, 936.49875pt x 521.95pt>
+<with6a.png, id=427, 936.49875pt x 521.95pt>
 File: with6a.png Graphic file (type png)
 <use with6a.png>
 Package pdftex.def Info: with6a.png  used on input line 506.
 (pdftex.def)             Requested size: 301.00192pt x 167.76012pt.
-<with6b.png, id=423, 936.49875pt x 521.95pt>
+<with6b.png, id=428, 936.49875pt x 521.95pt>
 File: with6b.png Graphic file (type png)
 <use with6b.png>
 Package pdftex.def Info: with6b.png  used on input line 514.
 (pdftex.def)             Requested size: 301.00192pt x 167.76012pt.
-<with7a.png, id=424, 942.52126pt x 521.95pt>
+<with7a.png, id=429, 942.52126pt x 521.95pt>
 File: with7a.png Graphic file (type png)
 <use with7a.png>
 Package pdftex.def Info: with7a.png  used on input line 527.
@@ -560,7 +560,7 @@ name{figure.9}) has been already used, duplicate ignored
                                                   \fi \fi 
 l.531 \end{figure}
                    <./with6a.png> <./with6b.png>]
-<with7b.png, id=432, 936.49875pt x 521.95pt>
+<with7b.png, id=437, 936.49875pt x 521.95pt>
 File: with7b.png Graphic file (type png)
 <use with7b.png>
 Package pdftex.def Info: with7b.png  used on input line 535.
@@ -578,12 +578,12 @@ l.546
                                                   \fi \fi 
 l.546 
        <./with7a.png> <./with7b.png>]
-<with8a.png, id=442, 941.5175pt x 521.95pt>
+<with8a.png, id=447, 941.5175pt x 521.95pt>
 File: with8a.png Graphic file (type png)
 <use with8a.png>
 Package pdftex.def Info: with8a.png  used on input line 549.
 (pdftex.def)             Requested size: 301.00192pt x 166.86812pt.
-<with8b.png, id=443, 936.49875pt x 521.95pt>
+<with8b.png, id=448, 936.49875pt x 521.95pt>
 File: with8b.png Graphic file (type png)
 <use with8b.png>
 Package pdftex.def Info: with8b.png  used on input line 557.
@@ -603,7 +603,7 @@ duplicate ignored
 l.568 \subsubsection
                     {Case 7, only nursing homes (orange)} <./with8a.png> <./wit
 h8b.png>]
-<withShort0.png, id=459, 929.4725pt x 521.95pt>
+<withShort0.png, id=464, 929.4725pt x 521.95pt>
 File: withShort0.png Graphic file (type png)
 <use withShort0.png>
 Package pdftex.def Info: withShort0.png  used on input line 576.
@@ -645,7 +645,7 @@ File: withShort1B.png Graphic file (type png)
 <use withShort1B.png>
 Package pdftex.def Info: withShort1B.png  used on input line 637.
 (pdftex.def)             Requested size: 301.00192pt x 167.21855pt.
-<withShort2.png, id=492, 929.4725pt x 521.95pt>
+<withShort2.png, id=497, 929.4725pt x 521.95pt>
 File: withShort2.png Graphic file (type png)
 <use withShort2.png>
 Package pdftex.def Info: withShort2.png  used on input line 652.
@@ -669,7 +669,7 @@ ier (name{figure.19}) has been already used, duplicate ignored
                                                   \fi \fi 
 l.674 
        <./withShort2.png>]
-<HM30_readRunResults1k_noControl_plusHMlog.png, id=511, 506.89375pt x 302.12875
+<HM30_readRunResults1k_noControl_plusHMlog.png, id=516, 506.89375pt x 302.12875
 pt>
 File: HM30_readRunResults1k_noControl_plusHMlog.png Graphic file (type png)
 <use HM30_readRunResults1k_noControl_plusHMlog.png>
@@ -689,7 +689,7 @@ gure.20}) has been already used, duplicate ignored
                                                   \fi \fi 
 l.740 
        <./HM30_readRunResults1k_noControl_plusHMlog.png>]
-<HM30_readRunResults1k_withControl_plusHMlog.png, id=532, 506.89375pt x 314.173
+<HM30_readRunResults1k_withControl_plusHMlog.png, id=537, 506.89375pt x 314.173
 75pt>
 File: HM30_readRunResults1k_withControl_plusHMlog.png Graphic file (type png)
 <use HM30_readRunResults1k_withControl_plusHMlog.png>
@@ -709,7 +709,7 @@ l.782
                                                   \fi \fi 
 l.782 
        <./HM30_readRunResults1k_withControl_plusHMlog.png>]
-<HM30_readRunResults1k_basicControl_schoolOpenSept_plusHMlog.png, id=541, 506.8
+<HM30_readRunResults1k_basicControl_schoolOpenSept_plusHMlog.png, id=546, 506.8
 9375pt x 314.17375pt>
 File: HM30_readRunResults1k_basicControl_schoolOpenSept_plusHMlog.png Graphic f
 ile (type png)
@@ -736,7 +736,7 @@ l.823
                                                   \fi \fi 
 l.823 
        <./HM30_readRunResults1k_basicControl_schoolOpenSept_plusHMlog.png>]
-<HM30_readRunResults1k_with_sFW_at20_plusHMlog.png, id=554, 506.89375pt x 325.2
+<HM30_readRunResults1k_with_sFW_at20_plusHMlog.png, id=559, 506.89375pt x 325.2
 15pt>
 File: HM30_readRunResults1k_with_sFW_at20_plusHMlog.png Graphic file (type png)
 
@@ -763,7 +763,7 @@ l.839
                                                   \fi \fi 
 l.839 
        <./HM30_readRunResults1k_with_sFW_at20_plusHMlog.png>]
-<HM30_readRunResults1k_with_NH_OP_BZ_at20_plusHMlog.png, id=564, 506.89375pt x 
+<HM30_readRunResults1k_with_NH_OP_BZ_at20_plusHMlog.png, id=569, 506.89375pt x 
 325.215pt>
 File: HM30_readRunResults1k_with_NH_OP_BZ_at20_plusHMlog.png Graphic file (type
  png)
@@ -784,7 +784,7 @@ ame{figure.24}) has been already used, duplicate ignored
                                                   \fi \fi 
 l.902 \end{table}
                   <./HM30_readRunResults1k_with_NH_OP_BZ_at20_plusHMlog.png>]
-<HM30_readRunResults1k_with_Frag_at20_plusHMlog.png, id=572, 506.89375pt x 325.
+<HM30_readRunResults1k_with_Frag_at20_plusHMlog.png, id=577, 506.89375pt x 325.
 215pt>
 File: HM30_readRunResults1k_with_Frag_at20_plusHMlog.png Graphic file (type png
 )
@@ -806,7 +806,7 @@ l.918
                                                   \fi \fi 
 l.918 
        <./HM30_readRunResults1k_with_Frag_at20_plusHMlog.png>]
-<HM30_readRunResults1k_with_NoAllFrag_at20_plusHMlog.png, id=586, 506.89375pt x
+<HM30_readRunResults1k_with_NoAllFrag_at20_plusHMlog.png, id=591, 506.89375pt x
  325.215pt>
 File: HM30_readRunResults1k_with_NoAllFrag_at20_plusHMlog.png Graphic file (typ
 e png)
@@ -821,7 +821,7 @@ g  used on input line 947.
                                                   \fi \fi 
 l.952 
       ]
-<HM30_readRunResults1k_with_NoAllFrag_openFacs_at20_plusHMlog.png, id=594, 506.
+<HM30_readRunResults1k_with_NoAllFrag_openFacs_at20_plusHMlog.png, id=599, 506.
 89375pt x 325.215pt>
 File: HM30_readRunResults1k_with_NoAllFrag_openFacs_at20_plusHMlog.png Graphic 
 file (type png)
@@ -843,7 +843,7 @@ l.992
 l.992 
        <./HM30_readRunResults1k_with_NoAllFrag_at20_plusHMlog.png>]
 <HM30_readRunResults1k_with_NoAllFrag_openFacs_at20_openSchoolSep_plusHMlog.png
-, id=603, 506.89375pt x 325.215pt>
+, id=608, 506.89375pt x 325.215pt>
 File: HM30_readRunResults1k_with_NoAllFrag_openFacs_at20_openSchoolSep_plusHMlo
 g.png Graphic file (type png)
 <use HM30_readRunResults1k_with_NoAllFrag_openFacs_at20_openSchoolSep_plusHMlog
@@ -886,19 +886,16 @@ Package rerunfilecheck Info: File `contagionSequences.out' has not changed.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1117.
  ) 
 Here is how much of TeX's memory you used:
- 7820 strings out of 480608
- 118860 string characters out of 5903631
- 396139 words of memory out of 5000000
- 23357 multiletter control sequences out of 15000+600000
+ 7824 strings out of 480608
+ 118961 string characters out of 5903631
+ 396529 words of memory out of 5000000
+ 23360 multiletter control sequences out of 15000+600000
  556859 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,10n,45p,1220b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,11n,45p,1220b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<
 /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
@@ -920,10 +917,10 @@ dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2020/texmf-di
 st/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2020/texmf-dist
 /fonts/type1/public/cm-super/sftt0900.pfb></usr/local/texlive/2020/texmf-dist/f
 onts/type1/public/cm-super/sftt1095.pfb>
-Output written on contagionSequences.pdf (38 pages, 990530 bytes).
+Output written on contagionSequences.pdf (38 pages, 991434 bytes).
 PDF statistics:
- 756 PDF objects out of 1000 (max. 8388607)
- 636 compressed objects within 7 object streams
- 160 named destinations out of 1000 (max. 500000)
+ 762 PDF objects out of 1000 (max. 8388607)
+ 642 compressed objects within 7 object streams
+ 161 named destinations out of 1000 (max. 500000)
  440 words of extra memory for PDF output out of 10000 (max. 10000000)
 
