@@ -1,4 +1,4 @@
-\begin{thebibliography}{12}
+\begin{thebibliography}{13}
 \ProvideTextCommand{\guillemotleft}{OT1}{%
   \leavevmode\raise .27ex\hbox{$\scriptscriptstyle\ll$}}
 \ProvideTextCommand{\guillemotright}{OT1}{%
@@ -42,6 +42,12 @@ Ghorbani, A., Lorig, F., de~Bruin, B., Davidsson, P., Dignum, F., Dignum, V.,
   for the COVID-19 Pandemic}\/}.
 \newblock In \enquote{Review of Artificial Societies and Social Simulation}.
 \newline\urlprefix\url{https://rofasss.org/2020/04/25/the-assocc-simulation-model/}
+
+\bibitem[{Horton(2020)}]{horton2020offline}
+Horton, R. (2020).
+\newblock {\it Offline: COVID-19 is not a pandemic\/}.
+\newblock In \enquote{Lancet (London, England)}, vol. 396(10255), p. 874.
+\newline\urlprefix\url{https://www.thelancet.com/action/showPdf?pii=S0140-6736\%2820\%2932000-6}
 
 \bibitem[{Miles {\it et~al.\/}(2020)Miles, Stedman and
   Heald}]{doi:10.1111/ijcp.13674}
