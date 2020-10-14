@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  28 SEP 2020 16:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  14 OCT 2020 18:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -950,30 +950,30 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 ] [3
 
 ]
-<withShort1.png, id=189, 944.52875pt x 521.95pt>
+<withShort1.png, id=189, 986.68625pt x 552.0625pt>
 File: withShort1.png Graphic file (type png)
 <use withShort1.png>
 Package pdftex.def Info: withShort1.png  used on input line 147.
-(pdftex.def)             Requested size: 99.17123pt x 54.80238pt.
-<withShort1A.png, id=191, 936.49875pt x 521.95pt>
+(pdftex.def)             Requested size: 103.59758pt x 57.96405pt.
+<withShort1A.png, id=191, 972.63374pt x 552.0625pt>
 File: withShort1A.png Graphic file (type png)
 <use withShort1A.png>
 Package pdftex.def Info: withShort1A.png  used on input line 147.
-(pdftex.def)             Requested size: 98.32813pt x 54.80238pt.
-<withShort1A200.png, id=192, 936.49875pt x 521.95pt>
+(pdftex.def)             Requested size: 102.12213pt x 57.96405pt.
+<withShort1A200.png, id=192, 972.63374pt x 552.0625pt>
 File: withShort1A200.png Graphic file (type png)
 <use withShort1A200.png>
 Package pdftex.def Info: withShort1A200.png  used on input line 147.
-(pdftex.def)             Requested size: 98.32813pt x 54.80238pt.
-<withShort1B.png, id=193, 939.51pt x 521.95pt>
+(pdftex.def)             Requested size: 102.12213pt x 57.96405pt.
+<withShort1B.png, id=193, 977.6525pt x 552.0625pt>
 File: withShort1B.png Graphic file (type png)
 <use withShort1B.png>
 Package pdftex.def Info: withShort1B.png  used on input line 147.
-(pdftex.def)             Requested size: 98.64429pt x 54.80238pt.
+(pdftex.def)             Requested size: 102.64908pt x 57.96405pt.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 147.
 
-Overfull \vbox (6.53297pt too high) detected at line 147
+Overfull \vbox (12.85631pt too high) detected at line 147
  []
 
 [4
@@ -1036,7 +1036,7 @@ al/texlive/2020/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texli
 ve/2020/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2020
 /texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2020/texmf-
 dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on contagionSequencesSlides.pdf (8 pages, 174420 bytes).
+Output written on contagionSequencesSlides.pdf (8 pages, 206064 bytes).
 PDF statistics:
  428 PDF objects out of 1000 (max. 8388607)
  378 compressed objects within 4 object streams
