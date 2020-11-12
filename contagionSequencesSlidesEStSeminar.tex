@@ -87,19 +87,19 @@
 We propose an agent-based model to simulate the Covid-19 epidemic diffusion, with Susceptible, Infected, symptomatic, asymptomatic, and Recovered people: hence the name S.I.s.a.R. The scheme comes from S.I.R. models, with (i) infected agents categorized as symptomatic and asymptomatic and (ii) the places of contagion specified in a detailed way, thanks to agent-based modeling capabilities. 
 
  \item
-The infection transmission is related to three factors: the infected person's characteristics and the susceptible one, plus those of the space in which contact occurs.
+The infection transmission is related to three factors: the infected person's characteristics and those of the susceptible one, plus those of the space in which contact occurs.
 
  \item
 The model includes the structural data of Piedmont, an Italian region, but it can be readily calibrated for other areas. The model reproduces a realistic calendar (e.g., national or local government decisions), via its script interpreter.  
 
-\bigskip
+\item NetLogo is at \url{https://ccl.northwestern.edu/netlogo/}.
 
  \item
  
 S.I.s.a.R. is at \url{https://terna.to.it/simul/SIsaR.html} with information on model construction, the draft of a paper also reporting results, and an online executable version of the simulation program, built using NetLogo.
 
  \item
- A short paper at \url{https://rofasss.org/2020/10/20/sisar/}.
+ The paper introduced here, at \url{https://rofasss.org/2020/10/20/sisar/}.
 
  \end{itemize}
 \end{frame}
@@ -111,7 +111,7 @@ S.I.s.a.R. is at \url{https://terna.to.it/simul/SIsaR.html} with information on 
 
 \item $1:1000$.
 
-\item Contagions are related to; (i) the characteristics of infected persons, (ii) the fragility of susceptible ones, (iii) the peculiarity of the different places, (iv) the distances, (v) probabilities.
+\bigskip
 
 \item Houses.
 \item Schools.
@@ -195,7 +195,7 @@ This enables understanding at a glance how an epidemic episode is developing. In
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}{An example}
+\begin{frame}{An example (1/2)}
 
 \begin{figure}[H]
 \center
@@ -203,12 +203,11 @@ This enables understanding at a glance how an epidemic episode is developing. In
 \caption{A case with containment measures, first 40 infections: workplaces (brown) and nursing homes (orange) strictly interweaving}
 \label{workplacesNursingHomes}
 \end{figure}
-
-
+c
 \end{frame}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}{Same example, more cases}
+\begin{frame}{An example (2/2), more contagions}
 
 \begin{figure}[H]
 \center
@@ -275,7 +274,7 @@ Each simulation run---whose length coincides with the disappearance of symptomat
   
   \item
   
-Consequently, we need to represent compactly the results  emerging from batches of repetitions, to compare the  consequences of the basic assumptions adopted for each specific batch.
+Consequently, we need to represent compactly the results  emerging from batches of simulation repetitions, to compare the  consequences of the basic assumptions adopted for each specific batch.
 
  \item
 We used blocs of one thousand repetitions. Besides summarizing the results with the usual statistical indicators, we adopted the technique of the heat-maps.
@@ -438,7 +437,7 @@ Sources: \url{https://terna.to.it/datiProtezioneCivile.html}  based on \url{http
 
 \item $1:100$.
 
-\item \textit{Infection engine}.
+\item \textit{Infection engine}, \url{https://terna.to.it/simul/InfectionEngine.pdf}.
 
 \item Houses.
 \item Schools.
@@ -475,10 +474,7 @@ Scientific advertising: \url{https://terna.github.io/SLAPP/}
 
 \begin{itemize}
 
-\item The model is a tool for comparative analyses, not forecasting (the enormous standard deviation values are intrinsic to the problem).
-
-\bigskip                
-\item \textit{How can your work be adapted to (or is relevant/useful for) another disease, crisis, context, \ldots}
+\item The S.I.s.a.R. model is a tool for comparative analyses, not forecasting (the enormous standard deviation values are intrinsic to the problem).
 
 \bigskip
 \item The model is highly parametric and more it will be.
