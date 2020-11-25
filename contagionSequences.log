@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  11 NOV 2020 12:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  25 NOV 2020 09:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -418,27 +418,23 @@ Make it at least 13.59999pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[2] [3]
-
-LaTeX Warning: Reference `AppCalendar' on page 4 undefined on input line 127.
-
-[4] [5]
-<withShort1.png, id=252, 986.68625pt x 552.0625pt>
+[2] [3] [4] [5]
+<withShort1.png, id=253, 986.68625pt x 552.0625pt>
 File: withShort1.png Graphic file (type png)
 <use withShort1.png>
 Package pdftex.def Info: withShort1.png  used on input line 175.
 (pdftex.def)             Requested size: 197.33376pt x 110.41054pt.
-<withShort1A.png, id=254, 972.63374pt x 552.0625pt>
+<withShort1A.png, id=255, 972.63374pt x 552.0625pt>
 File: withShort1A.png Graphic file (type png)
 <use withShort1A.png>
 Package pdftex.def Info: withShort1A.png  used on input line 175.
 (pdftex.def)             Requested size: 194.5233pt x 110.41054pt.
-<withShort1A200.png, id=255, 972.63374pt x 552.0625pt>
+<withShort1A200.png, id=256, 972.63374pt x 552.0625pt>
 File: withShort1A200.png Graphic file (type png)
 <use withShort1A200.png>
 Package pdftex.def Info: withShort1A200.png  used on input line 178.
 (pdftex.def)             Requested size: 194.5233pt x 110.41054pt.
-<withShort1B.png, id=256, 977.6525pt x 552.0625pt>
+<withShort1B.png, id=257, 977.6525pt x 552.0625pt>
 File: withShort1B.png Graphic file (type png)
 <use withShort1B.png>
 Package pdftex.def Info: withShort1B.png  used on input line 178.
@@ -462,13 +458,13 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 (hyperref)                than one, level fixed on input line 373.
 
 [12]
-<no3a.png, id=384, 982.67125pt x 552.0625pt>
+<no3a.png, id=385, 982.67125pt x 552.0625pt>
 File: no3a.png Graphic file (type png)
 <use no3a.png>
 Package pdftex.def Info: no3a.png  used on input line 437.
 (pdftex.def)             Requested size: 301.00192pt x 169.09904pt.
  [13]
-<no3b.png, id=392, 972.63374pt x 552.0625pt>
+<no3b.png, id=393, 972.63374pt x 552.0625pt>
 File: no3b.png Graphic file (type png)
 <use no3b.png>
 Package pdftex.def Info: no3b.png  used on input line 445.
@@ -486,12 +482,12 @@ l.455
                                                   \fi \fi 
 l.455 
        <./no3a.png> <./no3b.png>]
-<no4a.png, id=401, 982.67125pt x 552.0625pt>
+<no4a.png, id=402, 982.67125pt x 552.0625pt>
 File: no4a.png Graphic file (type png)
 <use no4a.png>
 Package pdftex.def Info: no4a.png  used on input line 458.
 (pdftex.def)             Requested size: 301.00192pt x 169.09904pt.
-<no4b.png, id=402, 972.63374pt x 552.0625pt>
+<no4b.png, id=403, 972.63374pt x 552.0625pt>
 File: no4b.png Graphic file (type png)
 <use no4b.png>
 Package pdftex.def Info: no4b.png  used on input line 467.
@@ -509,18 +505,22 @@ l.478
                                                   \fi \fi 
 l.478 
        <./no4a.png> <./no4b.png>]
-<no5a.png, id=415, 982.67125pt x 552.0625pt>
+<no5a.png, id=416, 982.67125pt x 552.0625pt>
 File: no5a.png Graphic file (type png)
 <use no5a.png>
 Package pdftex.def Info: no5a.png  used on input line 483.
 (pdftex.def)             Requested size: 301.00192pt x 169.09904pt.
-<no5b.png, id=416, 972.63374pt x 552.0625pt>
+<no5b.png, id=417, 972.63374pt x 552.0625pt>
 File: no5b.png Graphic file (type png)
 <use no5b.png>
 Package pdftex.def Info: no5b.png  used on input line 491.
 (pdftex.def)             Requested size: 301.00192pt x 170.84277pt.
- [16pdfTeX warning (ext4): destination with the same identifier (name{figure.6}
-) has been already used, duplicate ignored
+
+
+LaTeX Warning: Reference `AppCalendar' on page 16 undefined on input line 499.
+
+[16pdfTeX warning (ext4): destination with the same identifier (name{figure.6})
+ has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
@@ -917,7 +917,7 @@ dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2020/texmf-di
 st/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2020/texmf-dist
 /fonts/type1/public/cm-super/sftt0900.pfb></usr/local/texlive/2020/texmf-dist/f
 onts/type1/public/cm-super/sftt1095.pfb>
-Output written on contagionSequences.pdf (39 pages, 1138661 bytes).
+Output written on contagionSequences.pdf (39 pages, 1138508 bytes).
 PDF statistics:
  774 PDF objects out of 1000 (max. 8388607)
  653 compressed objects within 7 object streams
