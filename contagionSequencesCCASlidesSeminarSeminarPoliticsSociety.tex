@@ -1,0 +1,498 @@
+\documentclass[8pt]{beamer}
+
+
+\mode<presentation>
+{
+
+  \usetheme{Szeged} %use default if problems
+  % or ... https://deic-web.uab.cat/~iblanes/beamer_gallery/index_by_theme.html
+}
+
+\usepackage{booktabs}
+\usepackage{color}
+
+\usepackage[english]{babel}
+% or whatever
+
+\usepackage[latin1]{inputenc}
+% or whatever
+
+\usepackage{times}
+\usepackage[T1]{fontenc}
+% Or whatever. Note that the encoding and the font should match. If T1
+% does not look nice, try deleting the line with the fontenc.
+\usepackage{nth}
+\usepackage{xcolor}
+
+
+\setbeamertemplate{caption}[numbered]
+
+
+\title[S.I.s.a.R. Epidemic Model] % (optional, use only with long paper titles)
+{How can ABM models become part of the policy-making process in times of emergencies - The S.I.s.a.R. Epidemic Model}
+
+\author[] % (optional, use only with lots of authors)
+{G.~Pescarmona\inst{1} \and P.~Terna\inst{2} \and A.~Acquadro\inst{1} \and P.~Pescarmona\inst{3} \and G.~Russo\inst{4}  
+\and S.~Terna\inst{5}  }
+% - Give the names in the same order as the appear in the paper.
+% - Use the \inst{?} command only if the authors have different
+%   affiliation.
+
+
+\institute[] % (optional, but mostly needed)
+{
+  \inst{1}%
+ University of Torino, Italy
+  \and
+  \inst{2}%
+  University of Torino, Italy, retired \& Fondazione Collegio Carlo Alberto, Honorary Fellow, Italy
+ \and
+  \inst{3}%
+  University of Groningen, The Netherlands  
+  \and
+  \inst{4}%
+  Centro Einaudi, Torino, Italy
+  \and
+  \inst{5}%
+ tomorrowdata.io
+  }
+% - Use the \inst command only if there are several affiliations.
+% - Keep it simple, no one is interested in your street address.
+
+
+\date[] % (optional, should be abbreviation of conference name)
+{Fondazione Collegio Carlo Alberto---Seminar in Politics and Society\\December 10, 2020}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+  \titlepage
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Outline}
+  \tableofcontents
+  % You might wish to add the option [pausesections]
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Introduction}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Objectives of the model}
+
+  \begin{itemize}
+  \item
+We propose an agent-based model to simulate the Covid-19 epidemic diffusion, with Susceptible, Infected, symptomatic, asymptomatic, and Recovered people: hence the name S.I.s.a.R. The scheme comes from S.I.R. models, with (i) infected agents categorized as symptomatic and asymptomatic and (ii) the places of contagion specified in a detailed way, thanks to agent-based modeling capabilities. 
+
+ \item
+The infection transmission is related to three factors: the infected person's characteristics and those of the susceptible one, plus those of the space in which contact occurs.
+
+ \item
+The model includes the structural data of Piedmont, an Italian region, but it can be readily calibrated for other areas. The model reproduces a realistic calendar (e.g., national or local government decisions), via its script interpreter.  
+
+\item NetLogo is at \url{https://ccl.northwestern.edu/netlogo/}.
+
+ \item
+ 
+S.I.s.a.R. is at \url{https://terna.to.it/simul/SIsaR.html} with information on model construction, the draft of a paper also reporting results, and an online executable version of the simulation program, built using NetLogo.
+
+ \item
+ The paper introduced here, at \url{https://rofasss.org/2020/10/20/sisar/}.
+
+ \end{itemize}
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{The scale and the items}
+
+\begin{itemize}
+
+\item $1:1000$.
+
+\bigskip
+
+\item Houses.
+\item Schools.
+\item Hospitals.
+\item Nursing homes,
+\item Factories.
+
+\end{itemize}
+
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{NetLogo model}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{A static view}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{The interface and the information sheet}
+
+\begin{figure}[H]
+\center
+\includegraphics[scale=0.26]{interfaceB.png}
+
+\caption{The interface} 
+\label{interface}
+\end{figure}
+
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{The interface and the information sheet}
+
+\begin{figure}[H]
+\center
+\includegraphics[scale=0.23]{info1b.png}~~~\includegraphics[scale=0.23]{info2b.png}
+
+\caption{The information sheet, about  20 pages} 
+\label{interface}
+\end{figure}
+
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{A live view}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{The interface}
+
+\bigskip
+A live look to the running model, also in a 3D view.
+
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Contagions}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{The proposed technique}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Contagion representation}
+
+  \begin{itemize}
+  \item
+The model allows analyzing the sequences of contagions in simulated epidemics, taking in account the places where they occur. 
+  \item
+We represent each infecting agent as a horizontal segment with a vertical connection to another agent receiving the infection. 
+We represent the second agent via a further segment at an upper layer. 
+
+  \item
+With colors, line thickness, and styles, we display multiple data. 
+
+  \item
+This enables understanding at a glance how an epidemic episode is developing. In this way, it is easier to reason about countermeasures and, thus, to develop intervention policies.
+
+  \end{itemize}
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{An introductory example}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{An example (1/2)}
+
+\begin{figure}[H]
+\center
+\includegraphics[width=0.9\textwidth]{with8b40.png}% with control case 473323 474697 in SIsaR_0.9.4.1 experiments 2 seeds with control-table_10000.csv, file withControl_473323_474697.csv
+\caption{A case with containment measures, first 40 infections: workplaces (brown) and nursing homes (orange) strictly interweaving}
+\label{workplacesNursingHomes}
+\end{figure}
+c
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{An example (2/2), more contagions}
+
+\begin{figure}[H]
+\center
+\includegraphics[width=0.9\textwidth]{with8a.png}% with control case 473323 474697 in SIsaR_0.9.4.1 experiments 2 seeds with control-table_10000.csv, file withControl_473323_474697.csv
+\caption{A Case with containment measures, the whole epidemics: workplaces (brown) and nursing homes (orange) and then houses (cyan), with a bridge connecting two waves}
+\label{workplacesNursingHomes}
+\end{figure}
+
+
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Other examples (i) on the left, an epidemic without containment measures; (ii) on the right, an epidemic with basic non-pharmaceutical containment measures}
+
+\begin{figure}[H]
+\center
+\includegraphics[scale=0.12]{no4b.png}~~~~~~~~~~~\includegraphics[scale=0.12]{with7b.png} 
+
+\center
+\includegraphics[scale=0.12]{no4a.png}~~~~~~~~~~~\includegraphics[scale=0.12]{with7a.png} \\
+\caption{Two cases with initial and full periods} 
+\label{twocases}
+\end{figure}
+
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{A significant sequence}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{}
+
+A contagion sequence suggesting policies: in Fig. \ref{fourSequences} we can look both at the places where contagions occur and at the dynamics emerging with different levels of intervention. 
+
+\begin{figure}[H]
+\center
+\includegraphics[scale=0.105]{withShort1.png}~~~~~~~~~~~\includegraphics[scale=0.105]{withShort1A.png} 
+
+\center
+\includegraphics[scale=0.105]{withShort1A200.png}~~~~~~~~~~~\includegraphics[scale=0.105]{withShort1B.png} \\
+\caption{(\emph{top left}) an epidemic with regular containment measures, showing a highly significant effect of workplaces (brown);
+ (\emph{top right}) the effects of stopping fragile workers at day 20, with a positive result, but home contagions (cyan) keep alive the pandemic, exploding again in workplaces (brown); (\emph{bottom left}) the same analyzing the first 200 infections with evidence of the event around day 110 with the new phase due to a unique asymptomatic worker, and (\emph{bottom right}) stopping fragile workers and any case of fragility at day 15, also isolating nursing homes} 
+\label{fourSequences}
+\end{figure}
+
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Batches}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Batches}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Batches}
+
+  \begin{itemize}
+  \item
+
+We explore systematically the introduction of factual, counterfactual, and prospective interventions to control the spread of the contagions. 
+
+  \item
+Each simulation run---whose length coincides with the disappearance of symptomatic or asymptomatic contagion cases---is a datum in a wide scenario of variability in time and effects.   
+  
+  \item
+  
+Consequently, we need to represent compactly the results  emerging from batches of simulation repetitions, to compare the  consequences of the basic assumptions adopted for each specific batch.
+
+ \item
+We used blocs of one thousand repetitions. Besides summarizing the results with the usual statistical indicators, we adopted the technique of the heat-maps.
+
+\end{itemize}
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Two heat-maps}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Two quite different heat-maps for the Piedmont region}
+
+In Fig. \ref{2HM} we have two heat-maps reporting the duration of each simulated epidemic in the $x$ axis and the number of the symptomatic, asymptomatic, and deceased agents in the $y$ axis. 1,000 runs in both cases.
+
+\begin{figure}[H]
+\center
+\includegraphics[scale=0.3]{HM30_readRunResults1k_noControl_plusHMlog.png}~~~\includegraphics[scale=0.3]{HM30_readRunResults1k_basicControl_schoolOpenSept_plusHMlog.png} 
+
+\caption{(\emph{on the left}) Epidemics without containment measures;
+ (\emph{on the right}) Epidemics with basic non-pharmaceutical containment measures, schools open in September 2020} 
+\label{2HM}
+\end{figure}
+
+
+\end{frame}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Policies}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Different Intervention: policies and results}
+
+\begin{table}[H]
+\center
+\footnotesize
+%\small
+\begin{tabular}{lrrrrr}
+\toprule
+Scenarios                              &  total sym.  & total sym.,       & days~~~~  \\
+{}                                           &                    & asympt., deceased   \\                               
+\midrule
+1.~no control                       &  {\color{red}851.12}~     &  {\color{red}2253.48}         &  340.10~  \\
+                                            &  (288.52)    &  (767.58)         &  (110.21) \\
+\midrule
+2.~basic controls, no           &   {\color{blue}158.55}~    &  {\color{blue}416.98}~         &  196.97~  \\
+ school in Sep 2020            &   (174.10)     &  (462.94)        &  (131.18) \\
+\midrule
+3.~basic controls, \emph{schools}   &   {\color{blue}153.71}~    &       {\color{blue}409.73}~       &  199.35~  \\
+ \emph{open} in Sep 2020                &  (168.55)   &     (454.12)        &  (129.00) \\
+\midrule
+4.~basic controls, \textbf{stop  fragile workers},   &   {\color{orange}120.17}~   &      {\color{orange}334.68}~         &  181.10~   \\
+ no  schools in Sep 2020                          &   (149.10)  &     (413.90)         &   (125.46) \\
+\midrule
+%5.~basic controls, nursing homes isol.,    &  150.53~     &     408.08~         &  201.76~   \\
+%no schools in Sep 2020                           &   (172.48)    &     (467.54)         &  (138.15) \\
+%\midrule
+%6.~basic controls, stop  fragile people,     &   154.15~    &     408.50~         &  195.81~  \\
+%no   schools in Sep 2020                          &   (170.22)    &      (456.08)        &  (129.52) \\
+%\midrule
+5.~basic controls, \textbf{stop f. workers \&  f. people \&}    & \textbf{{\color{orange}105.63}}~    &  \textbf{{\color{orange}302.62}}~      &  174.39~   \\
+\textbf{ n. h. isol}., no sch, Sep.                                              &   (134.80)   &     (382.14)          &  (121.82) \\
+ \midrule
+6.~b. controls, stop f. workers \&  f. people \& nur. h. isol.,  &  124.10~    &    397.05~           &  200.31~    \\
+\& \textbf{factories op.}, no sch. Sep.                                               &  (132.42)   &    (399.64)           &  (121.46) \\
+\midrule
+7.~b. controls, stop f. workers  \&  f. people \& nur. h. isol.,   &  116.55~   &    374.68~           &  195.28~    \\
+ \& \textbf{factories op., sch. open} Sep.                                            &  (130.91) &     (394.66)           &  (119.33) \\
+\bottomrule
+\end{tabular}
+\caption{Report of the key results, with mean and (std)}
+\label{keyResultsT}
+\end{table}
+
+
+
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{The second wave}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{After the paper}
+
+Until here the paper, now some considerations on the current situation and the second wave.
+
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Where we were}
+
+\begin{figure}[H]
+\center
+\includegraphics[scale=0.55]{WhereWeWere.png}
+
+\caption{$\rightarrow$ the cell of epidemics concluded in May (less than 120k symptomatic + asymptomatic)} 
+\label{WhereWeWere}
+\end{figure}
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Where we are}
+
+\begin{figure}[H]
+\center
+\includegraphics[scale=0.55]{WhereWeAre.png}
+
+\caption{$\rightarrow$ where (and when) the second wave will end?} 
+\label{WhereWeAre}
+\end{figure}
+
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Current data}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Raw data}
+
+Sources: \url{https://terna.to.it/datiProtezioneCivile.html}  based on \url{http://www.protezionecivile.gov.it} data, daily updated.
+
+\begin{figure}[H]
+\center
+\includegraphics[scale=0.26]{rawCurrent.png}
+
+\caption{Raw data introduces the cases of screening analysis, making tests} 
+\label{rawCurrent}
+\end{figure}
+
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Comparable current data}
+
+\begin{figure}[H]
+\center
+\includegraphics[scale=0.26]{comparableCurrent.png}
+
+\caption{Dashed lines (cumulative values and daily stocks) are corrected deducing the number of screening cases (as cumulative values or 14 days differences} 
+\label{comparableCurrent}
+\end{figure}
+
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{A new model}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{A new model: the map}
+
+\begin{figure}[H]
+\center
+\includegraphics[scale=0.25]{Piem1.png}~~~~~~~~~\includegraphics[scale=0.25]{Piem2.png} 
+
+\caption{3D Piedmont} 
+\label{Piem}
+\end{figure}
+
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{A new model: the scale and the items}
+
+\begin{itemize}
+
+\item $1:100$.
+
+\item \textit{Infection engine}, \url{https://terna.to.it/simul/InfectionEngine.pdf}.
+
+\item Houses.
+\item Schools.
+\item Hospitals.
+\item Nursing homes,
+\item Factories.
+\color{red}
+\item Transportations.
+\item Aggregation places: happy hours, night life, sport stadiums, discotheques, \ldots
+
+\end{itemize}
+
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{The tool: S.L.A.P.P.}
+
+Scientific advertising: \url{https://terna.github.io/SLAPP/}
+
+\begin{figure}[H]
+\center
+\includegraphics[scale=0.26]{SLAPP.png}
+
+\caption{Swarm-Like Agent Protocol in Python} 
+\label{SLAPP}
+\end{figure}
+
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Final remarks}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{A few considerations:}
+
+\begin{itemize}
+
+\item The S.I.s.a.R. model is a tool for comparative analyses, not forecasting (the enormous standard deviation values are intrinsic to the problem).
+
+\bigskip
+\item The model is highly parametric and more it will be.
+
+\bigskip
+\item New crisis calling for immediate simulation could take a substantial advantage from the parametric structure of the model.
+
+\end{itemize}
+
+ \bigskip
+ The slides are at \url{https://terna.to.it/PietroTerna20201210.pdf}.
+ 
+\end{frame}
+
+\end{document}
