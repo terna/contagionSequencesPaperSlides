@@ -23,6 +23,7 @@
 % does not look nice, try deleting the line with the fontenc.
 \usepackage{nth}
 \usepackage{xcolor}
+\usepackage{relsize} %large math 
 
 
 \setbeamertemplate{caption}[numbered]
@@ -295,7 +296,7 @@ In Fig. \ref{2HM} we have two heat-maps reporting the duration of each simulated
 \includegraphics[scale=0.3]{HM30_readRunResults1k_noControl_plusHMlog.png}~~~\includegraphics[scale=0.3]{HM30_readRunResults1k_basicControl_schoolOpenSept_plusHMlog.png} 
 
 \caption{(\emph{on the left}) Epidemics without containment measures;
- (\emph{on the right}) Epidemics with basic non-pharmaceutical containment measures, schools open in September 2020} 
+ (\emph{on the right}) Epidemics with basic non-pharmaceutical containment measures (adopted in Spring), schools open in September 2020} 
 \label{2HM}
 \end{figure}
 
@@ -308,7 +309,7 @@ In Fig. \ref{2HM} we have two heat-maps reporting the duration of each simulated
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}{Different Intervention: policies and results}
+\begin{frame}{Different Intervention: policies and results (Spring perspective)}
 
 \begin{table}[H]
 \center
@@ -371,7 +372,7 @@ Until here the paper, now some considerations on the current situation and the s
 \center
 \includegraphics[scale=0.55]{WhereWeWere.png}
 
-\caption{$\rightarrow$ the cell of epidemics concluded in May (less than 120k symptomatic + asymptomatic)} 
+\caption{{\larger[4]$\rightarrow$} where we were end of May/beginning of June} 
 \label{WhereWeWere}
 \end{figure}
 \end{frame}
@@ -381,10 +382,25 @@ Until here the paper, now some considerations on the current situation and the s
 
 \begin{figure}[H]
 \center
-\includegraphics[scale=0.55]{WhereWeAre.png}
+\includegraphics[scale=0.55]{WhereWeAreB.png}
 
-\caption{$\rightarrow$ where (and when) the second wave will end?} 
+\caption{{\larger[4]$\rightarrow$} where we are (middle of Dec)} 
 \label{WhereWeAre}
+\end{figure}
+
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{The effects of government measures}
+
+\begin{figure}[H]
+\center
+\includegraphics[scale=0.22]{cp3endA.png}~\includegraphics[scale=0.22]{cp3endB.png}~\includegraphics[scale=0.22]{cp3endC.png}
+
+\caption{(\emph{left}) Epidemics with basic non-pharmaceutical containment measures in Spring, without new containment measures in Oct, schools open in Sep 2020;
+ (\emph{center}) epidemics with basic non-pharmaceutical containment measures in Spring, and with new containment measures in Oct, schools partially open in Sep 2020;
+ (\emph{right}) epidemics with basic non-pharmaceutical containment measures in Spring, and with counterfactual containment measures in Oct (closing factories and having fragile people at home, schools partially open in Sep 2020;} 
+\label{gov}
 \end{figure}
 
 \end{frame}
@@ -399,7 +415,7 @@ Sources: \url{https://terna.to.it/datiProtezioneCivile.html}  based on \url{http
 
 \begin{figure}[H]
 \center
-\includegraphics[scale=0.26]{rawCurrent.png}
+\includegraphics[scale=0.26]{rawCurrent2.png}
 
 \caption{Raw data introduces the cases of screening analysis, making tests} 
 \label{rawCurrent}
@@ -412,9 +428,22 @@ Sources: \url{https://terna.to.it/datiProtezioneCivile.html}  based on \url{http
 
 \begin{figure}[H]
 \center
-\includegraphics[scale=0.26]{comparableCurrent.png}
+\includegraphics[scale=0.26]{comparableCurrent2.png}
 
 \caption{Dashed lines (cumulative values and daily stocks) are corrected deducing the number of screening cases (as cumulative values or 14 days differences} 
+\label{comparableCurrent}
+\end{figure}
+
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{First and second differrences}
+
+\begin{figure}[H]
+\center
+\includegraphics[scale=0.2]{d.png}~~~\includegraphics[scale=0.2]{dd.png}
+
+\caption{First and second differences; dashed lines (cumulative values and daily stocks) are corrected deducing the number of screening cases (as cumulative values or 14 days differences} 
 \label{comparableCurrent}
 \end{figure}
 
