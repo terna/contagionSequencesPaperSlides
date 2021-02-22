@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  22 FEB 2021 00:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  22 FEB 2021 09:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -966,7 +966,7 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 ] [5
 
 ]
-<interface2021.png, id=449, 2362.8275pt x 1126.2075pt>
+<interface2021.png, id=467, 2362.8275pt x 1126.2075pt>
 File: interface2021.png Graphic file (type png)
 <use interface2021.png>
 Package pdftex.def Info: interface2021.png  used on input line 156.
@@ -979,12 +979,12 @@ Overfull \hbox (23.50372pt too wide) in paragraph at lines 156--156
 [6
 
  <./interface2021.png>]
-<info1b.png, id=510, 620.3175pt x 657.45625pt>
+<info1b.png, id=531, 620.3175pt x 657.45625pt>
 File: info1b.png Graphic file (type png)
 <use info1b.png>
 Package pdftex.def Info: info1b.png  used on input line 169.
 (pdftex.def)             Requested size: 142.67001pt x 151.21175pt.
-<info2b.png, id=511, 610.28pt x 643.40375pt>
+<info2b.png, id=532, 610.28pt x 643.40375pt>
 File: info2b.png Graphic file (type png)
 <use info2b.png>
 Package pdftex.def Info: info2b.png  used on input line 169.
@@ -997,7 +997,7 @@ l.169 \end{frame}
                   [7
 
  <./info1b.png> <./info2b.png>]
-<world.png, id=573, 521.95pt x 523.9575pt>
+<world.png, id=595, 521.95pt x 523.9575pt>
 File: world.png Graphic file (type png)
 <use world.png>
 Package pdftex.def Info: world.png  used on input line 185.
@@ -1005,7 +1005,7 @@ Package pdftex.def Info: world.png  used on input line 185.
  [8
 
  <./world.png>]
-<world3D.png, id=634, 590.205pt x 351.3125pt>
+<world3D.png, id=658, 590.205pt x 351.3125pt>
 File: world3D.png Graphic file (type png)
 <use world3D.png>
 Package pdftex.def Info: world3D.png  used on input line 198.
@@ -1022,12 +1022,12 @@ Overfull \vbox (9.08598pt too high) detected at line 198
 [9
 
  <./world3D.png>]
-<person1.png, id=694, 342.27875pt x 829.0975pt>
+<person1.png, id=720, 342.27875pt x 829.0975pt>
 File: person1.png Graphic file (type png)
 <use person1.png>
 Package pdftex.def Info: person1.png  used on input line 211.
 (pdftex.def)             Requested size: 78.72244pt x 190.68842pt.
-<person2.png, id=695, 342.27875pt x 829.0975pt>
+<person2.png, id=721, 342.27875pt x 829.0975pt>
 File: person2.png Graphic file (type png)
 <use person2.png>
 Package pdftex.def Info: person2.png  used on input line 211.
@@ -1037,7 +1037,7 @@ Package pdftex.def Info: person2.png  used on input line 211.
  <./person1.png> <./person2.png>] [11
 
 ]
-<with8b40.png, id=814, 961.5925pt x 552.0625pt>
+<with8b40.png, id=845, 961.5925pt x 552.0625pt>
 File: with8b40.png Graphic file (type png)
 <use with8b40.png>
 Package pdftex.def Info: with8b40.png  used on input line 251.
@@ -1045,7 +1045,7 @@ Package pdftex.def Info: with8b40.png  used on input line 251.
  [12
 
  <./with8b40.png>]
-<with8a.png, id=875, 984.67876pt x 552.0625pt>
+<with8a.png, id=907, 984.67876pt x 552.0625pt>
 File: with8a.png Graphic file (type png)
 <use with8a.png>
 Package pdftex.def Info: with8a.png  used on input line 264.
@@ -1058,22 +1058,22 @@ l.264 \end{frame}
                   [13
 
  <./with8a.png>]
-<no4b.png, id=936, 972.63374pt x 552.0625pt>
+<no4b.png, id=970, 972.63374pt x 552.0625pt>
 File: no4b.png Graphic file (type png)
 <use no4b.png>
 Package pdftex.def Info: no4b.png  used on input line 279.
 (pdftex.def)             Requested size: 116.71101pt x 66.24463pt.
-<with7b.png, id=937, 972.63374pt x 552.0625pt>
+<with7b.png, id=971, 972.63374pt x 552.0625pt>
 File: with7b.png Graphic file (type png)
 <use with7b.png>
 Package pdftex.def Info: with7b.png  used on input line 279.
 (pdftex.def)             Requested size: 116.71101pt x 66.24463pt.
-<no4a.png, id=938, 982.67125pt x 552.0625pt>
+<no4a.png, id=972, 982.67125pt x 552.0625pt>
 File: no4a.png Graphic file (type png)
 <use no4a.png>
 Package pdftex.def Info: no4a.png  used on input line 279.
 (pdftex.def)             Requested size: 117.91545pt x 66.24463pt.
-<with7a.png, id=939, 982.67125pt x 552.0625pt>
+<with7a.png, id=973, 982.67125pt x 552.0625pt>
 File: with7a.png Graphic file (type png)
 <use with7a.png>
 Package pdftex.def Info: with7a.png  used on input line 279.
@@ -1081,22 +1081,22 @@ Package pdftex.def Info: with7a.png  used on input line 279.
  [14
 
  <./no4b.png> <./with7b.png> <./no4a.png> <./with7a.png>]
-<withShort1.png, id=1003, 986.68625pt x 552.0625pt>
+<withShort1.png, id=1039, 986.68625pt x 552.0625pt>
 File: withShort1.png Graphic file (type png)
 <use withShort1.png>
 Package pdftex.def Info: withShort1.png  used on input line 300.
 (pdftex.def)             Requested size: 103.59758pt x 57.96405pt.
-<withShort1A.png, id=1004, 972.63374pt x 552.0625pt>
+<withShort1A.png, id=1040, 972.63374pt x 552.0625pt>
 File: withShort1A.png Graphic file (type png)
 <use withShort1A.png>
 Package pdftex.def Info: withShort1A.png  used on input line 300.
 (pdftex.def)             Requested size: 102.12213pt x 57.96405pt.
-<withShort1A200.png, id=1005, 972.63374pt x 552.0625pt>
+<withShort1A200.png, id=1041, 972.63374pt x 552.0625pt>
 File: withShort1A200.png Graphic file (type png)
 <use withShort1A200.png>
 Package pdftex.def Info: withShort1A200.png  used on input line 300.
 (pdftex.def)             Requested size: 102.12213pt x 57.96405pt.
-<withShort1B.png, id=1006, 977.6525pt x 552.0625pt>
+<withShort1B.png, id=1042, 977.6525pt x 552.0625pt>
 File: withShort1B.png Graphic file (type png)
 <use withShort1B.png>
 Package pdftex.def Info: withShort1B.png  used on input line 300.
@@ -1109,7 +1109,7 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7> not available
 ng>] [16
 
 ]
-<10kNoControl.png, id=1127, 1069.9975pt x 633.36626pt>
+<10kNoControl.png, id=1168, 1069.9975pt x 633.36626pt>
 File: 10kNoControl.png Graphic file (type png)
 <use 10kNoControl.png>
 Package pdftex.def Info: 10kNoControl.png  used on input line 367.
@@ -1117,7 +1117,7 @@ Package pdftex.def Info: 10kNoControl.png  used on input line 367.
  [17
 
  <./10kNoControl.png>]
-<10kBasicC.png, id=1189, 1069.9975pt x 633.36626pt>
+<10kBasicC.png, id=1231, 1069.9975pt x 633.36626pt>
 File: 10kBasicC.png Graphic file (type png)
 <use 10kBasicC.png>
 Package pdftex.def Info: 10kBasicC.png  used on input line 400.
@@ -1125,7 +1125,7 @@ Package pdftex.def Info: 10kBasicC.png  used on input line 400.
  [18
 
  <./10kBasicC.png>]
-<andamento900annotato.jpg, id=1251, 1043.9pt x 642.4pt>
+<andamento900annotato.jpg, id=1295, 1043.9pt x 642.4pt>
 File: andamento900annotato.jpg Graphic file (type jpg)
 <use andamento900annotato.jpg>
 Package pdftex.def Info: andamento900annotato.jpg  used on input line 417.
@@ -1133,7 +1133,7 @@ Package pdftex.def Info: andamento900annotato.jpg  used on input line 417.
  [19
 
  <./andamento900annotato.jpg>]
-<10kSpontWave2.png, id=1311, 1084.05pt x 633.36626pt>
+<10kSpontWave2.png, id=1358, 1084.05pt x 633.36626pt>
 File: 10kSpontWave2.png Graphic file (type png)
 <use 10kSpontWave2.png>
 Package pdftex.def Info: 10kSpontWave2.png  used on input line 459.
@@ -1141,7 +1141,7 @@ Package pdftex.def Info: 10kSpontWave2.png  used on input line 459.
  [20
 
  <./10kSpontWave2.png>]
-<10kForceWave2.png, id=1374, 1069.9975pt x 633.36626pt>
+<10kForceWave2.png, id=1422, 1069.9975pt x 633.36626pt>
 File: 10kForceWave2.png Graphic file (type png)
 <use 10kForceWave2.png>
 Package pdftex.def Info: 10kForceWave2.png  used on input line 496.
@@ -1149,7 +1149,7 @@ Package pdftex.def Info: 10kForceWave2.png  used on input line 496.
  [21
 
  <./10kForceWave2.png>]
-<10kForceWave2Contr2.png, id=1435, 1069.9975pt x 633.36626pt>
+<10kForceWave2Contr2.png, id=1486, 1069.9975pt x 633.36626pt>
 File: 10kForceWave2Contr2.png Graphic file (type png)
 <use 10kForceWave2Contr2.png>
 Package pdftex.def Info: 10kForceWave2Contr2.png  used on input line 534.
@@ -1157,7 +1157,7 @@ Package pdftex.def Info: 10kForceWave2Contr2.png  used on input line 534.
  [22
 
  <./10kForceWave2Contr2.png>]
-<10kForceWave2NoFrag.png, id=1497, 1069.9975pt x 633.36626pt>
+<10kForceWave2NoFrag.png, id=1549, 1069.9975pt x 633.36626pt>
 File: 10kForceWave2NoFrag.png Graphic file (type png)
 <use 10kForceWave2NoFrag.png>
 Package pdftex.def Info: 10kForceWave2NoFrag.png  used on input line 571.
@@ -1167,39 +1167,42 @@ Package pdftex.def Info: 10kForceWave2NoFrag.png  used on input line 571.
  <./10kForceWave2NoFrag.png>]
 [24
 
+] [25
+
 ]
-<Piem1.png, id=1617, 488.82625pt x 474.77374pt>
+<Piem1.png, id=1734, 488.82625pt x 474.77374pt>
 File: Piem1.png Graphic file (type png)
 <use Piem1.png>
-Package pdftex.def Info: Piem1.png  used on input line 638.
+Package pdftex.def Info: Piem1.png  used on input line 649.
 (pdftex.def)             Requested size: 122.20625pt x 118.69315pt.
-<Piem2.png, id=1618, 668.4975pt x 582.175pt>
+<Piem2.png, id=1735, 668.4975pt x 582.175pt>
 File: Piem2.png Graphic file (type png)
 <use Piem2.png>
-Package pdftex.def Info: Piem2.png  used on input line 638.
+Package pdftex.def Info: Piem2.png  used on input line 649.
 (pdftex.def)             Requested size: 167.12396pt x 145.5434pt.
- [25
+ [26
 
- <./Piem1.png> <./Piem2.png>] [26
+ <./Piem1.png> <./Piem2.png>] [27
 
 ]
-<SLAPP.png, id=1740, 973.6375pt x 597.23125pt>
+<SLAPP.png, id=1860, 973.6375pt x 597.23125pt>
 File: SLAPP.png Graphic file (type png)
 <use SLAPP.png>
-Package pdftex.def Info: SLAPP.png  used on input line 675.
+Package pdftex.def Info: SLAPP.png  used on input line 686.
 (pdftex.def)             Requested size: 253.13977pt x 155.27646pt.
- [27
+ [28
 
- <./SLAPP.png>] [28
+ <./SLAPP.png>] [29
 
 ]
-<mappaEpidemieNelleNuvole.jpeg, id=1861, 2500.34125pt x 1875.005pt>
+<mappaEpidemieNelleNuvole.jpeg, id=1986, 2500.34125pt x 1875.005pt>
 File: mappaEpidemieNelleNuvole.jpeg Graphic file (type jpg)
 <use mappaEpidemieNelleNuvole.jpeg>
-Package pdftex.def Info: mappaEpidemieNelleNuvole.jpeg  used on input line 720.
+Package pdftex.def Info: mappaEpidemieNelleNuvole.jpeg  used on input line 731.
 
 (pdftex.def)             Requested size: 225.021pt x 168.74316pt.
- [29
+
+[30
 
  <./mappaEpidemieNelleNuvole.jpeg>]
 \tf@nav=\write6
@@ -1211,24 +1214,25 @@ Package pdftex.def Info: mappaEpidemieNelleNuvole.jpeg  used on input line 720.
 \tf@snm=\write8
 \openout8 = `contagionSequences&heatMapsIRES_slides.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 722.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 722.
- (./contagionSequences&heatMapsIRES_slides.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 722.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 722.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 733.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 733.
+
+(./contagionSequences&heatMapsIRES_slides.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 733.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 733.
 Package rerunfilecheck Info: File `contagionSequences&heatMapsIRES_slides.out' 
 has not changed.
-(rerunfilecheck)             Checksum: 8576BE34650181994C21D20C0604862C;890.
+(rerunfilecheck)             Checksum: 6666B5D0FBB37E86E3CDB30F8432BD51;952.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 19303 strings out of 480608
- 363595 string characters out of 5903631
- 654451 words of memory out of 5000000
- 34574 multiletter control sequences out of 15000+600000
+ 19312 strings out of 480608
+ 363681 string characters out of 5903631
+ 655705 words of memory out of 5000000
+ 34580 multiletter control sequences out of 15000+600000
  568579 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,19n,67p,805b,783s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1239,11 +1243,11 @@ ve/2020/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2020/
 texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2020/texmf-d
 ist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2020/texmf-dist/fon
 ts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on contagionSequences&heatMapsIRES_slides.pdf (29 pages, 3074799
+Output written on contagionSequences&heatMapsIRES_slides.pdf (30 pages, 3081164
  bytes).
 PDF statistics:
- 1967 PDF objects out of 2073 (max. 8388607)
- 1817 compressed objects within 19 object streams
- 97 named destinations out of 1000 (max. 500000)
- 309 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2093 PDF objects out of 2487 (max. 8388607)
+ 1939 compressed objects within 20 object streams
+ 100 named destinations out of 1000 (max. 500000)
+ 317 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -12,5 +12,6 @@
 \beamer@subsectionintoc {4}{2}{Epidemics without and with control}{17}{0}{4}
 \beamer@subsectionintoc {4}{3}{Actual data}{19}{0}{4}
 \beamer@subsectionintoc {4}{4}{Second wave}{20}{0}{4}
-\beamer@sectionintoc {5}{A new model}{25}{0}{5}
-\beamer@sectionintoc {6}{Final remarks}{28}{0}{6}
+\beamer@sectionintoc {5}{New use cases of the model}{25}{0}{5}
+\beamer@sectionintoc {6}{A new model}{26}{0}{6}
+\beamer@sectionintoc {7}{Final remarks}{29}{0}{7}
