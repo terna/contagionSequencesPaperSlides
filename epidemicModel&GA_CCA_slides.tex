@@ -3,8 +3,7 @@
 
 \mode<presentation>
 {
-
-  \usetheme{Singapore} %use default if problems or Szeged
+\usetheme{Singapore} %use default if problems or Szeged
   % or ... https://deic-web.uab.cat/~iblanes/beamer_gallery/index_by_theme.html
 }
 \setbeamertemplate{footline}[frame number]
@@ -21,18 +20,18 @@
 \usepackage[T1]{fontenc}
 % Or whatever. Note that the encoding and the font should match. If T1
 % does not look nice, try deleting the line with the fontenc.
-\usepackage{nth}
+\usepackage[super]{nth}
 \usepackage{xcolor}
 \usepackage{relsize} %large math 
 
+\usepackage{graphicx} % to insert the logo
 
-
+\usepackage[font=scriptsize,skip=0pt]{caption}
 
 \setbeamertemplate{caption}[numbered]
 
-
 \title[S.I.s.a.R. Model] % (optional, use only with long paper titles)
-{Un modello Agent-Based per studiare la diffusione del virus SARS-CoV-2}
+{An Agent-Based Model to simulate the Covid-19 epidemic diffusion, with the use of Genetic Algorithms to optimize vaccinations}
 
 \author[] % (optional, use only with lots of authors)
 {G.~Pescarmona\inst{1} \and P.~Terna\inst{2} \and A.~Acquadro\inst{1} \and P.~Pescarmona\inst{3} \and G.~Russo\inst{4}  
@@ -64,12 +63,15 @@
 
 
 \date[] % (optional, should be abbreviation of conference name)
-{IRES Piemonte -- 23 Febbraio 2021}
+{CCA -- March \nth{29}, 2021}
 
 \begin{document}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
+
+\includegraphics[width=0.18\textwidth]{logo_unito.png}~~~\includegraphics[width=0.15\textwidth]{CCA_Logo.png}
+
   \titlepage
 \end{frame}
 
@@ -422,22 +424,34 @@ std   &       368.49 &                  916.41 &    213.48 \\
 \subsection{Second wave}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}{Selecting realistic spontaneous second waves}
+\begin{frame}{Spontaneous second waves, without specific measures}
 
 % selectResults10kStableSeedsCPoints_basicControlB_schoolOpenSeptChangingWorld_plusHMlog
 
+{\tiny
+170 epidemics out of 10,000 stable in Summer 2020, with: at Jun. 1, 20 select sym. (10, 70] actual v. 33.3 \& at Sep .20, 20 select sym. (20, 90] actual value 37.5. \textbf{140} residual epidemics at 12.15.20 (actual symptomatic +  asymptomatic people: 200.0).}
+
+\begin{figure}[H]
+\center
+\includegraphics[scale=0.17]{10kSpontWave2.png}
+\caption{First wave with non-pharmaceutical containment measures, spontaneous second wave, without specific measures}
+\label{selSpontWave2}
+\end{figure}
+
+%\vspace{-0.4cm}
 
 \begin{table}[H]
 \center
 \tiny
-
-\begin{tabular}{lrrr}
+\begin{tabular}{p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}}
 \toprule
-{} &  symptomatic Dec20 &  totalInfected\&Deceased Dec20 &  duration \\
+(1000) &  Jun~1~20 & &  Sep~9~20 & & Dec~15~20 & & Overall  & & days \\
+{} &  sym. &  all &  sympt. &  totalInf. &  sympt. &  totalInf. &  sympt. &  totalInf. \\
+%{} &  & \& deceas. &             & \& deceas. &             & \& deceas. &             & \& deceas. \\
 \midrule
-count &   140.00 &                     140.00 & 170.00 \\
-mean  &   605.79 &                    1528.31 & 535.19 \\
-std   &   264.29 &                     644.34 & 167.42 \\
+count &   170.00 &                     170.00 &   170.00 &                     170.00 &   140.00 &                     140.00 &              170.00 &                  170.00 & 170.00 \\
+mean  &    37.92 &                     100.22 &    60.36 &                     159.29 &   \textbf{605.79} &                    \textbf{1528.31} &              \textbf{587.27} &                 \textbf{1475.56} & 535.19 \\
+std   &    16.39 &                      60.98 &    19.62 &                      71.72 &   264.29 &                     644.34 &              332.92 &                  819.17 & 167.42 \\
 \bottomrule
 \end{tabular}
 
@@ -445,21 +459,11 @@ std   &   264.29 &                     644.34 & 167.42 \\
 %\caption{a caption}
 \end{table}
 
-{\tiny
-170 epidemics out of 10,000 stable in Summer 2020, with: at 6.1.20 select sym. (10, 70] actual v. 33.3 \& at 9.20.20 select sym. (20, 90] actual value 37.5. \textbf{140} residual epidemics at 12.15.20 (actual symptomatic +  asymptomatic people: 200.0).}
-
-
-\begin{figure}[H]
-\center
-\includegraphics[scale=0.19]{10kSpontWave2.png}
-\caption{First wave with non-pharmaceutical containment measures, spontaneous second wave, without specific measures} 
-\label{selSpontWave2}
-\end{figure}
 
 \end{frame}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}{Selecting realistic second waves, with new infections from outside}
+\begin{frame}{Realistic second waves, with new infections from outside}
 
 % selectResults10kStableSeedsCPoints_basicControlB_schoolOpenSeptChangingWorldNewStart_plusHMlog
 
@@ -529,6 +533,80 @@ std   &   138.52 &                     372.63 &  137.51 \\
 \includegraphics[scale=0.19]{10kForceWave2Contr2.png}
 \caption{First wave with non-pharmaceutical containment measures, forcing the second wave, \textbf{with new specific non-pharmaceutical containment measures}} 
 \label{selForceWave2Contr2}
+\end{figure}
+
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Selecting realistic second waves, with new infections from outside}
+
+% selectResults10kStableSeedsCPoints_basicControlB_schoolOpenSeptOctControlChangingWorldNewStart_plusHMlog
+
+
+\begin{table}[H]
+\center
+\tiny
+
+\begin{tabular}{lrrr}
+\toprule
+{} &  symptomatic Dec20 &  totalInfected\&Deceased Dec20 &  duration \\
+\midrule
+count &   874.00 &                     874.00 & 1407.00 \\
+mean  &   129.99 &                     340.57 &  409.56 \\
+std   &    83.91 &                     232.59 &  146.04 \\
+\bottomrule
+\end{tabular}
+
+\label{selSpontWave2Contr2Tab}
+%\caption{a caption}
+\end{table}
+
+{\tiny
+1,407 epidemics out of 10,000  stable in Summer 2020, with: at 6.1.20 select sym. (10, 70] actual v. 33.3 \& at 9.20.20 select sym. (20, 90] actual value 37.5. \textbf{874} residual epidemics at 12.15.20 (actual symptomatic +  asymptomatic people: 200.0).}
+
+
+\begin{figure}[H]
+\center
+\includegraphics[scale=0.19]{10kForceWave2Contr2M.png}
+\caption{First wave with non-pharmaceutical containment measures, forcing the second wave, \textbf{with new specific non-pharmaceutical containment measures, March update}} 
+\label{selForceWave2Contr2M}
+\end{figure}
+
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Selecting realistic second waves, with new infections from outside}
+
+% selectResults10kStableSeedsCPoints_basicControlB_schoolOpenSeptOctControlChangingWorldNewStart_plusHMlog
+
+
+\begin{table}[H]
+\center
+\tiny
+
+\begin{tabular}{lrrr}
+\toprule
+{} &  symptomatic Dec20 &  totalInfected\&Deceased Dec20 &  duration \\
+\midrule
+count &   770.00 &                     770.00 & 1407.00 \\
+mean  &   108.95 &                     289.36 &  391.58 \\
+std   &    63.07 &                     181.02 &  145.51 \\
+\bottomrule
+\end{tabular}
+
+\label{selSpontWave2Contr2Tab}
+%\caption{a caption}
+\end{table}
+
+{\tiny
+1,407 epidemics out of 10,000  stable in Summer 2020, with: at 6.1.20 select sym. (10, 70] actual v. 33.3 \& at 9.20.20 select sym. (20, 90] actual value 37.5. \textbf{770} residual epidemics at 12.15.20 (actual symptomatic +  asymptomatic people: 200.0).}
+
+
+\begin{figure}[H]
+\center
+\includegraphics[scale=0.19]{10kForceWave2Contr2M-20.png}
+\caption{First wave with non-pharmaceutical containment measures, forcing the second wave, \textbf{with new specific non-pharmaceutical cont. measures, March update, 20 day anticipation}} 
+\label{selForceWave2Contr2M-20}
 \end{figure}
 
 \end{frame}
