@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  20 MAR 2021 00:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  21 MAR 2021 19:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1189,18 +1189,28 @@ Overfull \hbox (5.91393pt too wide) in paragraph at lines 463--463
  []
 
 
-Overfull \hbox (9.88393pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 Jun 1 20| 
+Overfull \hbox (11.27386pt too wide) in paragraph at lines 463--463
+[]\T1/phv/m/n/5 Jun 1, 20| 
  []
 
 
-Overfull \hbox (10.81886pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 Sep 9 20| 
+Overfull \hbox (12.2088pt too wide) in paragraph at lines 463--463
+[]\T1/phv/m/n/5 Sep 9, 20| 
  []
 
 
-Overfull \hbox (13.59389pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 Dec 15 20| 
+Overfull \hbox (14.98383pt too wide) in paragraph at lines 463--463
+[]\T1/phv/m/n/5 Dec 15, 20| 
+ []
+
+
+Overfull \hbox (11.77885pt too wide) in paragraph at lines 463--463
+[]\T1/phv/m/n/5 Feb 1, 21| 
+ []
+
+
+Overfull \hbox (12.60887pt too wide) in paragraph at lines 463--463
+[]\T1/phv/m/n/5 May 1, 21| 
  []
 
 
@@ -1209,13 +1219,33 @@ Overfull \hbox (7.12392pt too wide) in paragraph at lines 463--463
  []
 
 
-Overfull \hbox (1.87405pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 days| 
+Overfull \hbox (2.70407pt too wide) in paragraph at lines 463--463
+[]\T1/phv/m/n/5 Days| 
  []
 
 
 Overfull \hbox (2.01901pt too wide) in paragraph at lines 463--463
 []\T1/phv/m/n/5 sym.| 
+ []
+
+
+Overfull \hbox (6.18892pt too wide) in paragraph at lines 463--463
+[]\T1/phv/m/n/5 sympt.| 
+ []
+
+
+Overfull \hbox (7.7137pt too wide) in paragraph at lines 463--463
+[]\T1/phv/m/n/5 totalInf.| 
+ []
+
+
+Overfull \hbox (6.18892pt too wide) in paragraph at lines 463--463
+[]\T1/phv/m/n/5 sympt.| 
+ []
+
+
+Overfull \hbox (7.7137pt too wide) in paragraph at lines 463--463
+[]\T1/phv/m/n/5 totalInf.| 
  []
 
 
@@ -1255,22 +1285,12 @@ Overfull \hbox (3.69394pt too wide) in paragraph at lines 463--463
 
 
 Overfull \hbox (6.75388pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 170.00| 
+[]\T1/phv/m/n/5 140.00| 
  []
 
 
 Overfull \hbox (6.75388pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 170.00| 
- []
-
-
-Overfull \hbox (6.75388pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 170.00| 
- []
-
-
-Overfull \hbox (6.75388pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 170.00| 
+[]\T1/phv/m/n/5 140.00| 
  []
 
 
@@ -1285,17 +1305,47 @@ Overfull \hbox (6.75388pt too wide) in paragraph at lines 463--463
 
 
 Overfull \hbox (6.75388pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 170.00| 
+[]\T1/phv/m/n/5 140.00| 
  []
 
 
 Overfull \hbox (6.75388pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 170.00| 
+[]\T1/phv/m/n/5 140.00| 
  []
 
 
 Overfull \hbox (6.75388pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 170.00| 
+[]\T1/phv/m/n/5 131.00| 
+ []
+
+
+Overfull \hbox (6.75388pt too wide) in paragraph at lines 463--463
+[]\T1/phv/m/n/5 131.00| 
+ []
+
+
+Overfull \hbox (6.75388pt too wide) in paragraph at lines 463--463
+[]\T1/phv/m/n/5 128.00| 
+ []
+
+
+Overfull \hbox (6.75388pt too wide) in paragraph at lines 463--463
+[]\T1/phv/m/n/5 128.00| 
+ []
+
+
+Overfull \hbox (6.75388pt too wide) in paragraph at lines 463--463
+[]\T1/phv/m/n/5 140.00| 
+ []
+
+
+Overfull \hbox (6.75388pt too wide) in paragraph at lines 463--463
+[]\T1/phv/m/n/5 140.00| 
+ []
+
+
+Overfull \hbox (6.75388pt too wide) in paragraph at lines 463--463
+[]\T1/phv/m/n/5 140.00| 
  []
 
 
@@ -1305,92 +1355,132 @@ Overfull \hbox (3.96898pt too wide) in paragraph at lines 463--463
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 37.92| 
- []
-
-
-Overfull \hbox (6.75388pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 100.22| 
+[]\T1/phv/m/n/5 37.39| 
  []
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 60.36| 
+[]\T1/phv/m/n/5 95.84| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 463--463
+[]\T1/phv/m/n/5 61.58| 
  []
 
 
 Overfull \hbox (6.75388pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 159.29| 
+[]\T1/phv/m/n/5 160.24| 
  []
 
 
 Overfull \hbox (6.75388pt too wide) in paragraph at lines 463--463
-[]\T1/phv/b/n/5 605.79| 
+[]\T1/phv/b/n/5 248.42| 
+ []
+
+
+Overfull \hbox (6.75388pt too wide) in paragraph at lines 463--463
+[]\T1/phv/b/n/5 648.68| 
+ []
+
+
+Overfull \hbox (6.75388pt too wide) in paragraph at lines 463--463
+[]\T1/phv/b/n/5 432.21| 
  []
 
 
 Overfull \hbox (9.53384pt too wide) in paragraph at lines 463--463
-[]\T1/phv/b/n/5 1528.31| 
+[]\T1/phv/b/n/5 1109.47| 
  []
 
 
 Overfull \hbox (6.75388pt too wide) in paragraph at lines 463--463
-[]\T1/phv/b/n/5 587.27| 
+[]\T1/phv/b/n/5 656.30| 
  []
 
 
 Overfull \hbox (9.53384pt too wide) in paragraph at lines 463--463
-[]\T1/phv/b/n/5 1475.56| 
+[]\T1/phv/b/n/5 1655.49| 
  []
 
 
 Overfull \hbox (6.75388pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 535.19| 
+[]\T1/phv/m/n/5 701.11| 
+ []
+
+
+Overfull \hbox (9.53384pt too wide) in paragraph at lines 463--463
+[]\T1/phv/m/n/5 1757.92| 
+ []
+
+
+Overfull \hbox (6.75388pt too wide) in paragraph at lines 463--463
+[]\T1/phv/m/n/5 594.16| 
  []
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 16.39| 
+[]\T1/phv/m/n/5 16.43| 
  []
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 60.98| 
+[]\T1/phv/m/n/5 59.29| 
  []
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 19.62| 
+[]\T1/phv/m/n/5 19.26| 
  []
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 71.72| 
+[]\T1/phv/m/n/5 71.28| 
  []
 
 
 Overfull \hbox (6.75388pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 264.29| 
+[]\T1/phv/m/n/5 167.35| 
  []
 
 
 Overfull \hbox (6.75388pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 644.34| 
+[]\T1/phv/m/n/5 424.31| 
  []
 
 
 Overfull \hbox (6.75388pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 332.92| 
+[]\T1/phv/m/n/5 220.39| 
  []
 
 
 Overfull \hbox (6.75388pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 819.17| 
+[]\T1/phv/m/n/5 538.44| 
  []
 
 
 Overfull \hbox (6.75388pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 167.42| 
+[]\T1/phv/m/n/5 215.37| 
+ []
+
+
+Overfull \hbox (6.75388pt too wide) in paragraph at lines 463--463
+[]\T1/phv/m/n/5 513.28| 
+ []
+
+
+Overfull \hbox (6.75388pt too wide) in paragraph at lines 463--463
+[]\T1/phv/m/n/5 246.37| 
+ []
+
+
+Overfull \hbox (6.75388pt too wide) in paragraph at lines 463--463
+[]\T1/phv/m/n/5 599.66| 
+ []
+
+
+Overfull \hbox (6.75388pt too wide) in paragraph at lines 463--463
+[]\T1/phv/m/n/5 118.86| 
  []
 
 [20
@@ -1523,7 +1613,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  20470 strings out of 480608
  385105 string characters out of 5903631
- 674192 words of memory out of 5000000
+ 677821 words of memory out of 5000000
  35719 multiletter control sequences out of 15000+600000
  563890 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1535,7 +1625,7 @@ ve/2020/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2020/
 texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2020/texmf-d
 ist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2020/texmf-dist/fon
 ts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on epidemicModel&GA_CCA_slides.pdf (32 pages, 3387576 bytes).
+Output written on epidemicModel&GA_CCA_slides.pdf (32 pages, 3387325 bytes).
 PDF statistics:
  2294 PDF objects out of 2487 (max. 8388607)
  2125 compressed objects within 22 object streams
