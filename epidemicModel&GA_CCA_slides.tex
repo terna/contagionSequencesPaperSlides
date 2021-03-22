@@ -423,10 +423,10 @@ std   &       368.49 &                  916.41 &    213.48 \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{Second wave}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}{Spontaneous second waves, without specific measures}
+%1%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Spontaneous second wave, without specific measures}
 
-% selectResults10kStableSeedsCPoints_basicControlB_schoolOpenSeptChangingWorld_plusHMlog
+% selectResults10kStableSeedsCPoints_basicControlB_schoolOpenSeptChangingWorld_plusHMlog,ipynb
 % using 10kCtrl1.csv from SIsaR_0.9.5.4.1trials10kCtrl1.nlogo
 
 \textbf{140} {\tiny epidemics stable in Summer 2020 out of 10,000, rule: at Jun~1,~20 select if sym. (10, 70], actual v. 33.3 \& at Sep~20,~20 select if sym. (20, 90], actual value 37.5 \& at Dec~15,~20 sym.+asym.>Sep~20,~20, actual value: 200.0.}
@@ -443,15 +443,15 @@ std   &       368.49 &                  916.41 &    213.48 \\
 \begin{table}[H]
 \center
 \tiny
-\begin{tabular}{p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}}
+\begin{tabular}{p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.4cm}}
 \toprule
 (1000) &  Jun~1,~20 & &  Sep~9,~20 & & Dec~15,~20 & & Feb~1,~21 & & May~1,~21 & & Overall  & & Days \\
 {} &  sym. &  all &  sympt. &  totalInf. &  sympt. &  totalInf. &  sympt. &  totalInf. &  sympt. &  totalInf. &  sympt. &  totalInf.  & \\
 %{} &  & \& deceas. &             & \& deceas. &             & \& deceas. &             & \& deceas. \\
 \midrule
-count &   140.00 &                     140.00 &   140.00 &                     140.00 &   140.00 &                     140.00 &   131.00 &                     131.00 &   128.00 &                     128.00 &              140.00 &                  140.00 & 140.00 \\
-mean  &    37.39 &                      95.84 &    61.58 &                     160.24 &   \textbf{248.42} &                     \textbf{648.68} &   \textbf{432.21 }&                    \textbf{1109.47} &   \textbf{656.30} &                    \textbf{1655.49} &              701.11 &                 1757.92 & 594.16 \\
-std   &    16.43 &                      59.29 &    19.26 &                      71.28 &   167.35 &                     424.31 &   220.39 &                     538.44 &   215.37 &                     513.28 &              246.37 &                  599.66 & 118.86 \\
+count &    140.0 &                      140.0 &    140.0 &                      140.0 &    140.0 &                      140.0 &    131.0 &                      131.0 &    128.0 &                      128.0 &               140.0 &                   140.0 &  140.0 \\
+mean  &     37.4 &                       95.8 &     61.6 &                      160.2 &    \textbf{248.4} &                      \textbf{648.7} &    \textbf{432.2} &                     \textbf{1109.5} &    \textbf{656.3} &                     \textbf{1655.5} &               701.1 &                  1757.9 &  594.2 \\
+std   &     16.4 &                       59.3 &     19.3 &                       71.3 &    167.4 &                      424.3 &    220.4 &                      538.4 &    215.4 &                      513.3 &               246.4 &                   599.7 &  118.9 \\
 \bottomrule
 \end{tabular}
 
@@ -462,23 +462,35 @@ std   &    16.43 &                      59.29 &    19.26 &                      
 
 \end{frame}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}{Realistic second waves, with new infections from outside}
+%2%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Second w., new infections from outside, without specific measures}
 
-% selectResults10kStableSeedsCPoints_basicControlB_schoolOpenSeptChangingWorldNewStart_plusHMlog
+% selectResults10kStableSeedsCPoints_basicControlB_schoolOpenSeptChangingWorldNewStart_plusHMlog.ipynb
+% using 10kCtrl1NStart.csv from SIsaR_0.9.5.4.1trials10kCtrl1NStart.nlogo
 
+\textbf{1044} {\tiny epidemics stable in Summer 2020 out of 10,000, rule: at Jun~1,~20 select if sym. (10, 70], actual v. 33.3 \& at Sep~20,~20 select if sym. (20, 90], actual value 37.5 \& at Dec~15,~20 sym.+asym.>Sep~20,~20, actual value: 200.0.}
+
+\begin{figure}[H]
+\center
+\includegraphics[scale=0.17]{10kForceWave2.png}
+\caption{First wave with non-pharmaceutical containment measures, forcing the second wave, without specific measures}
+\label{selForceWave2}
+\end{figure}
+
+%\vspace{-0.4cm}
 
 \begin{table}[H]
 \center
 \tiny
-
-\begin{tabular}{lrrr}
+\begin{tabular}{p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.4cm}}
 \toprule
-{} &  symptomatic Dec20 &  totalInfected\&Deceased Dec20 &  duration \\
+(1000) &  Jun~1,~20 & &  Sep~9,~20 & & Dec~15,~20 & & Feb~1,~21 & & May~1,~21 & & Overall  & & Days  \\
+{} &  sym. &  all &  sympt. &  totalInf. &  sympt. &  totalInf. &  sympt. &  totalInf. &  sympt. &  totalInf. &  sympt. &  totalInf.  & \\
+%{} &  & \& deceas. &             & \& deceas. &             & \& deceas. &             & \& deceas. \\
 \midrule
-count &  1044.00 &                    1044.00 & 1407.00 \\
-mean  &   588.67 &                    1474.10 &  527.85 \\
-std   &   251.96 &                     618.87 &  184.76 \\
+count &   1044.0 &                     1044.0 &   1044.0 &                     1044.0 &   1044.0 &                     1044.0 &   1005.0 &                     1005.0 &    980.0 &                      980.0 &              1044.0 &                  1044.0 & 1044.0 \\
+mean  &     35.1 &                       71.9 &     40.3 &                       85.6 &    \textbf{180.4} &                      \textbf{462.1} &    \textbf{354.1} &                      \textbf{900.4} &    \textbf{623.8} &                     \textbf{1563.3} &               726.6 &                  1810.9 &  620.9 \\
+std   &     13.8 &                       41.3 &     17.0 &                       53.8 &    134.6 &                      354.6 &    213.8 &                      535.4 &    217.9 &                      527.0 &               221.9 &                   544.0 &  110.8 \\
 \bottomrule
 \end{tabular}
 
@@ -486,21 +498,11 @@ std   &   251.96 &                     618.87 &  184.76 \\
 %\caption{a caption}
 \end{table}
 
-{\tiny
-1,407 epidemics out of 10,000  stable in Summer 2020, with: at 6.1.20 select sym. (10, 70] actual v. 33.3 \& at 9.20.20 select sym. (20, 90] actual value 37.5. \textbf{1,044} residual epidemics at 12.15.20 (actual symptomatic +  asymptomatic people: 200.0).}
-
-
-\begin{figure}[H]
-\center
-\includegraphics[scale=0.19]{10kForceWave2.png}
-\caption{First wave with non-pharmaceutical containment measures, forcing the second wave, without specific measures} 
-\label{selForceWave2}
-\end{figure}
 
 \end{frame}
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%3old%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{Selecting realistic second waves, with new infections from outside}
 
 % selectResults10kStableSeedsCPoints_basicControlB_schoolOpenSeptOctControlChangingWorldNewStart_plusHMlog
