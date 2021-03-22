@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  22 MAR 2021 18:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  23 MAR 2021 00:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -786,10 +786,10 @@ LaTeX Warning: Label `interface' multiply defined.
 LaTeX Warning: Label `workplacesNursingHomes' multiply defined.
 
 
-LaTeX Warning: Label `selForceWave2Tab' multiply defined.
-
-
 LaTeX Warning: Label `selForceWave2' multiply defined.
+
+
+LaTeX Warning: Label `selForceWave2Tab' multiply defined.
 
 
 LaTeX Warning: Label `selSpontWave2Contr2Tab' multiply defined.
@@ -1220,8 +1220,8 @@ Overfull \hbox (12.60887pt too wide) in paragraph at lines 463--463
  []
 
 
-Overfull \hbox (7.12392pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 Overall| 
+Overfull \hbox (33.85353pt too wide) in paragraph at lines 463--463
+[]\T1/phv/m/n/5 Dec 15, 20   to   end| 
  []
 
 
@@ -1286,22 +1286,22 @@ Overfull \hbox (3.69394pt too wide) in paragraph at lines 463--463
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 140.0| 
+[]\T1/phv/m/n/5 170.0| 
  []
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 140.0| 
+[]\T1/phv/m/n/5 170.0| 
  []
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 140.0| 
+[]\T1/phv/m/n/5 170.0| 
  []
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 140.0| 
+[]\T1/phv/m/n/5 170.0| 
  []
 
 
@@ -1356,22 +1356,22 @@ Overfull \hbox (3.96898pt too wide) in paragraph at lines 463--463
 
 
 Overfull \hbox (1.19394pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 37.4| 
- []
-
-
-Overfull \hbox (1.19394pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 95.8| 
- []
-
-
-Overfull \hbox (1.19394pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 61.6| 
+[]\T1/phv/m/n/5 37.9| 
  []
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 160.2| 
+[]\T1/phv/m/n/5 100.2| 
+ []
+
+
+Overfull \hbox (1.19394pt too wide) in paragraph at lines 463--463
+[]\T1/phv/m/n/5 60.4| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 463--463
+[]\T1/phv/m/n/5 159.3| 
  []
 
 
@@ -1426,17 +1426,17 @@ Overfull \hbox (1.19394pt too wide) in paragraph at lines 463--463
 
 
 Overfull \hbox (1.19394pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 59.3| 
+[]\T1/phv/m/n/5 61.0| 
  []
 
 
 Overfull \hbox (1.19394pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 19.3| 
+[]\T1/phv/m/n/5 19.6| 
  []
 
 
 Overfull \hbox (1.19394pt too wide) in paragraph at lines 463--463
-[]\T1/phv/m/n/5 71.3| 
+[]\T1/phv/m/n/5 71.7| 
  []
 
 
@@ -1523,8 +1523,8 @@ Overfull \hbox (12.60887pt too wide) in paragraph at lines 502--502
  []
 
 
-Overfull \hbox (7.12392pt too wide) in paragraph at lines 502--502
-[]\T1/phv/m/n/5 Overall| 
+Overfull \hbox (33.85353pt too wide) in paragraph at lines 502--502
+[]\T1/phv/m/n/5 Dec 15, 20   to   end| 
  []
 
 
@@ -1909,7 +1909,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  20473 strings out of 480608
  385135 string characters out of 5903631
- 680476 words of memory out of 5000000
+ 680552 words of memory out of 5000000
  35721 multiletter control sequences out of 15000+600000
  563890 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1924,7 +1924,7 @@ ve/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
 xmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2020/texmf-dis
 t/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts
 /type1/urw/helvetic/uhvro8a.pfb>
-Output written on epidemicModel&GA_CCA_slides.pdf (32 pages, 3387174 bytes).
+Output written on epidemicModel&GA_CCA_slides.pdf (32 pages, 3387553 bytes).
 PDF statistics:
  2328 PDF objects out of 2487 (max. 8388607)
  2158 compressed objects within 22 object streams
