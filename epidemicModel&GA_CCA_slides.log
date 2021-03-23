@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  23 MAR 2021 19:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  23 MAR 2021 23:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -962,12 +962,12 @@ Dictionary: translator-theorem-dictionary, Language: English
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
  (./epidemicModel&GA_CCA_slides.nav)
-<logo_unito.png, id=115, 319.594pt x 126.874pt>
+<logo_unito.png, id=116, 319.594pt x 126.874pt>
 File: logo_unito.png Graphic file (type png)
 <use logo_unito.png>
 Package pdftex.def Info: logo_unito.png  used on input line 76.
 (pdftex.def)             Requested size: 55.30992pt x 21.95741pt.
-<CCA_Logo.png, id=117, 224.5188pt x 96.36pt>
+<CCA_Logo.png, id=118, 224.5188pt x 96.36pt>
 File: CCA_Logo.png Graphic file (type png)
 <use CCA_Logo.png>
 Package pdftex.def Info: CCA_Logo.png  used on input line 76.
@@ -1007,7 +1007,7 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 ] [5
 
 ]
-<interface2021.png, id=479, 2362.8275pt x 1126.2075pt>
+<interface2021.png, id=486, 2362.8275pt x 1126.2075pt>
 File: interface2021.png Graphic file (type png)
 <use interface2021.png>
 Package pdftex.def Info: interface2021.png  used on input line 158.
@@ -1020,12 +1020,12 @@ Overfull \hbox (23.50372pt too wide) in paragraph at lines 158--158
 [6
 
  <./interface2021.png>]
-<info1b.png, id=543, 620.3175pt x 657.45625pt>
+<info1b.png, id=551, 620.3175pt x 657.45625pt>
 File: info1b.png Graphic file (type png)
 <use info1b.png>
 Package pdftex.def Info: info1b.png  used on input line 171.
 (pdftex.def)             Requested size: 142.67001pt x 151.21175pt.
-<info2b.png, id=544, 610.28pt x 643.40375pt>
+<info2b.png, id=552, 610.28pt x 643.40375pt>
 File: info2b.png Graphic file (type png)
 <use info2b.png>
 Package pdftex.def Info: info2b.png  used on input line 171.
@@ -1038,7 +1038,7 @@ l.171 \end{frame}
                   [7
 
  <./info1b.png> <./info2b.png>]
-<world.png, id=608, 521.95pt x 523.9575pt>
+<world.png, id=617, 521.95pt x 523.9575pt>
 File: world.png Graphic file (type png)
 <use world.png>
 Package pdftex.def Info: world.png  used on input line 187.
@@ -1046,7 +1046,7 @@ Package pdftex.def Info: world.png  used on input line 187.
  [8
 
  <./world.png>]
-<world3D.png, id=672, 590.205pt x 351.3125pt>
+<world3D.png, id=682, 590.205pt x 351.3125pt>
 File: world3D.png Graphic file (type png)
 <use world3D.png>
 Package pdftex.def Info: world3D.png  used on input line 200.
@@ -1063,12 +1063,12 @@ Overfull \vbox (2.80846pt too high) detected at line 200
 [9
 
  <./world3D.png>]
-<person1.png, id=736, 342.27875pt x 829.0975pt>
+<person1.png, id=747, 342.27875pt x 829.0975pt>
 File: person1.png Graphic file (type png)
 <use person1.png>
 Package pdftex.def Info: person1.png  used on input line 213.
 (pdftex.def)             Requested size: 78.72244pt x 190.68842pt.
-<person2.png, id=737, 342.27875pt x 829.0975pt>
+<person2.png, id=748, 342.27875pt x 829.0975pt>
 File: person2.png Graphic file (type png)
 <use person2.png>
 Package pdftex.def Info: person2.png  used on input line 213.
@@ -1078,7 +1078,7 @@ Package pdftex.def Info: person2.png  used on input line 213.
  <./person1.png> <./person2.png>] [11
 
 ]
-<with8b40.png, id=862, 961.5925pt x 552.0625pt>
+<with8b40.png, id=875, 961.5925pt x 552.0625pt>
 File: with8b40.png Graphic file (type png)
 <use with8b40.png>
 Package pdftex.def Info: with8b40.png  used on input line 253.
@@ -1086,7 +1086,7 @@ Package pdftex.def Info: with8b40.png  used on input line 253.
  [12
 
  <./with8b40.png>]
-<with8a.png, id=925, 984.67876pt x 552.0625pt>
+<with8a.png, id=939, 984.67876pt x 552.0625pt>
 File: with8a.png Graphic file (type png)
 <use with8a.png>
 Package pdftex.def Info: with8a.png  used on input line 266.
@@ -1099,22 +1099,22 @@ l.266 \end{frame}
                   [13
 
  <./with8a.png>]
-<no4b.png, id=989, 972.63374pt x 552.0625pt>
+<no4b.png, id=1004, 972.63374pt x 552.0625pt>
 File: no4b.png Graphic file (type png)
 <use no4b.png>
 Package pdftex.def Info: no4b.png  used on input line 281.
 (pdftex.def)             Requested size: 116.71101pt x 66.24463pt.
-<with7b.png, id=990, 972.63374pt x 552.0625pt>
+<with7b.png, id=1005, 972.63374pt x 552.0625pt>
 File: with7b.png Graphic file (type png)
 <use with7b.png>
 Package pdftex.def Info: with7b.png  used on input line 281.
 (pdftex.def)             Requested size: 116.71101pt x 66.24463pt.
-<no4a.png, id=991, 982.67125pt x 552.0625pt>
+<no4a.png, id=1006, 982.67125pt x 552.0625pt>
 File: no4a.png Graphic file (type png)
 <use no4a.png>
 Package pdftex.def Info: no4a.png  used on input line 281.
 (pdftex.def)             Requested size: 117.91545pt x 66.24463pt.
-<with7a.png, id=992, 982.67125pt x 552.0625pt>
+<with7a.png, id=1007, 982.67125pt x 552.0625pt>
 File: with7a.png Graphic file (type png)
 <use with7a.png>
 Package pdftex.def Info: with7a.png  used on input line 281.
@@ -1122,22 +1122,22 @@ Package pdftex.def Info: with7a.png  used on input line 281.
  [14
 
  <./no4b.png> <./with7b.png> <./no4a.png> <./with7a.png>]
-<withShort1.png, id=1060, 986.68625pt x 552.0625pt>
+<withShort1.png, id=1076, 986.68625pt x 552.0625pt>
 File: withShort1.png Graphic file (type png)
 <use withShort1.png>
 Package pdftex.def Info: withShort1.png  used on input line 302.
 (pdftex.def)             Requested size: 103.59758pt x 57.96405pt.
-<withShort1A.png, id=1061, 972.63374pt x 552.0625pt>
+<withShort1A.png, id=1077, 972.63374pt x 552.0625pt>
 File: withShort1A.png Graphic file (type png)
 <use withShort1A.png>
 Package pdftex.def Info: withShort1A.png  used on input line 302.
 (pdftex.def)             Requested size: 102.12213pt x 57.96405pt.
-<withShort1A200.png, id=1062, 972.63374pt x 552.0625pt>
+<withShort1A200.png, id=1078, 972.63374pt x 552.0625pt>
 File: withShort1A200.png Graphic file (type png)
 <use withShort1A200.png>
 Package pdftex.def Info: withShort1A200.png  used on input line 302.
 (pdftex.def)             Requested size: 102.12213pt x 57.96405pt.
-<withShort1B.png, id=1063, 977.6525pt x 552.0625pt>
+<withShort1B.png, id=1079, 977.6525pt x 552.0625pt>
 File: withShort1B.png Graphic file (type png)
 <use withShort1B.png>
 Package pdftex.def Info: withShort1B.png  used on input line 302.
@@ -1148,7 +1148,7 @@ Package pdftex.def Info: withShort1B.png  used on input line 302.
 ng>] [16
 
 ]
-<10kNoControl.png, id=1190, 1069.9975pt x 633.36626pt>
+<10kNoControl.png, id=1208, 1069.9975pt x 633.36626pt>
 File: 10kNoControl.png Graphic file (type png)
 <use 10kNoControl.png>
 Package pdftex.def Info: 10kNoControl.png  used on input line 369.
@@ -1156,7 +1156,7 @@ Package pdftex.def Info: 10kNoControl.png  used on input line 369.
  [17
 
  <./10kNoControl.png>]
-<10kBasicC.png, id=1254, 1069.9975pt x 633.36626pt>
+<10kBasicC.png, id=1274, 1069.9975pt x 633.36626pt>
 File: 10kBasicC.png Graphic file (type png)
 <use 10kBasicC.png>
 Package pdftex.def Info: 10kBasicC.png  used on input line 402.
@@ -1164,7 +1164,7 @@ Package pdftex.def Info: 10kBasicC.png  used on input line 402.
  [18
 
  <./10kBasicC.png>]
-<andamento900annotato.jpg, id=1319, 1043.9pt x 642.4pt>
+<andamento900annotato.jpg, id=1339, 1043.9pt x 642.4pt>
 File: andamento900annotato.jpg Graphic file (type jpg)
 <use andamento900annotato.jpg>
 Package pdftex.def Info: andamento900annotato.jpg  used on input line 419.
@@ -1172,7 +1172,7 @@ Package pdftex.def Info: andamento900annotato.jpg  used on input line 419.
  [19
 
  <./andamento900annotato.jpg>]
-<10kSpontWave2.png, id=1384, 1084.05pt x 633.36626pt>
+<10kSpontWave2.png, id=1405, 1084.05pt x 633.36626pt>
 File: 10kSpontWave2.png Graphic file (type png)
 <use 10kSpontWave2.png>
 Package pdftex.def Info: 10kSpontWave2.png  used on input line 462.
@@ -1475,7 +1475,7 @@ Overfull \hbox (1.12889pt too wide) in paragraph at lines 462--462
 [20
 
  <./10kSpontWave2.png>]
-<10kForceWave2.png, id=1449, 1069.9975pt x 633.36626pt>
+<10kForceWave2.png, id=1472, 1069.9975pt x 633.36626pt>
 File: 10kForceWave2.png Graphic file (type png)
 <use 10kForceWave2.png>
 Package pdftex.def Info: 10kForceWave2.png  used on input line 500.
@@ -1778,7 +1778,7 @@ Overfull \hbox (1.12889pt too wide) in paragraph at lines 500--500
 [21
 
  <./10kForceWave2.png>]
-<10kForceWave2Contr2.png, id=1514, 1069.9975pt x 633.36626pt>
+<10kForceWave2Contr2.png, id=1537, 1069.9975pt x 633.36626pt>
 File: 10kForceWave2Contr2.png Graphic file (type png)
 <use 10kForceWave2Contr2.png>
 Package pdftex.def Info: 10kForceWave2Contr2.png  used on input line 538.
@@ -2081,7 +2081,7 @@ Overfull \hbox (1.12889pt too wide) in paragraph at lines 538--538
 [22
 
  <./10kForceWave2Contr2.png>]
-<10kForceWave2Contr2M-20.png, id=1579, 1069.9975pt x 633.36626pt>
+<10kForceWave2Contr2M-20.png, id=1603, 1069.9975pt x 633.36626pt>
 File: 10kForceWave2Contr2M-20.png Graphic file (type png)
 <use 10kForceWave2Contr2M-20.png>
 Package pdftex.def Info: 10kForceWave2Contr2M-20.png  used on input line 576.
@@ -2384,48 +2384,645 @@ Overfull \hbox (1.12889pt too wide) in paragraph at lines 576--576
 [23
 
  <./10kForceWave2Contr2M-20.png>]
-<10kForceWave2NoFrag.png, id=1643, 1069.9975pt x 633.36626pt>
-File: 10kForceWave2NoFrag.png Graphic file (type png)
-<use 10kForceWave2NoFrag.png>
-Package pdftex.def Info: 10kForceWave2NoFrag.png  used on input line 614.
-(pdftex.def)             Requested size: 203.30164pt x 120.34084pt.
- [24
+<10kForceWave2Contr2M-25.png, id=1668, 1069.9975pt x 633.36626pt>
+File: 10kForceWave2Contr2M-25.png Graphic file (type png)
+<use 10kForceWave2Contr2M-25.png>
+Package pdftex.def Info: 10kForceWave2Contr2M-25.png  used on input line 614.
+(pdftex.def)             Requested size: 181.89717pt x 107.67084pt.
 
- <./10kForceWave2NoFrag.png>] [25
+Overfull \hbox (5.91393pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 (1000)| 
+ []
+
+
+Overfull \hbox (11.27386pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 Jun 1, 20| 
+ []
+
+
+Overfull \hbox (12.2088pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 Sep 9, 20| 
+ []
+
+
+Overfull \hbox (14.98383pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 Dec 15, 20| 
+ []
+
+
+Overfull \hbox (11.77885pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 Feb 1, 21| 
+ []
+
+
+Overfull \hbox (12.60887pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 May 1, 21| 
+ []
+
+
+Overfull \hbox (33.85353pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 Dec 15, 20   to   end| 
+ []
+
+
+Overfull \hbox (2.01901pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 sym.| 
+ []
+
+
+Overfull \hbox (6.18892pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 sympt.| 
+ []
+
+
+Overfull \hbox (7.7137pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 totalInf.| 
+ []
+
+
+Overfull \hbox (6.18892pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 sympt.| 
+ []
+
+
+Overfull \hbox (7.7137pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 totalInf.| 
+ []
+
+
+Overfull \hbox (6.18892pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 sympt.| 
+ []
+
+
+Overfull \hbox (7.7137pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 totalInf.| 
+ []
+
+
+Overfull \hbox (6.18892pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 sympt.| 
+ []
+
+
+Overfull \hbox (7.7137pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 totalInf.| 
+ []
+
+
+Overfull \hbox (6.18892pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 sympt.| 
+ []
+
+
+Overfull \hbox (7.7137pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 totalInf.| 
+ []
+
+
+Overfull \hbox (3.69394pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 count| 
+ []
+
+
+Overfull \hbox (6.75388pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 1408.0| 
+ []
+
+
+Overfull \hbox (6.75388pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 1408.0| 
+ []
+
+
+Overfull \hbox (6.75388pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 1408.0| 
+ []
+
+
+Overfull \hbox (6.75388pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 1408.0| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 727.0| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 727.0| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 590.0| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 590.0| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 425.0| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 425.0| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 727.0| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 727.0| 
+ []
+
+
+Overfull \hbox (1.12889pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 727.0| 
+ []
+
+
+Overfull \hbox (3.96898pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 mean| 
+ []
+
+
+Overfull \hbox (1.19394pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 35.6| 
+ []
+
+
+Overfull \hbox (1.19394pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 72.7| 
+ []
+
+
+Overfull \hbox (1.19394pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 40.0| 
+ []
+
+
+Overfull \hbox (1.19394pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 84.1| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 614--614
+[][]\T1/phv/b/n/5 104.7[]| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 614--614
+[][]\T1/phv/b/n/5 276.2[]| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 614--614
+[]\T1/phv/b/n/5 163.3| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 614--614
+[]\T1/phv/b/n/5 448.3| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 614--614
+[]\T1/phv/b/n/5 265.6| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 614--614
+[]\T1/phv/b/n/5 725\T1/phv/m/n/5 .0| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 227.7| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 612.3| 
+ []
+
+
+Overfull \hbox (1.12889pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 493.6| 
+ []
+
+
+Overfull \hbox (1.19394pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 14.1| 
+ []
+
+
+Overfull \hbox (1.19394pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 42.6| 
+ []
+
+
+Overfull \hbox (1.19394pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 16.7| 
+ []
+
+
+Overfull \hbox (1.19394pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 52.8| 
+ []
+
+
+Overfull \hbox (1.19394pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 59.5| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 171.8| 
+ []
+
+
+Overfull \hbox (1.19394pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 85.9| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 236.7| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 112.4| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 289.5| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 149.1| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 400.3| 
+ []
+
+
+Overfull \hbox (1.12889pt too wide) in paragraph at lines 614--614
+[]\T1/phv/m/n/5 127.3| 
+ []
+
+[24
+
+ <./10kForceWave2Contr2M-25.png>]
+<10kForceWave2NoFrag60-25.png, id=1734, 1069.9975pt x 633.36626pt>
+File: 10kForceWave2NoFrag60-25.png Graphic file (type png)
+<use 10kForceWave2NoFrag60-25.png>
+Package pdftex.def Info: 10kForceWave2NoFrag60-25.png  used on input line 652.
+(pdftex.def)             Requested size: 181.89717pt x 107.67084pt.
+
+Overfull \hbox (5.91393pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 (1000)| 
+ []
+
+
+Overfull \hbox (11.27386pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 Jun 1, 20| 
+ []
+
+
+Overfull \hbox (12.2088pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 Sep 9, 20| 
+ []
+
+
+Overfull \hbox (14.98383pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 Dec 15, 20| 
+ []
+
+
+Overfull \hbox (11.77885pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 Feb 1, 21| 
+ []
+
+
+Overfull \hbox (12.60887pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 May 1, 21| 
+ []
+
+
+Overfull \hbox (33.85353pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 Dec 15, 20   to   end| 
+ []
+
+
+Overfull \hbox (2.01901pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 sym.| 
+ []
+
+
+Overfull \hbox (6.18892pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 sympt.| 
+ []
+
+
+Overfull \hbox (7.7137pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 totalInf.| 
+ []
+
+
+Overfull \hbox (6.18892pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 sympt.| 
+ []
+
+
+Overfull \hbox (7.7137pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 totalInf.| 
+ []
+
+
+Overfull \hbox (6.18892pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 sympt.| 
+ []
+
+
+Overfull \hbox (7.7137pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 totalInf.| 
+ []
+
+
+Overfull \hbox (6.18892pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 sympt.| 
+ []
+
+
+Overfull \hbox (7.7137pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 totalInf.| 
+ []
+
+
+Overfull \hbox (6.18892pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 sympt.| 
+ []
+
+
+Overfull \hbox (7.7137pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 totalInf.| 
+ []
+
+
+Overfull \hbox (3.69394pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 count| 
+ []
+
+
+Overfull \hbox (6.75388pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 1407.0| 
+ []
+
+
+Overfull \hbox (6.75388pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 1407.0| 
+ []
+
+
+Overfull \hbox (6.75388pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 1407.0| 
+ []
+
+
+Overfull \hbox (6.75388pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 1407.0| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 934.0| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 934.0| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 812.0| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 812.0| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 667.0| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 667.0| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 934.0| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 934.0| 
+ []
+
+
+Overfull \hbox (1.12889pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 934.0| 
+ []
+
+
+Overfull \hbox (3.96898pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 mean| 
+ []
+
+
+Overfull \hbox (1.19394pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 35.6| 
+ []
+
+
+Overfull \hbox (1.19394pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 72.7| 
+ []
+
+
+Overfull \hbox (1.19394pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 40.0| 
+ []
+
+
+Overfull \hbox (1.19394pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 84.1| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 652--652
+[][]\T1/phv/b/n/5 141.3[]| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 652--652
+[][]\T1/phv/b/n/5 372.6[]| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 652--652
+[]\T1/phv/b/n/5 227.4| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 652--652
+[]\T1/phv/b/n/5 609.1| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 652--652
+[]\T1/phv/b/n/5 337.8| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 652--652
+[]\T1/phv/b/n/5 904.0| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 319.3| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 840.8| 
+ []
+
+
+Overfull \hbox (1.12889pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 519.9| 
+ []
+
+
+Overfull \hbox (1.19394pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 14.1| 
+ []
+
+
+Overfull \hbox (1.19394pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 42.6| 
+ []
+
+
+Overfull \hbox (1.19394pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 16.7| 
+ []
+
+
+Overfull \hbox (1.19394pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 52.8| 
+ []
+
+
+Overfull \hbox (1.19394pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 96.6| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 265.6| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 124.6| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 331.0| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 131.8| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 330.4| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 177.7| 
+ []
+
+
+Overfull \hbox (3.9739pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 462.3| 
+ []
+
+
+Overfull \hbox (1.12889pt too wide) in paragraph at lines 652--652
+[]\T1/phv/m/n/5 117.2| 
+ []
+
+[25
+
+ <./10kForceWave2NoFrag60-25.png>] [26
+
+] [27
 
 ]
-[26
-
-]
-<Piem1.png, id=1831, 488.82625pt x 474.77374pt>
+<Piem1.png, id=1925, 488.82625pt x 474.77374pt>
 File: Piem1.png Graphic file (type png)
 <use Piem1.png>
-Package pdftex.def Info: Piem1.png  used on input line 692.
+Package pdftex.def Info: Piem1.png  used on input line 732.
 (pdftex.def)             Requested size: 122.20625pt x 118.69315pt.
-<Piem2.png, id=1832, 668.4975pt x 582.175pt>
+<Piem2.png, id=1926, 668.4975pt x 582.175pt>
 File: Piem2.png Graphic file (type png)
 <use Piem2.png>
-Package pdftex.def Info: Piem2.png  used on input line 692.
+Package pdftex.def Info: Piem2.png  used on input line 732.
 (pdftex.def)             Requested size: 167.12396pt x 145.5434pt.
- [27
+ [28
 
- <./Piem1.png> <./Piem2.png>] [28
+ <./Piem1.png> <./Piem2.png>] [29
 
 ]
-<SLAPP.png, id=1959, 973.6375pt x 597.23125pt>
+<SLAPP.png, id=2055, 973.6375pt x 597.23125pt>
 File: SLAPP.png Graphic file (type png)
 <use SLAPP.png>
-Package pdftex.def Info: SLAPP.png  used on input line 729.
+Package pdftex.def Info: SLAPP.png  used on input line 769.
 (pdftex.def)             Requested size: 253.13977pt x 155.27646pt.
- [29
+ [30
 
- <./SLAPP.png>] [30
+ <./SLAPP.png>] [31
 
 ]
-<mappaEpidemieNelleNuvole.jpeg, id=2087, 2500.34125pt x 1875.005pt>
+<mappaEpidemieNelleNuvole.jpeg, id=2185, 2500.34125pt x 1875.005pt>
 File: mappaEpidemieNelleNuvole.jpeg Graphic file (type jpg)
 <use mappaEpidemieNelleNuvole.jpeg>
-Package pdftex.def Info: mappaEpidemieNelleNuvole.jpeg  used on input line 774.
+Package pdftex.def Info: mappaEpidemieNelleNuvole.jpeg  used on input line 814.
 
 (pdftex.def)             Requested size: 225.021pt x 168.74316pt.
 
@@ -2434,9 +3031,9 @@ Package caption Warning: \label without proper reference on input line 369.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `noCTab' on page 31 undefined on input line 774.
+LaTeX Warning: Reference `noCTab' on page 32 undefined on input line 814.
 
-[31
+[32
 
  <./mappaEpidemieNelleNuvole.jpeg>]
 \tf@nav=\write6
@@ -2448,11 +3045,11 @@ LaTeX Warning: Reference `noCTab' on page 31 undefined on input line 774.
 \tf@snm=\write8
 \openout8 = `epidemicModel&GA_CCA_slides.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 776.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 776.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 816.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 816.
  (./epidemicModel&GA_CCA_slides.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 776.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 776.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 816.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 816.
 Package rerunfilecheck Info: File `epidemicModel&GA_CCA_slides.out' has not cha
 nged.
 (rerunfilecheck)             Checksum: 6666B5D0FBB37E86E3CDB30F8432BD51;952.
@@ -2465,10 +3062,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 20458 strings out of 480608
- 384881 string characters out of 5903631
- 678307 words of memory out of 5000000
- 35710 multiletter control sequences out of 15000+600000
+ 20474 strings out of 480608
+ 385287 string characters out of 5903631
+ 680489 words of memory out of 5000000
+ 35721 multiletter control sequences out of 15000+600000
  563890 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,19n,67p,794b,783s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2479,10 +3076,10 @@ ve/2020/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2020/
 texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2020/texmf-d
 ist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2020/texmf-dist/fon
 ts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on epidemicModel&GA_CCA_slides.pdf (31 pages, 3331556 bytes).
+Output written on epidemicModel&GA_CCA_slides.pdf (32 pages, 3390552 bytes).
 PDF statistics:
- 2197 PDF objects out of 2487 (max. 8388607)
- 2033 compressed objects within 21 object streams
- 104 named destinations out of 1000 (max. 500000)
- 332 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2296 PDF objects out of 2487 (max. 8388607)
+ 2127 compressed objects within 22 object streams
+ 108 named destinations out of 1000 (max. 500000)
+ 337 words of extra memory for PDF output out of 10000 (max. 10000000)
 
