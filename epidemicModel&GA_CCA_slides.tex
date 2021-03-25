@@ -26,7 +26,7 @@
 
 \usepackage{graphicx} % to insert the logo
 
-\usepackage[font=scriptsize,skip=0pt]{caption}
+\usepackage[font=scriptsize,skip=1pt]{caption}
 
 \setbeamertemplate{caption}[numbered]
 
@@ -623,39 +623,41 @@ std   &     14.1 &                       42.6 &     16.7 &                      
 \begin{table}[H]
 \center
 \footnotesize
-\begin{tabular}{lrrrrrr}
+\begin{tabular}{p{1.8cm}p{0.5cm}p{0.5cm}p{0.5cm}p{0.5cm}p{0.5cm}p{0.5cm}}
 \toprule
-Scenarios     &                         &  total sym.  & total sym.,       & duration~~~~  \\
-                     &                         &                    & asympt., deceased   \\                               
-\midrule
-no control in first wave  \\
-{}                                           & count &     10000.00 &                10000.00 &  10000.00 \\
-{}                                           & mean  &       969.46 &                 2500.45 &    303.10 \\
-{}                                           & std   &       308.80 &                  802.88 &     93.50 \\
+Scenarios     &    &  Dec~15,~20 &               & Dec~15,~20~~~to~~~end  &  &\\
+                     &    & sympt.           &  totalInf. &  sympt. &  totalInf.  & days   \\                               
 
 \midrule
-basic controls in first wave \\   
-{}                                           & count &     10000.00 &                10000.00 &  10000.00 \\
-{}                                           & mean  &       344.22 &                  851.64 &    277.93 \\
-{}                                           & std   &       368.49 &                  916.41 &    213.48 \\
+no \\
+containments in   & count & 140.0 &                      140.0 &                140.0 &                   140.0 &  140.0 \\
+spontaneous         &  mean  &  \textbf{248.4} &                      \textbf{648.7} &      701.1 &                  1757.9 &  594.2 \\
+second wave         & std  &  167.4 &                      424.3 &               246.4 &                   599.7 &  118.9 \\
+
+\midrule
+no \\
+containments in   & count &     1044.0 &                     1044.0 &             1044.0 &                  1044.0 & 1044.0 \\
+forced         & mean  &       \textbf{180.4} &                      \textbf{462.1} &          726.6 &                  1810.9 &  620.9 \\
+second wave         & std   & 134.6 &                      354.6 &           221.9 &                   544.0 &  110.8 \\
+
+\midrule
+basic \\
+containements in   & count &     874.0 &                      874.0 &          874.0 &                   874.0 &  874.0 \\
+forced                    & mean  &             \textbf{130.0} &                      \textbf{340}.6 &                 252.7 &                   666.4 &  494.1 \\
+second wave         & std   &   83.9 &                      232.6 &                  156.8 &                   416.4 &  122.7 \\
          
 \midrule
-basic controls in first wave \\   
-forcing realistic second       & count &  1044.00 &                    1044.00 & 1407.00 \\
-wave, without new controls & mean  &   588.67 &                    1474.10 &  527.85 \\
-{}                                         & std   &   251.96 &                     618.87 &  184.76 \\
+-20 days \\ 
+containments in   & count &  769.0 &                      769.0 &               769.0 &                   769.0 &  769.0 \\
+forced             & mean  &   \textbf{{\color{red}112.2}} &        \textbf{{\color{red} 294.2}} &       248.9 &        663.4 &  499.3 \\
+second wave  & std   &   66.8 &                      188.4 &          158.0 &                   417.5 &  124.1 \\
 
 \midrule
-basic controls in first wave \\   
-forcing realistic second       & count &   874.00 &                     874.00 & 1407.00 \\
-wave, with new controls     & mean  &   223.61 &                     594.97 &  404.36 \\
-{}                                         & std   &   138.52 &                     372.63 &  137.51 \\
+frag. p. \& workers \\  
+control in              & count &   886.0 &                      886.0 &              886.0 &                   886.0 &  886.0 \\
+forced                  & mean  &  \textbf{{\color{cyan}128.1}} &         \textbf{{\color{cyan}326.3}} &          301.1 &        792.3 &  515.5 \\
+second wave       & std   &  89.6 &        234.2 &   170.7 &          450.2 &  116.9 \\
 
-\midrule
-basic controls in first wave \\   
-forcing realistic second       & count &   987.00 &                     987.00 & 1407.00 \\
-wave, with stop to frag.      & mean  &   286.09 &                     753.06 &  443.05 \\
-people (incl. workers)         & std   &   164.33 &                     424.90 &  151.25 \\
 
 \bottomrule
 \end{tabular}
