@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  24 MAR 2021 23:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  25 MAR 2021 08:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2386,21 +2386,12 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
 [23
 
  <./10kForceWave2Contr2M-20.png>]
-
-LaTeX Warning: File `10kForceWave2NoFragOct5for50d.png' not found on input line
- 615.
-
-
-./epidemicModel&GA_CCA_slides.tex:615: Package pdftex.def Error: File `10kForce
-Wave2NoFragOct5for50d.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.615 \end{frame}
-                 
-? 
+<10kForceWave2NoFragOct5for60d.png, id=1643, 1069.9975pt x 633.36626pt>
+File: 10kForceWave2NoFragOct5for60d.png Graphic file (type png)
+<use 10kForceWave2NoFragOct5for60d.png>
+Package pdftex.def Info: 10kForceWave2NoFragOct5for60d.png  used on input line 
+615.
+(pdftex.def)             Requested size: 181.89717pt x 107.67084pt.
 
 Overfull \hbox (5.91393pt too wide) in paragraph at lines 615--615
 []\T1/phv/m/n/5 (1000)| 
@@ -2518,47 +2509,47 @@ Overfull \hbox (6.75388pt too wide) in paragraph at lines 615--615
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 615--615
-[]\T1/phv/m/n/5 934.0| 
+[]\T1/phv/m/n/5 886.0| 
  []
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 615--615
-[]\T1/phv/m/n/5 934.0| 
+[]\T1/phv/m/n/5 886.0| 
  []
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 615--615
-[]\T1/phv/m/n/5 812.0| 
+[]\T1/phv/m/n/5 761.0| 
  []
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 615--615
-[]\T1/phv/m/n/5 812.0| 
+[]\T1/phv/m/n/5 761.0| 
  []
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 615--615
-[]\T1/phv/m/n/5 667.0| 
+[]\T1/phv/m/n/5 637.0| 
  []
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 615--615
-[]\T1/phv/m/n/5 667.0| 
+[]\T1/phv/m/n/5 637.0| 
  []
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 615--615
-[]\T1/phv/m/n/5 934.0| 
+[]\T1/phv/m/n/5 886.0| 
  []
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 615--615
-[]\T1/phv/m/n/5 934.0| 
+[]\T1/phv/m/n/5 886.0| 
  []
 
 
 Overfull \hbox (1.12889pt too wide) in paragraph at lines 615--615
-[]\T1/phv/m/n/5 934.0| 
+[]\T1/phv/m/n/5 886.0| 
  []
 
 
@@ -2588,47 +2579,47 @@ Overfull \hbox (1.19394pt too wide) in paragraph at lines 615--615
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 615--615
-[][]\T1/phv/b/n/5 141.3[]| 
+[][]\T1/phv/b/n/5 128.1[]| 
  []
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 615--615
-[][]\T1/phv/b/n/5 372.6[]| 
+[][]\T1/phv/b/n/5 326.3[]| 
  []
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 615--615
-[]\T1/phv/b/n/5 227.4| 
+[]\T1/phv/b/n/5 211.0| 
  []
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 615--615
-[]\T1/phv/b/n/5 609.1| 
+[]\T1/phv/b/n/5 555.1| 
  []
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 615--615
-[]\T1/phv/b/n/5 337.8| 
+[]\T1/phv/b/n/5 323.3| 
  []
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 615--615
-[]\T1/phv/b/n/5 904.0| 
+[]\T1/phv/b/n/5 862.1| 
  []
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 615--615
-[]\T1/phv/m/n/5 319.3| 
+[]\T1/phv/m/n/5 301.1| 
  []
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 615--615
-[]\T1/phv/m/n/5 840.8| 
+[]\T1/phv/m/n/5 792.3| 
  []
 
 
 Overfull \hbox (1.12889pt too wide) in paragraph at lines 615--615
-[]\T1/phv/m/n/5 519.9| 
+[]\T1/phv/m/n/5 515.5| 
  []
 
 
@@ -2653,62 +2644,62 @@ Overfull \hbox (1.19394pt too wide) in paragraph at lines 615--615
 
 
 Overfull \hbox (1.19394pt too wide) in paragraph at lines 615--615
-[]\T1/phv/m/n/5 96.6| 
+[]\T1/phv/m/n/5 89.6| 
  []
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 615--615
-[]\T1/phv/m/n/5 265.6| 
+[]\T1/phv/m/n/5 234.2| 
  []
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 615--615
-[]\T1/phv/m/n/5 124.6| 
+[]\T1/phv/m/n/5 118.1| 
  []
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 615--615
-[]\T1/phv/m/n/5 331.0| 
+[]\T1/phv/m/n/5 306.7| 
  []
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 615--615
-[]\T1/phv/m/n/5 131.8| 
+[]\T1/phv/m/n/5 126.4| 
  []
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 615--615
-[]\T1/phv/m/n/5 330.4| 
+[]\T1/phv/m/n/5 315.9| 
  []
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 615--615
-[]\T1/phv/m/n/5 177.7| 
+[]\T1/phv/m/n/5 170.7| 
  []
 
 
 Overfull \hbox (3.9739pt too wide) in paragraph at lines 615--615
-[]\T1/phv/m/n/5 462.3| 
+[]\T1/phv/m/n/5 450.2| 
  []
 
 
 Overfull \hbox (1.12889pt too wide) in paragraph at lines 615--615
-[]\T1/phv/m/n/5 117.2| 
+[]\T1/phv/m/n/5 116.9| 
  []
 
 [24
 
-] [25
+ <./10kForceWave2NoFragOct5for60d.png>] [25
 
 ] [26
 
 ]
-<Piem1.png, id=1829, 488.82625pt x 474.77374pt>
+<Piem1.png, id=1831, 488.82625pt x 474.77374pt>
 File: Piem1.png Graphic file (type png)
 <use Piem1.png>
 Package pdftex.def Info: Piem1.png  used on input line 695.
 (pdftex.def)             Requested size: 122.20625pt x 118.69315pt.
-<Piem2.png, id=1830, 668.4975pt x 582.175pt>
+<Piem2.png, id=1832, 668.4975pt x 582.175pt>
 File: Piem2.png Graphic file (type png)
 <use Piem2.png>
 Package pdftex.def Info: Piem2.png  used on input line 695.
@@ -2718,18 +2709,17 @@ Package pdftex.def Info: Piem2.png  used on input line 695.
  <./Piem1.png> <./Piem2.png>] [28
 
 ]
-<SLAPP.png, id=1957, 973.6375pt x 597.23125pt>
+<SLAPP.png, id=1959, 973.6375pt x 597.23125pt>
 File: SLAPP.png Graphic file (type png)
 <use SLAPP.png>
 Package pdftex.def Info: SLAPP.png  used on input line 732.
 (pdftex.def)             Requested size: 253.13977pt x 155.27646pt.
  [29
 
- <./SLAPP.png>]
-[30
+ <./SLAPP.png>] [30
 
 ]
-<mappaEpidemieNelleNuvole.jpeg, id=2085, 2500.34125pt x 1875.005pt>
+<mappaEpidemieNelleNuvole.jpeg, id=2087, 2500.34125pt x 1875.005pt>
 File: mappaEpidemieNelleNuvole.jpeg Graphic file (type jpg)
 <use mappaEpidemieNelleNuvole.jpeg>
 Package pdftex.def Info: mappaEpidemieNelleNuvole.jpeg  used on input line 777.
@@ -2772,10 +2762,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 20509 strings out of 480608
- 386064 string characters out of 5903631
+ 20489 strings out of 480608
+ 385650 string characters out of 5903631
  680035 words of memory out of 5000000
- 35750 multiletter control sequences out of 15000+600000
+ 35740 multiletter control sequences out of 15000+600000
  567242 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,19n,67p,794b,783s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2786,10 +2776,10 @@ ve/2020/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2020/
 texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2020/texmf-d
 ist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2020/texmf-dist/fon
 ts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on epidemicModel&GA_CCA_slides.pdf (31 pages, 3280607 bytes).
+Output written on epidemicModel&GA_CCA_slides.pdf (31 pages, 3332267 bytes).
 PDF statistics:
- 2195 PDF objects out of 2487 (max. 8388607)
+ 2197 PDF objects out of 2487 (max. 8388607)
  2033 compressed objects within 21 object streams
  104 named destinations out of 1000 (max. 500000)
- 327 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 332 words of extra memory for PDF output out of 10000 (max. 10000000)
 
