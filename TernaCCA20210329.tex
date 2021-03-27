@@ -265,20 +265,6 @@ This enables understanding at a glance how an epidemic episode is developing. In
 
 \end{frame}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}{Other examples (i) on the left, an epidemic without containment measures; (ii) on the right, an epidemic with basic non-pharmaceutical containment measures}
-
-\begin{figure}[H]
-\center
-\includegraphics[scale=0.12]{no4b.png}~~~~~~~~~~~\includegraphics[scale=0.12]{with7b.png} 
-
-\center
-\includegraphics[scale=0.12]{no4a.png}~~~~~~~~~~~\includegraphics[scale=0.12]{with7a.png} \\
-\caption{Two cases with initial and full periods} 
-\label{twocases}
-\end{figure}
-
-\end{frame}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{A significant sequence}
@@ -337,7 +323,7 @@ In our batches we have 10,000 runs.
 \subsection{Epidemics without and with control}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}{Ten thousand epidemics without control in Piedmont}
+\begin{frame}{10,000 epidemics without control in Piedmont}
 
 % readRunResults10kStableSeedsCPoints_noControl_ChangingWorld_plusHMlog
 
@@ -370,7 +356,7 @@ std   &       308.80 &                  802.88 &     93.50 \\
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}{Ten thousand epidemics with basic control in Piedmont}
+\begin{frame}{10,000 epidemic with basic control in Piedmont, first wave}
 
 % readRunResults10kStableSeedsCPoints_basicControlB_schoolOpenSeptChangingWorld_plusHMlog
 
@@ -406,17 +392,52 @@ std   &       368.49 &                  916.41 &    213.48 \\
 \subsection{Actual data}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}{Actual data}
+\begin{frame}{Key points}
 
 \begin{figure}[H]
 \center
 \includegraphics[scale=0.25]{andamento900annotato.jpg}
-\caption{Data in Piedmont} 
-\label{data}
+\caption{keyPoints} 
+\label{Key points}
 \end{figure}
 
 
 \end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Non omogeneous data}
+
+\begin{itemize}
+
+\item From Civil Protection Department web site \url{http://www.protezionecivile.it/web/guest/department} we find the
+ repository \url{https://github.com/pcm-dpc/COVID-19}.
+ 
+ \item In the first wave we had uniquely data about symptomatic infected people, but from October 2021 data are mixed.
+ 
+ \item From the above \emph{git}  repository in October and November we had ``Positive cases emerged from clinical activity'', unfortunately now reported as ``No longer populated'' (from the end of November, my observation) and ``Positive cases emerging from surveys and tests, planned at national or regional level'', again ``No longer populated'' (from the end of November, my observation).
+ 
+ \item Using those two series, it was possible to estimate a subdivision between symptomatic and asymptomatic cases, which is no longer possible.
+ 
+\end{itemize}
+
+\end{frame}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Updated series (close to the end of March)}
+
+\begin{figure}[H]
+\center
+\includegraphics[scale=0.35]{andamento900.jpg}
+\caption{Data for Piedmont} 
+\label{dataP}
+\end{figure}
+
+
+\end{frame}
+
 
 
 
@@ -537,6 +558,19 @@ std   &     14.1 &                       42.6 &     16.7 &                      
 
 \end{frame}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Time factor}
+
+\begin{figure}[H]
+\center
+\includegraphics[scale=0.19]{RtEstimation.jpg}
+\caption{In blue the $R_t$ values as reported by the Istituto Superiore di Sanit\`{a} and in red the calculation published regularly at \url{https://mondoeconomico.eu} by Stefano Terna\footnote{Methodology: \url{https://github.com/tomorrowdata/COVID-19/blob/main/notebooks/Rt_on_italian_national_data_up_to_20210304.ipynb} and \url{https://github.com/tomorrowdata/COVID-19/blob/main/notebooks/Rt_on_italian_national_data.ipynb}}.}
+\label{Rt}
+\end{figure}
+
+
+\end{frame}
+
 %4%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{Second w., new infect. from outside, with new specific meas. -20 days\footnote{Anticipation limit Oct 5.}}
 
@@ -574,6 +608,39 @@ std   &     14.1 &                       42.6 &     16.7 &                      
 
 
 \end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Fragile persons and future considerations}
+
+\begin{itemize}
+
+\item A quite impressive analysis in Nature, 16 FEBRUARY 2021, 
+The coronavirus is here to stay---here's what that means
+
+\medskip
+
+\url{https://www.nature.com/articles/d41586-021-00396-2}
+
+\medskip
+
+\emph{A Nature survey shows many scientists expect the virus that causes COVID-19 to become endemic, but it could pose less danger over time}.
+
+\medskip
+
+\item
+If Nature is right, a possible long-term strategy is to stop all fragile people for a given time when $R_t$ starts increasing.
+
+\medskip
+
+The same strategy would also have been surprisingly efficient now for the second wave.
+
+\medskip
+
+Besides, mainly for the fragile people, adopt prevention and vaccinations.
+\end{itemize}
+
+\end{frame}
+
 
 
 %5%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -670,12 +737,28 @@ second wave       & std   &  89.6 &        234.2 &   170.7 &          450.2 &  1
 \end{frame}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{New use cases of the model}
+\section{Exploring vaccinations}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{Exploring vaccinations}
 
-Exploring vaccination sequences (using \emph{genetic algorithms} or \emph{reinforcement learning}).
+\begin{itemize}
+\item Exploring vaccination sequences, using \emph{genetic algorithms}. A detailed note, frequently updated, is at \url{https://terna.to.it/simul/GAresultPresentation.pdf}.
+
+\bigskip
+
+\item We compare the effect of choosing vaccination quotas via GA with two predetermined strategies.
+
+\bigskip
+
+\item Key dates: 
+\begin{itemize}
+\item in the internal calendar of the model, day 373 is Feb. \nth{12}, 2021, which is effectively the starting point of the vaccinations in the region; 
+
+\item the day of the effectiveness of the initial vaccinations, 40 days later, is day 413 (Mar. \nth{22}, 2021).
+\end{itemize}
+
+\end{itemize}
 
 \end{frame}
 
@@ -711,6 +794,98 @@ We take into consideration seven groups in order of decreasing fragility but als
 
 \end{frame}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Vaccination quotas, \emph{plain} case}
+
+Considering the \emph{plain} option adopted in Table \ref{quotaTable1} and remembering that the time-sequence in daily actions is the winner, we will primarily vaccinate the left column groups to move gradually to other columns: (\emph{g1}) extra fragile people, (\emph{g2}) teachers, (\emph{g3}) fragile workers, (\emph{g4}) regular workers, (\emph{g5}) fragile people, (\emph{g6}) regular people, (\emph{g7}) young people.
+
+\begin{table}[H]
+\centering
+\begin{tabular}{ccccccccc}
+\toprule
+From day & \begin{tabular}[c]{@{}c@{}}Q. of \\ vaccines \\ (000)\end{tabular} & \emph{g1} & \emph{g2} & \emph{g3} & \emph{g4} & \emph{g5} & \emph{g6} & \emph{g7} \\
+\midrule
+373      & 5           & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        \\
+433      & 10         & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        \\
+493      & 10         & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        \\
+553      & 10         & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        \\
+613      & 20         & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        \\
+738      & end     \\ 
+\bottomrule  
+\end{tabular}
+\caption{From the day of the first column, considering the quantity of the second column, the vaccination of each group follows the quota of the related columns}
+\label{quotaTable1}
+\end{table}
+
+
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Vaccination quotas, \emph{wise} case}
+
+Considering the \emph{wise} option adopted in Table \ref{quotaTable2} and remembering that the time-sequence in daily actions is the winner, we will primarily vaccinate the left column groups to move gradually to other columns, but postponing group \emph{g4} (regular workers), \emph{g6} (regular people), and \emph{g7} (young people).
+
+\begin{table}[H]
+\centering
+\begin{tabular}{ccccccccc}
+\toprule
+From day & \begin{tabular}[c]{@{}c@{}}Q. of \\ vaccines \\ (000)\end{tabular} & \emph{g1} & \emph{g2} & \emph{g3} & \emph{g4} & \emph{g5} & \emph{g6} & \emph{g7} \\
+\midrule
+373      & 5           & 0.1        & 0.1        & 0.1        & 0.0        & 0.1        & 0.0        & 0.0        \\
+433      & 10         & 0.1        & 0.1        & 0.1        & 0.0        & 0.1        & 0.0        & 0.0        \\
+493      & 10         & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        \\
+553      & 10         & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        \\
+613      & 20         & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        \\
+738      & end     \\ 
+\bottomrule  
+\end{tabular}
+\caption{From the day of the first column, considering the quantity of the second column, the vaccination of each group follows the quota of the related columns}
+\label{quotaTable2}
+\end{table}
+
+
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Two cases}
+
+\begin{figure}[H]
+\center
+\includegraphics[scale=0.14]{CaseForGA_I_base.png}~~~\includegraphics[scale=0.14]{CaseForGA_II_base.png}
+\caption{Case I~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Case II\\Crucial dates: blue line for the starting point of the vaccination campaign and red line for the start of the effectiveness of the initial vaccinations}
+\label{twoCases}
+\end{figure}
+
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Synopsys}
+
+\begin{table}[H]
+\centering
+\begin{scriptsize} % or footnotesize, scriptsize, tiny, etc.
+\begin{tabular}{llllllllllll}
+\toprule
+Case    & At   & Final      & Final        & Final       & Final      & Final       & Final    & Final        & Final    & Final        & Final     \\
+             & day & no         & plain       & wise        & GA         & plain       & wise        & GA         & plain       & wise        & GA    \\
+             & 413 & vaccin. & vaccin.    & vaccin.  & vaccin.  & vaccin.  & vaccin.  & vaccin.  & vaccin.  & vaccin.  & vaccin.  \\
+ (1000) &        &              &  infect.  &  infect. &  infect. &  infect. &  infect. &  infect. &  infect. &  infect. &  infect.\\
+             &       &              &  100\%   &  100\% &  100\% &  0\% &  0\% &  0\% & 50\% &  50\% &  50\% \\
+\midrule
+I            & 197 & 325 & 236 & 263 & \textbf{200} & 203 & 211   & 199 & 204 & 229 & 203 \\
+             & -      & 128 & 39    & 66  & \textbf{3}    &  6     & 14  & 2     & 7     & 32 & 6 \\
+\\
+II           & 233 & 375 & 355 &  344 & \textbf{305}  & 340 & 334 & \textbf{297}  & 356 & 344 &  \textbf{288} \\
+             & -      &  142 & 122 & 111 & \textbf{72}    & 107 & 101 & \textbf{64}   & 123   & 111 &  \textbf{55} \\
+\\
+\bottomrule  
+\end{tabular}
+\end{scriptsize}
+\caption{Results of the campaigns in the two cases, only symptomatic people (second row in each case: minus day 413)}
+\label{caseSynopsys}
+\end{table}
+
+\end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{A new model}
 
@@ -767,15 +942,12 @@ Scientific advertising: \url{https://terna.github.io/SLAPP/}
 \section{Final remarks}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}{A few considerations:}
+\begin{frame}{Some final considerations:}
 
 \begin{itemize}
 
 \item
 The importance of High Performance Computing.
-
-\item
-From S.I.s.a.R. to a model of the society and of the economy of Piedmont.
 
 \bigskip
 
@@ -791,7 +963,7 @@ From S.I.s.a.R. to a model of the society and of the economy of Piedmont.
  \bigskip
  The slides are at \url{https://terna.to.it/simul/TernaCCA20210329.pdf}.
  
- My homepage \url{https://terna.to.it} and my address \url{pietro.terna@unito.it}.
+ My homepage \url{https://terna.to.it} and my mail address \url{pietro.terna@unito.it}.
  
 \end{frame}
 
