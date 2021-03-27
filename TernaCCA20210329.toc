@@ -13,5 +13,5 @@
 \beamer@subsectionintoc {4}{3}{Actual data}{19}{0}{4}
 \beamer@subsectionintoc {4}{4}{Second wave}{20}{0}{4}
 \beamer@sectionintoc {5}{New use cases of the model}{26}{0}{5}
-\beamer@sectionintoc {6}{A new model}{27}{0}{6}
-\beamer@sectionintoc {7}{Final remarks}{30}{0}{7}
+\beamer@sectionintoc {6}{A new model}{28}{0}{6}
+\beamer@sectionintoc {7}{Final remarks}{31}{0}{7}
