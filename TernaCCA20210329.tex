@@ -92,7 +92,7 @@
 We propose an agent-based model to simulate the Covid-19 epidemic diffusion, with Susceptible, Infected, symptomatic, asymptomatic, and Recovered people: hence the name S.I.s.a.R. The scheme comes from S.I.R. models, with (i) infected agents categorized as symptomatic and asymptomatic and (ii) the places of contagion specified in a detailed way, thanks to agent-based modeling capabilities. 
 
  \item
-The infection transmission is related to three factors: the infected person's characteristics and those of the susceptible one, plus those of the space in which contact occurs.
+The infection transmission is related to three factors: the infected person's characteristics and those of the susceptible one, plus those of the space in which a contact occurs.
 
  \item
 The model includes the structural data of Piedmont, but it can be readily calibrated for other areas. The model manages a realistic calendar (e.g., national or local government decisions), via a script interpreter.  
@@ -216,7 +216,7 @@ S.I.s.a.R. is at \url{https://terna.to.it/simul/SIsaR.html} with information on 
 \section{Contagions}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{The proposed technique}
+\subsection{Contagion representation}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{Contagion representation}
@@ -564,7 +564,7 @@ std   &     14.1 &                       42.6 &     16.7 &                      
 \begin{figure}[H]
 \center
 \includegraphics[scale=0.19]{RtEstimation.jpg}
-\caption{In blue the $R_t$ values as reported by the Istituto Superiore di Sanit\`{a} and in red the calculation published regularly at \url{https://mondoeconomico.eu} by Stefano Terna\footnote{Methodology: \url{https://github.com/tomorrowdata/COVID-19/blob/main/notebooks/Rt_on_italian_national_data_up_to_20210304.ipynb} and \url{https://github.com/tomorrowdata/COVID-19/blob/main/notebooks/Rt_on_italian_national_data.ipynb}}.}
+\caption{In blue the $R_t$ values as reported by the Istituto Superiore di Sanit\`{a} and in red the calculation published regularly at \url{https://mondoeconomico.eu} by Stefano Terna\footnote{Methodology: \url{https://github.com/tomorrowdata/COVID-19/blob/main/notebooks/Rt_on_italian_national_data.ipynb}}.}
 \label{Rt}
 \end{figure}
 
@@ -741,10 +741,10 @@ second wave       & std   &  89.6 &        234.2 &   170.7 &          450.2 &  1
 \end{frame}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Exploring vaccinations}
+\section{Planning a vaccination campaign}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}{Exploring vaccinations}
+\begin{frame}{Planning a vaccination campaign}
 
 \begin{itemize}
 \item Exploring vaccination sequences, using \emph{genetic algorithms}. A detailed note, frequently updated, is at \url{https://terna.to.it/simul/GAresultPresentation.pdf}.
@@ -779,7 +779,7 @@ We take into consideration seven groups in order of decreasing fragility but als
 		\item due to risk exposure:
 		\begin{itemize}
 			\item nursing homes operators;
-			\item healtcare operators;
+			\item healthcare operators;
  		\end{itemize} 
  	\end{itemize}  
 \item [\emph{g2}]
@@ -817,8 +817,23 @@ From day & \begin{tabular}[c]{@{}c@{}}Q. of \\ vaccines \\ (000)\end{tabular} & 
 738      & end     \\ 
 \bottomrule  
 \end{tabular}
-\caption{From the day of the first column, considering the quantity of the second column, the vaccination of each group follows the quota of the related columns}
+\caption{From the day of the first column, considering the quantity of the second column (000), the vaccination of each group follows the quota of the related columns}
 \label{quotaTable1}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{small} % or footnotesize, scriptsize, tiny, etc.
+\begin{tabular}{lccccccc}
+\toprule
+(000) & \emph{g1} & \emph{g2} & \emph{g3} & \emph{g4} & \emph{g5} & \emph{g6} & \emph{g7} \\
+\midrule
+Susc. at t = 0                   & 133 & 84 & 240 & 1560 & 1179 & 254 & 900 \\
+\bottomrule  
+\end{tabular}
+\end{small}
+\caption{Susceptible persons at the beginning of the simulation}
+\label{susceptible}
 \end{table}
 
 
@@ -843,8 +858,23 @@ From day & \begin{tabular}[c]{@{}c@{}}Q. of \\ vaccines \\ (000)\end{tabular} & 
 738      & end     \\ 
 \bottomrule  
 \end{tabular}
-\caption{From the day of the first column, considering the quantity of the second column, the vaccination of each group follows the quota of the related columns}
+\caption{From the day of the first column, considering the quantity of the second column (000), the vaccination of each group follows the quota of the related columns}
 \label{quotaTable2}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{small} % or footnotesize, scriptsize, tiny, etc.
+\begin{tabular}{lccccccc}
+\toprule
+(000) & \emph{g1} & \emph{g2} & \emph{g3} & \emph{g4} & \emph{g5} & \emph{g6} & \emph{g7} \\
+\midrule
+Susc. at t = 0                   & 133 & 84 & 240 & 1560 & 1179 & 254 & 900 \\
+\bottomrule  
+\end{tabular}
+\end{small}
+\caption{Susceptible persons at the beginning of the simulation}
+\label{susceptible2}
 \end{table}
 
 
@@ -1000,7 +1030,7 @@ Scientific advertising: \url{https://terna.github.io/SLAPP/}
 \section{Final remarks}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}{Some final considerations:}
+\begin{frame}{Some final considerations}
 
 \begin{itemize}
 

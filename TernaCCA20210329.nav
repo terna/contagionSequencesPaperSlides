@@ -32,8 +32,8 @@
 \headcommand {\beamer@subsectionpages {8}{10}}
 \headcommand {\sectionentry {3}{Contagions}{11}{Contagions}{0}}
 \headcommand {\beamer@subsectionpages {11}{10}}
-\headcommand {\beamer@subsectionentry {0}{3}{1}{11}{The proposed technique}}
-\headcommand {\slideentry {3}{1}{1}{11/11}{The proposed technique}{0}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{11}{Contagion representation}}
+\headcommand {\slideentry {3}{1}{1}{11/11}{Contagion representation}{0}}
 \headcommand {\beamer@framepages {11}{11}}
 \headcommand {\beamer@subsectionpages {11}{11}}
 \headcommand {\beamer@subsectionentry {0}{3}{2}{12}{An introductory example}}
@@ -86,7 +86,7 @@
 \headcommand {\beamer@framepages {28}{28}}
 \headcommand {\beamer@sectionpages {15}{28}}
 \headcommand {\beamer@subsectionpages {21}{28}}
-\headcommand {\sectionentry {5}{Exploring vaccinations}{29}{Exploring vaccinations}{0}}
+\headcommand {\sectionentry {5}{Planning a vaccination campaign}{29}{Planning a vaccination campaign}{0}}
 \headcommand {\slideentry {5}{0}{1}{29/29}{}{0}}
 \headcommand {\beamer@framepages {29}{29}}
 \headcommand {\slideentry {5}{0}{2}{30/30}{}{0}}
