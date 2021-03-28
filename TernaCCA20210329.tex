@@ -628,11 +628,15 @@ The coronavirus is here to stay---here's what that means
 \medskip
 
 \item
-If Nature is right, a possible long-term strategy is to stop all fragile people for a given time when $R_t$ starts increasing.
+If Nature is right, a possible long-term strategy is to stop all fragile people for a given period when $R_t$ starts increasing (fragile workers in sick leave, if unable to work remotely.
 
 \medskip
 
-The same strategy would also have been surprisingly efficient now for the second wave.
+With social benefits, e.g., schooling, and economic benefits, if activities do not stop
+
+\medskip
+
+The same strategy would also have been surprisingly efficient now, for the second wave.
 
 \medskip
 
@@ -795,7 +799,7 @@ We take into consideration seven groups in order of decreasing fragility but als
 \end{frame}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}{Vaccination quotas, \emph{plain} case}
+\begin{frame}{Vaccination quotas, \emph{plain} strategy}
 
 Considering the \emph{plain} option adopted in Table \ref{quotaTable1} and remembering that the time-sequence in daily actions is the winner, we will primarily vaccinate the left column groups to move gradually to other columns: (\emph{g1}) extra fragile people, (\emph{g2}) teachers, (\emph{g3}) fragile workers, (\emph{g4}) regular workers, (\emph{g5}) fragile people, (\emph{g6}) regular people, (\emph{g7}) young people.
 
@@ -821,7 +825,7 @@ From day & \begin{tabular}[c]{@{}c@{}}Q. of \\ vaccines \\ (000)\end{tabular} & 
 \end{frame}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}{Vaccination quotas, \emph{wise} case}
+\begin{frame}{Vaccination quotas, \emph{wise} strategy}
 
 Considering the \emph{wise} option adopted in Table \ref{quotaTable2} and remembering that the time-sequence in daily actions is the winner, we will primarily vaccinate the left column groups to move gradually to other columns, but postponing group \emph{g4} (regular workers), \emph{g6} (regular people), and \emph{g7} (young people).
 
@@ -859,7 +863,59 @@ From day & \begin{tabular}[c]{@{}c@{}}Q. of \\ vaccines \\ (000)\end{tabular} & 
 \end{frame}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{GA quotas, an example in case I, with vaccinated people still spreading the infection}
+
+\medskip
+
+\begin{table}[H]
+\centering
+\begin{small} % or footnotesize, scriptsize, tiny, etc.
+\begin{tabular}{lccccccc}
+\toprule
+& \emph{g1} & \emph{g2} & \emph{g3} & \emph{g4} & \emph{g5} & \emph{g6} & \emph{g7} \\
+\midrule
+Susc. at t = 0                   & 133 & 84 & 240 & 1560 & 1179 & 254 & 900 \\
+Susc. when\\vacc. starts & 124 & 81 & 162 & 1234 & 1032 & 245 & 891 \\
+\bottomrule  
+\end{tabular}
+\end{small}
+\caption{Case I: susceptible persons at the beginning of the simulation and when the vaccination campaign starts,  day 373, Feb. \nth{12}, 2021}
+\label{susceptibleCaseForGA_I}
+\end{table}
+
+Groups: (\emph{g1}) extra fragile people, (\emph{g2}) teachers, (\emph{g3}) fragile workers, (\emph{g4}) regular workers, (\emph{g5}) fragile people, (\emph{g6}) regular people, (\emph{g7}) young people.
+
+\medskip
+
+\begin{table}[H]
+\centering
+\begin{small} % or footnotesize, scriptsize, tiny, etc.
+\begin{tabular}{cclllllll}
+\toprule
+From day & \begin{tabular}[c]{@{}c@{}}Q. of \\ vaccines \\ (000)\end{tabular} & \emph{g1} & \emph{g2} & \emph{g3} & \emph{g4} & \emph{g5} & \emph{g6} & \emph{g7} \\
+\midrule
+373 & 5 & 0.01 & 0 & 0 & 0.79 & 0.18 & 0.38 & 0.19 \\
+433 & 10 & 0.94 & 0.06 & 0.32 & 0.54 & 0.19 & 0.83 & 0.5 \\
+493 & 10 & 0.97 & 0.97 & 0.74 & 0.79 & 0.2 & 0.14 & 0.52 \\
+553 & 10 & 0.98 & 0.83 & 0.02 & 0.39 & 0.99 & 0.04 & 0.48 \\
+613 & 20 & 0.52 & 0.01 & 0.83 & 0.6 & 1 & 0.27 & 0.9 \\
+738      & end   \\ 
+\bottomrule  
+\end{tabular}
+\end{small}
+\caption{GA best strategy in case I, with \emph{vaccinated people still spreading the infection}: from the day of the first column, considering the quantity of the second column, the vaccination of each group follows the quota of the related columns}
+\label{quotaTableCaseForGA_I_1>413bestGA}
+\end{table}
+
+
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{Synopsys}
+
+Three hypotheses about contagion transmission from vaccinate people if infected: 100\%, never, 50\%.
+
+\medskip
 
 \begin{table}[H]
 \centering
@@ -919,6 +975,8 @@ II           & 233 & 375 & 355 &  344 & \textbf{305}  & 340 & 334 & \textbf{297}
 \color{red}
 \item Transportations.
 \item Aggregation places: happy hours, night life, sport stadiums, discotheques, \ldots
+\color{blue}
+\item Networks (family networks, professional networks, high-contact individuals,\footnote{G. Manzo and A. van de Rijt. Halting sars-cov-2 by targeting high-contact individuals. Journal of Artificial Societies and Social Simulation, 23(4):10, 2020. ISSN 1460-7425. doi: 10.18564/jasss.4435. URL http://jasss.soc.surrey.ac.uk/23/4/10.html.} \ldots) 
 
 \end{itemize}
 
