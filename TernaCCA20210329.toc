@@ -12,6 +12,6 @@
 \beamer@subsectionintoc {4}{2}{Epidemics without and with control}{16}{0}{4}
 \beamer@subsectionintoc {4}{3}{Actual data}{18}{0}{4}
 \beamer@subsectionintoc {4}{4}{Second wave}{21}{0}{4}
-\beamer@sectionintoc {5}{Planning a vaccination campaign}{29}{0}{5}
-\beamer@sectionintoc {6}{A new model}{36}{0}{6}
-\beamer@sectionintoc {7}{Final remarks}{39}{0}{7}
+\beamer@sectionintoc {5}{Planning vaccination campaigns}{29}{0}{5}
+\beamer@sectionintoc {6}{A new model}{37}{0}{6}
+\beamer@sectionintoc {7}{Final remarks}{40}{0}{7}

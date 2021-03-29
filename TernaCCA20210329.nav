@@ -86,7 +86,7 @@
 \headcommand {\beamer@framepages {28}{28}}
 \headcommand {\beamer@sectionpages {15}{28}}
 \headcommand {\beamer@subsectionpages {21}{28}}
-\headcommand {\sectionentry {5}{Planning a vaccination campaign}{29}{Planning a vaccination campaign}{0}}
+\headcommand {\sectionentry {5}{Planning vaccination campaigns}{29}{Planning vaccination campaigns}{0}}
 \headcommand {\slideentry {5}{0}{1}{29/29}{}{0}}
 \headcommand {\beamer@framepages {29}{29}}
 \headcommand {\slideentry {5}{0}{2}{30/30}{}{0}}
@@ -101,22 +101,24 @@
 \headcommand {\beamer@framepages {34}{34}}
 \headcommand {\slideentry {5}{0}{7}{35/35}{}{0}}
 \headcommand {\beamer@framepages {35}{35}}
-\headcommand {\beamer@sectionpages {29}{35}}
-\headcommand {\beamer@subsectionpages {29}{35}}
-\headcommand {\sectionentry {6}{A new model}{36}{A new model}{0}}
-\headcommand {\slideentry {6}{0}{1}{36/36}{}{0}}
+\headcommand {\slideentry {5}{0}{8}{36/36}{}{0}}
 \headcommand {\beamer@framepages {36}{36}}
-\headcommand {\slideentry {6}{0}{2}{37/37}{}{0}}
+\headcommand {\beamer@sectionpages {29}{36}}
+\headcommand {\beamer@subsectionpages {29}{36}}
+\headcommand {\sectionentry {6}{A new model}{37}{A new model}{0}}
+\headcommand {\slideentry {6}{0}{1}{37/37}{}{0}}
 \headcommand {\beamer@framepages {37}{37}}
-\headcommand {\slideentry {6}{0}{3}{38/38}{}{0}}
+\headcommand {\slideentry {6}{0}{2}{38/38}{}{0}}
 \headcommand {\beamer@framepages {38}{38}}
-\headcommand {\beamer@sectionpages {36}{38}}
-\headcommand {\beamer@subsectionpages {36}{38}}
-\headcommand {\sectionentry {7}{Final remarks}{39}{Final remarks}{0}}
-\headcommand {\slideentry {7}{0}{1}{39/39}{}{0}}
+\headcommand {\slideentry {6}{0}{3}{39/39}{}{0}}
 \headcommand {\beamer@framepages {39}{39}}
-\headcommand {\beamer@partpages {1}{39}}
-\headcommand {\beamer@subsectionpages {39}{39}}
-\headcommand {\beamer@sectionpages {39}{39}}
-\headcommand {\beamer@documentpages {39}}
-\headcommand {\gdef \inserttotalframenumber {39}}
+\headcommand {\beamer@sectionpages {37}{39}}
+\headcommand {\beamer@subsectionpages {37}{39}}
+\headcommand {\sectionentry {7}{Final remarks}{40}{Final remarks}{0}}
+\headcommand {\slideentry {7}{0}{1}{40/40}{}{0}}
+\headcommand {\beamer@framepages {40}{40}}
+\headcommand {\beamer@partpages {1}{40}}
+\headcommand {\beamer@subsectionpages {40}{40}}
+\headcommand {\beamer@sectionpages {40}{40}}
+\headcommand {\beamer@documentpages {40}}
+\headcommand {\gdef \inserttotalframenumber {40}}

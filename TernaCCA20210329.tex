@@ -108,12 +108,18 @@ The model includes the structural data of Piedmont, but it can be readily calibr
 
 \item We use NetLogo, at \url{https://ccl.northwestern.edu/netlogo/}.
 
+ \medskip
+ 
  \item
  
-S.I.s.a.R. is at \url{https://terna.to.it/simul/SIsaR.html} with information on model construction, the draft of a paper also reporting results, and an online executable version of the simulation program, built using NetLogo.
+S.I.s.a.R. is at \url{https://terna.to.it/simul/SIsaR.html} with information on model construction, the draft of a preliminary paper also reporting results, and an online executable version of the simulation program, built using NetLogo.
 
+ \medskip
+ 
  \item
  A short paper is published at \url{https://rofasss.org/2020/10/20/sisar/}
+ 
+ \medskip
  
  G. Pescarmona, P. Terna, A. Acquadro, P. Pescarmona, G. Russo, and S. Terna. How Can ABM Models Become Part of the Policy-Making Process in Times of Emergencies---The SISAR Epidemic Model. \emph{RofASSS}, 2020.
 
@@ -225,8 +231,9 @@ S.I.s.a.R. is at \url{https://terna.to.it/simul/SIsaR.html} with information on 
   \item
 The model allows analyzing the sequences of contagions in simulated epidemics, reporting the places where the contagion occur. 
   \item
-We represent each infecting agent as a horizontal segment with a vertical connections to another agent receiving the infection. 
-We represent the infected agents via further segments at an upper layer. 
+We represent each infected agent as a horizontal segment (from the starting date to the final date of the infection) with vertical connections to other agents if they receive the disease.
+
+We represent the new infected agents via further segments at an upper level. 
 
   \item
 With colors, line thickness, and styles, we display multiple information. 
@@ -242,7 +249,7 @@ This enables understanding at a glance how an epidemic episode is developing. In
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}{An example (1/2)}
+\begin{frame}{Examples (1/2)}
 
 \begin{figure}[H]
 \center
@@ -253,7 +260,7 @@ This enables understanding at a glance how an epidemic episode is developing. In
 \end{frame}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}{An example (2/2), more contagions}
+\begin{frame}{Examples (2/2), whole epidemic}
 
 \begin{figure}[H]
 \center
@@ -302,16 +309,16 @@ A contagion sequence suggesting policies: in Fig. \ref{fourSequences} we can loo
 We explore systematically the introduction of factual, counterfactual, and prospective interventions to control the spread of the contagions. 
 
   \item
-Each simulation run---whose length coincides with the disappearance of symptomatic or asymptomatic contagion cases---is a datum in a wide scenario of variability in time and effects.   
+Each simulation run---whose length corresponds to the disappearance of symptomatic or asymptomatic contagion cases---is a datum in a wide scenario of variability in time and effects.   
   
   \item
-Consequently, we need to represent compactly the results  emerging from batches of simulation repetitions, to compare the  consequences of the basic assumptions adopted for each specific batch.
+We need to represent compactly the results  emerging from batches of simulation repetitions, to compare the  consequences of the basic assumptions adopted for each specific batch.
 
  \item
-We use blocs of ten thousand repetitions. Besides summarizing the results with the usual statistical indicators, we adopt the technique of the heatmaps.
+Besides summarizing the results with the usual statistical indicators, we adopt the technique of the heat-maps.
 
 \item
-Each heatmap reports the duration of each simulated epidemic in the $x$ axis and the number of the symptomatic, asymptomatic, and deceased agents in the $y$ axis. The $z$ axis is represented by the colors, in logarithmic scale. 
+Each heat-map reports the duration of each simulated epidemic in the $x$ axis and the number of the symptomatic, asymptomatic, and deceased agents in the $y$ axis. The $z$ axis is represented by the colors, as in the logarithmic scale on the right of each picture. 
 
 \item
 In our batches we have 10,000 runs.
@@ -409,12 +416,12 @@ std   &       368.49 &                  916.41 &    213.48 \\
 
 \begin{itemize}
 
-\item From Civil Protection Department web site \url{http://www.protezionecivile.it/web/guest/department} we find the
+\item Following the Civil Protection Department web site \url{http://www.protezionecivile.it/web/guest/department}, we find the
  repository \url{https://github.com/pcm-dpc/COVID-19}.
  
  \item In the first wave we had uniquely data about symptomatic infected people, but from October 2021 data are mixed.
  
- \item From the above \emph{git}  repository in October and November we had ``Positive cases emerged from clinical activity'', unfortunately now reported as ``No longer populated'' (from the end of November, my observation) and ``Positive cases emerging from surveys and tests, planned at national or regional level'', again ``No longer populated'' (from the end of November, my observation).
+ \item In the above \emph{git}  repository, in October and November we had ``Positive cases emerged from clinical activity'', unfortunately now reported as ``No longer populated'' (from the end of November, my observation) and ``Positive cases emerging from surveys and tests, planned at national or regional level'', again ``No longer populated'' (from the end of November, my observation).
  
  \item Using those two series, it was possible to estimate a subdivision between symptomatic and asymptomatic cases, which is no longer possible.
  
@@ -464,10 +471,10 @@ std   &       368.49 &                  916.41 &    213.48 \\
 \begin{table}[H]
 \center
 \tiny
-\begin{tabular}{p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.4cm}}
+\begin{tabular}{p{0.4cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.4cm}}
 \toprule
 (1000) &  Jun~1,~20 & &  Sep~9,~20 & & Dec~15,~20 & & Feb~1,~21 & & May~1,~21 & & Dec~15,~20~~~to~~~end  \\
-{} &  sym. &  all &  sympt. &  totalInf. &  sympt. &  totalInf. &  sympt. &  totalInf. &  sympt. &  totalInf. &  sympt. &  totalInf.  & days\\
+cum.~v. &  sym. &  all &  sympt. &  totalInf. &  sympt. &  totalInf. &  sympt. &  totalInf. &  sympt. &  totalInf. &  sympt. &  totalInf.  & days\\
 \midrule
 count &    170.0 &                      170.0 &    170.0 &                      170.0 &    140.0 &                      140.0 &    131.0 &                      131.0 &    128.0 &                      128.0 &               140.0 &                   140.0 &  140.0 \\
 mean  &     37.9 &                      100.2 &     60.4 &                      159.3 &    \textbf{248.4} &                      \textbf{648.7} &    \textbf{432.2} &                     \textbf{1109.5} &   \textbf{656.3} &                     \textbf{1655.5} &              701.1 &                  1757.9 &  594.2 \\
@@ -502,10 +509,10 @@ std   &     16.4 &                       61.0 &     19.6 &                      
 \begin{table}[H]
 \center
 \tiny
-\begin{tabular}{p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.4cm}}
+\begin{tabular}{p{0.4cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.4cm}}
 \toprule
 (1000) &  Jun~1,~20 & &  Sep~9,~20 & & Dec~15,~20 & & Feb~1,~21 & & May~1,~21 & & Dec~15,~20~~~to~~~end   \\
-{} &  sym. &  all &  sympt. &  totalInf. &  sympt. &  totalInf. &  sympt. &  totalInf. &  sympt. &  totalInf. &  sympt. &  totalInf.  & days\\
+cum.~v. &  sym. &  all &  sympt. &  totalInf. &  sympt. &  totalInf. &  sympt. &  totalInf. &  sympt. &  totalInf. &  sympt. &  totalInf.  & days\\
 \midrule
 count &   1407.0 &                     1407.0 &   1407.0 &                     1407.0 &   1044.0 &                     1044.0 &   1005.0 &                     1005.0 &    980.0 &                      980.0 &              1044.0 &                  1044.0 & 1044.0 \\
 mean  &     35.6 &                       72.7 &     40.0 &                       84.1 &    \textbf{180.4} &                      \textbf{462.1} &    \textbf{354.1} &                      \textbf{900.4} &    \textbf{623.8} &                     \textbf{1563.3} &               726.6 &                  1810.9 &  620.9 \\
@@ -540,10 +547,10 @@ std   &     14.1 &                       42.6 &     16.7 &                      
 \begin{table}[H]
 \center
 \tiny
-\begin{tabular}{p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.4cm}}
+\begin{tabular}{p{0.4cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.4cm}}
 \toprule
 (1000) &  Jun~1,~20 & &  Sep~9,~20 & & Dec~15,~20 & & Feb~1,~21 & & May~1,~21 & & Dec~15,~20~~~to~~~end   \\
-{} &  sym. &  all &  sympt. &  totalInf. &  sympt. &  totalInf. &  sympt. &  totalInf. &  sympt. &  totalInf. &  sympt. &  totalInf.  & days\\
+cum.~v. &  sym. &  all &  sympt. &  totalInf. &  sympt. &  totalInf. &  sympt. &  totalInf. &  sympt. &  totalInf. &  sympt. &  totalInf.  & days\\
 \midrule
 count &   1407.0 &                     1407.0 &   1407.0 &                     1407.0 &    874.0 &                      874.0 &    719.0 &                      719.0 &    523.0 &                      523.0 &              874.0 &                   874.0 &  874.0 \\
 mean  &     35.6 &                       72.7 &     40.0 &                       84.1 &    \textbf{130.0} &                      \textbf{340}.6 &    \textbf{194.4} &                      \textbf{512.8} &    \textbf{295.7} &                      \textbf{791.2} &               252.7 &                   666.4 &  494.1 \\
@@ -572,7 +579,7 @@ std   &     14.1 &                       42.6 &     16.7 &                      
 \end{frame}
 
 %4%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}{Second w., new infect. from outside, with new specific meas. -20 days\footnote{Anticipation limit Oct 5.}}
+\begin{frame}{Second w., new infect. from outside, with new specific meas. -20 days\footnote{N.B.: (i) anticipation limit Oct 5.; (ii) also the ending date of each measure is anticipated of 20 days.}}
 
 % selectResults10kStableSeedsCPoints_basicControlB_schoolOpenSeptOctMar-20ControlChangingWorldNewStart_plusHMlog.ipynb
 % using 10kCtrl1NStartCtrl2M-20.csv from SIsaR_0.9.5.4.1trials10kCtrl1NStartCtrl2M-20.nlogo
@@ -591,10 +598,10 @@ std   &     14.1 &                       42.6 &     16.7 &                      
 \begin{table}[H]
 \center
 \tiny
-\begin{tabular}{p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.4cm}}
+\begin{tabular}{p{0.4cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.4cm}}
 \toprule
 (1000) &  Jun~1,~20 & &  Sep~9,~20 & & Dec~15,~20 & & Feb~1,~21 & & May~1,~21 & & Dec~15,~20~~~to~~~end   \\
-{} &  sym. &  all &  sympt. &  totalInf. &  sympt. &  totalInf. &  sympt. &  totalInf. &  sympt. &  totalInf. &  sympt. &  totalInf.  & days\\
+cum.~v. &  sym. &  all &  sympt. &  totalInf. &  sympt. &  totalInf. &  sympt. &  totalInf. &  sympt. &  totalInf. &  sympt. &  totalInf.  & days\\
 \midrule
 count &   1407.0 &                     1407.0 &   1407.0 &                     1407.0 &    769.0 &                      769.0 &    637.0 &                      637.0 &    471.0 &                      471.0 &              769.0 &                   769.0 &  769.0 \\
 mean  &     35.6 &                       72.7 &     40.0 &                       84.1 &    \textbf{{\color{red}112.2}} &                     \textbf{{\color{red} 294.2}} &    \textbf{172.0} &                      \textbf{467.9} &    \textbf{276.5} &                      \textbf{748.6} &              248.9 &                   663.4 &  499.3 \\
@@ -614,8 +621,8 @@ std   &     14.1 &                       42.6 &     16.7 &                      
 
 \begin{itemize}
 
-\item A quite impressive analysis in Nature, 16 FEBRUARY 2021, 
-The coronavirus is here to stay---here's what that means
+\item A quite impressive analysis  in Nature, Feb. 16, 2021, 
+\emph{The coronavirus is here to stay---here's what that means}
 
 \medskip
 
@@ -628,7 +635,7 @@ The coronavirus is here to stay---here's what that means
 \medskip
 
 \item
-If Nature is right, a possible long-term strategy is to stop all fragile people for a given period when $R_t$ starts increasing (fragile workers in sick leave, if unable to work remotely.
+If Nature is right, a possible long-term strategy is to stop all fragile people for a given period when $R_t$ starts increasing (also with fragile workers in sick leave, if unable to work remotely).
 
 \medskip
 
@@ -636,11 +643,12 @@ With social benefits, e.g., schooling, and economic benefits, if activities do n
 
 \medskip
 
-The same strategy would also have been surprisingly efficient now, for the second wave.
+\item Besides, mainly for the fragile people, adopt prevention and vaccinations.
 
 \medskip
 
-Besides, mainly for the fragile people, adopt prevention and vaccinations.
+\item A note: the same strategy would also have been surprisingly efficient now, for the second wave.
+
 \end{itemize}
 
 \end{frame}
@@ -689,7 +697,7 @@ std   &     14.1 &                       42.6 &     16.7 &                      
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}{To recap}
+\begin{frame}{To recap (second wave)}
 
 \begin{table}[H]
 \center
@@ -741,7 +749,7 @@ second wave       & std   &  89.6 &        234.2 &   170.7 &          450.2 &  1
 \end{frame}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Planning a vaccination campaign}
+\section{Planning vaccination campaigns}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{Planning a vaccination campaign}
@@ -751,7 +759,7 @@ second wave       & std   &  89.6 &        234.2 &   170.7 &          450.2 &  1
 
 \bigskip
 
-\item We compare the effect of choosing vaccination quotas via GA with two predetermined strategies.
+\item We compare the effect of choosing vaccination quotas via GAs with two predetermined strategies.
 
 \bigskip
 
@@ -893,7 +901,7 @@ Susc. at t = 0                   & 133 & 84 & 240 & 1560 & 1179 & 254 & 900 \\
 \end{frame}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}{GA quotas, an example in case I, with vaccinated people still spreading the infection}
+\begin{frame}{GAs quotas, an example in case I, with vaccinated people still spreading the infection}
 
 \medskip
 
@@ -933,7 +941,7 @@ From day & \begin{tabular}[c]{@{}c@{}}Q. of \\ vaccines \\ (000)\end{tabular} & 
 \bottomrule  
 \end{tabular}
 \end{small}
-\caption{GA best strategy in case I, with \emph{vaccinated people still spreading the infection}: from the day of the first column, considering the quantity of the second column, the vaccination of each group follows the quota of the related columns}
+\caption{GAs best strategy in case I, with \textbf{\emph{vaccinated people still spreading the infection}}: from the day of the first column, considering the quantity of the second column, the vaccination of each group follows the quota of the related columns}
 \label{quotaTableCaseForGA_I_1>413bestGA}
 \end{table}
 
@@ -941,9 +949,55 @@ From day & \begin{tabular}[c]{@{}c@{}}Q. of \\ vaccines \\ (000)\end{tabular} & 
 \end{frame}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{GAs quotas, an example in case II, with vaccinated people still spreading the infection}
+
+\medskip
+
+\begin{table}[H]
+\centering
+\begin{small} % or footnotesize, scriptsize, tiny, etc.
+\begin{tabular}{lccccccc}
+\toprule
+& \emph{g1} & \emph{g2} & \emph{g3} & \emph{g4} & \emph{g5} & \emph{g6} & \emph{g7} \\
+\midrule
+Susc. at t = 0 &116 & 108 & 244 & 1530 & 1216 & 250 & 886 \\
+Susc. when\\vacc. starts & 92 & 105 & 170 & 1300 & 1104 & 245 & 878 \\
+\bottomrule  
+\end{tabular}
+\end{small}
+\caption{Case II: susceptible persons at the beginning of the simulation and when the vaccination campaign starts,  day 373, Feb. \nth{12}, 2021}
+\label{susceptibleCaseForGA_I}
+\end{table}
+Groups: (\emph{g1}) extra fragile people, (\emph{g2}) teachers, (\emph{g3}) fragile workers, (\emph{g4}) regular workers, (\emph{g5}) fragile people, (\emph{g6}) regular people, (\emph{g7}) young people.
+
+\medskip
+
+\begin{table}[H]
+\centering
+\begin{small} % or footnotesize, scriptsize, tiny, etc.
+\begin{tabular}{cclllllll}
+\toprule
+From day & \begin{tabular}[c]{@{}c@{}}Q. of \\ vaccines \\ (000)\end{tabular} & \emph{g1} & \emph{g2} & \emph{g3} & \emph{g4} & \emph{g5} & \emph{g6} & \emph{g7} \\
+\midrule
+373 & 5 & 0.03 & 0 & 0.97 & 0.75 & 0.89 & 0.59 & 0.9 \\
+433 & 10 & 0.97 & 0.97 & 0.45 & 0.78 & 0.22 & 0.82 & 0.8 \\
+493 & 10 & 0.35 & 0.37 & 0.07 & 0.63 & 0.04 & 0.41 & 0.03 \\
+553 & 10 & 0.45 & 0 & 0.9 & 0.29 & 0.01 & 0.07 & 0.12 \\
+613 & 20 & 0.31 & 0.22 & 0.35 & 0.41 & 0.52 & 0.22 & 0.68 \\
+738      & end   \\ 
+\bottomrule  
+\end{tabular}
+\end{small}
+\caption{GAs best strategy in case II, with \textbf{\emph{vaccinated people still spreading the infection}}: from the day of the first column, considering the quantity of the second column, the vaccination of each group follows the quota of the related columns}
+\label{quotaTableCaseForGA_I_1>413bestGA}
+\end{table}
+
+
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{Synopsys}
 
-Three hypotheses about contagion transmission from vaccinate people if infected: 100\%, never, 50\%.
+Three hypotheses about contagion transmission from vaccinated people, if infected: 100\%, never, 50\%.
 
 \medskip
 
@@ -953,7 +1007,7 @@ Three hypotheses about contagion transmission from vaccinate people if infected:
 \begin{tabular}{llllllllllll}
 \toprule
 Case    & At   & Final      & Final        & Final       & Final      & Final       & Final    & Final        & Final    & Final        & Final     \\
-             & day & no         & plain       & wise        & GA         & plain       & wise        & GA         & plain       & wise        & GA    \\
+             & day & no         & plain       & wise        & GAs         & plain       & wise        & GAs         & plain       & wise        & GAs    \\
              & 413 & vaccin. & vaccin.    & vaccin.  & vaccin.  & vaccin.  & vaccin.  & vaccin.  & vaccin.  & vaccin.  & vaccin.  \\
  (1000) &        &              &  infect.  &  infect. &  infect. &  infect. &  infect. &  infect. &  infect. &  infect. &  infect.\\
              &       &              &  100\%   &  100\% &  100\% &  0\% &  0\% &  0\% & 50\% &  50\% &  50\% \\
