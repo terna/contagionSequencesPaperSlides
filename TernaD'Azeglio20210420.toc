@@ -1,0 +1,20 @@
+\babel@toc {english}{}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{The model}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{Overview}{6}{0}{2}
+\beamer@subsectionintoc {2}{2}{Details}{8}{0}{2}
+\beamer@sectionintoc {3}{Contagions}{11}{0}{3}
+\beamer@subsectionintoc {3}{1}{Contagion representation}{11}{0}{3}
+\beamer@subsectionintoc {3}{2}{An introductory example}{12}{0}{3}
+\beamer@subsectionintoc {3}{3}{A significant sequence}{14}{0}{3}
+\beamer@sectionintoc {4}{Exploring cases}{14}{0}{4}
+\beamer@subsectionintoc {4}{1}{Simulation batches}{14}{0}{4}
+\beamer@subsectionintoc {4}{2}{Epidemics without and with control}{15}{0}{4}
+\beamer@subsectionintoc {4}{3}{Actual data}{17}{0}{4}
+\beamer@subsectionintoc {4}{4}{Second wave}{20}{0}{4}
+\beamer@sectionintoc {5}{Planning vaccination campaigns}{28}{0}{5}
+\beamer@subsectionintoc {5}{1}{Introduction}{28}{0}{5}
+\beamer@subsectionintoc {5}{2}{Experiment I}{35}{0}{5}
+\beamer@subsectionintoc {5}{3}{Experiment II}{39}{0}{5}
+\beamer@sectionintoc {6}{A new model}{44}{0}{6}
+\beamer@sectionintoc {7}{Final remarks}{47}{0}{7}
