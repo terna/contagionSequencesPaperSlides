@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  19 APR 2021 19:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  19 APR 2021 19:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -793,9 +793,6 @@ LaTeX Warning: Label `quotaTableCaseForGA_I_1>413bestGA' multiply defined.
 
 
 LaTeX Warning: Label `Experiment_I_plainSymptomaticSeries' multiply defined.
-
-
-LaTeX Warning: Label `Experiment_I_GAs1SymptomaticSeries' multiply defined.
 
 )
 \openout1 = `TernaD'Azeglio20210420.aux'.
@@ -3370,7 +3367,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  20752 strings out of 480608
  393137 string characters out of 5903631
- 710754 words of memory out of 5000000
+ 710914 words of memory out of 5000000
  35930 multiletter control sequences out of 15000+600000
  583356 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -3385,7 +3382,7 @@ f-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2020/texmf-dist/
 fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/
 type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/u
 rw/helvetic/uhvro8a.pfb>
-Output written on TernaD'Azeglio20210420.pdf (47 pages, 3112890 bytes).
+Output written on TernaD'Azeglio20210420.pdf (47 pages, 3109879 bytes).
 PDF statistics:
  4049 PDF objects out of 4296 (max. 8388607)
  3814 compressed objects within 39 object streams
