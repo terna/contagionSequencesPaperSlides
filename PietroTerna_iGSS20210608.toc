@@ -1,0 +1,17 @@
+\babel@toc {english}{}
+\beamer@sectionintoc {1}{The model}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{How the model works}{10}{0}{2}
+\beamer@subsectionintoc {2}{1}{A circular scheme}{10}{0}{2}
+\beamer@subsectionintoc {2}{2}{Contagion representation}{11}{0}{2}
+\beamer@sectionintoc {3}{Exploring cases}{14}{0}{3}
+\beamer@subsectionintoc {3}{1}{Simulation batches}{14}{0}{3}
+\beamer@subsectionintoc {3}{2}{Epidemics without and with control}{15}{0}{3}
+\beamer@subsectionintoc {3}{3}{Actual data}{17}{0}{3}
+\beamer@sectionintoc {4}{Factual and counterfactual analyses}{20}{0}{4}
+\beamer@sectionintoc {5}{Planning vaccination campaigns}{28}{0}{5}
+\beamer@subsectionintoc {5}{1}{Introduction}{28}{0}{5}
+\beamer@subsectionintoc {5}{2}{An experiment with GA}{34}{0}{5}
+\beamer@subsectionintoc {5}{3}{What if}{38}{0}{5}
+\beamer@sectionintoc {6}{A new model}{42}{0}{6}
+\beamer@sectionintoc {7}{Final remarks}{45}{0}{7}
