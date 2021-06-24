@@ -1,0 +1,21 @@
+\begin{thebibliography}{1}
+\ProvideTextCommand{\guillemotleft}{OT1}{%
+  \leavevmode\raise .27ex\hbox{$\scriptscriptstyle\ll$}}
+\ProvideTextCommand{\guillemotright}{OT1}{%
+  \leavevmode\raise .27ex\hbox{$\scriptscriptstyle\gg$}}
+\newcommand{\enquote}[1]{\guillemotleft#1\guillemotright}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{Mena {\it et~al.\/}(2021)Mena, Martinez, Mahmud, Marquet, Buckee and
+  Santillana}]{Menaeabg5298}
+Mena, G.~E., Martinez, P.~P., Mahmud, A.~S., Marquet, P.~A., Buckee, C.~O. and
+  Santillana, M. (2021).
+\newblock {\it Socioeconomic status determines COVID-19 incidence and related
+  mortality in Santiago, Chile\/}.
+\newblock In \enquote{Science}, vol. 372(6545).
+\newline\urlprefix\url{https://science.sciencemag.org/content/372/6545/eabg5298}
+
+\end{thebibliography}

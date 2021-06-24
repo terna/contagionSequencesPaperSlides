@@ -39,6 +39,8 @@
 
 \usepackage[font=scriptsize,skip=1pt]{caption}
 
+\usepackage{float} % tp use H in figure position
+
 \setbeamertemplate{caption}[numbered]
 
 \title[Epidemic dynamics] % (optional, use only with long paper titles)
@@ -186,7 +188,7 @@ The model includes the structural data of Piedmont, an Italian region, but we ca
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{~}
 
-\begin{figure}[t]
+\begin{figure}[H]
 \center
 \includegraphics[scale=0.25]{Piedmont.png}
 
@@ -218,7 +220,7 @@ The model includes the structural data of Piedmont, an Italian region, but we ca
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %\begin{frame}{The interface and the information sheet}
 
-%\begin{figure}[t]
+%\begin{figure}[H]
 %\center
 %\includegraphics[scale=0.14]{interface2021.png}
 
@@ -231,7 +233,7 @@ The model includes the structural data of Piedmont, an Italian region, but we ca
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %\begin{frame}{The interface and the information sheet}
 
-%\begin{figure}[t]
+%\begin{figure}[H]
 %\center
 %\includegraphics[scale=0.23]{info1b.png}~~~\includegraphics[scale=0.23]{info2b.png}
 
@@ -244,7 +246,7 @@ The model includes the structural data of Piedmont, an Italian region, but we ca
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %\begin{frame}{The world}
 
-%\begin{figure}[t]
+%\begin{figure}[H]
 %\center
 %\includegraphics[scale=0.35]{world.png}
 
@@ -257,7 +259,7 @@ The model includes the structural data of Piedmont, an Italian region, but we ca
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{The world 3D}
 
-\begin{figure}[t]
+\begin{figure}[H]
 \center
 \includegraphics[scale=0.55]{world3D.png}
 
@@ -270,7 +272,7 @@ The model includes the structural data of Piedmont, an Italian region, but we ca
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %\begin{frame}{The agents}
 
-%\begin{figure}[t]
+%\begin{figure}[H]
 %\center
 %\includegraphics[scale=0.23]{person1.png}~~~~~~~~~~~~~~~~~~~~\includegraphics[scale=0.23]{person2.png}
 
@@ -289,7 +291,7 @@ The model includes the structural data of Piedmont, an Italian region, but we ca
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{A circular scheme}
 
-\begin{figure}[t]
+\begin{figure}[H]
 \center
 \includegraphics[scale=0.12]{SIsaR_outline.png}
 
@@ -326,7 +328,7 @@ This enables understanding at a glance how an epidemic episode is developing. In
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{Examples (1/2)}
 
-\begin{figure}[t]
+\begin{figure}[H]
 \center
 \includegraphics[width=0.9\textwidth]{with8b40.png}% with control case 473323 474697 in SIsaR_0.9.4.1 experiments 2 seeds with control-table_10000.csv, file withControl_473323_474697.csv
 \caption{A case with containment measures, first 40 infections: workplaces (brown) and nursing homes (orange) strictly interweaving}
@@ -337,7 +339,7 @@ This enables understanding at a glance how an epidemic episode is developing. In
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{Examples (2/2), whole epidemic}
 
-\begin{figure}[t]
+\begin{figure}[H]
 \center
 \includegraphics[width=0.9\textwidth]{with8a.png}% with control case 473323 474697 in SIsaR_0.9.4.1 experiments 2 seeds with control-table_10000.csv, file withControl_473323_474697.csv
 \caption{A Case with containment measures, the whole epidemics: workplaces (brown) and nursing homes (orange) and then houses (cyan), with a bridge connecting two waves}
@@ -387,7 +389,7 @@ In our batches we have 10,000 runs.
 
 % readRunResults10kStableSeedsCPoints_noControl_ChangingWorld_plusHMlog
 
-\begin{table}[t]
+\begin{table}[H]
 \center
 \tiny
 
@@ -405,7 +407,7 @@ std   &       308.80 &                  802.88 &     93.50 \\
 %\caption{a caption}
 \end{table}
 
-\begin{figure}[t]
+\begin{figure}[H]
 \center
 \includegraphics[scale=0.22]{10kNoControl.png}
 \caption{Without non-pharmaceutical containment measures} 
@@ -420,7 +422,7 @@ std   &       308.80 &                  802.88 &     93.50 \\
 
 % readRunResults10kStableSeedsCPoints_basicControlB_schoolOpenSeptChangingWorld_plusHMlog
 
-\begin{table}[t]
+\begin{table}[H]
 \center
 \tiny
 
@@ -438,7 +440,7 @@ std   &       368.49 &                  916.41 &    213.48 \\
 %\caption{a caption}
 \end{table}
 
-\begin{figure}[t]
+\begin{figure}[H]
 \center
 \includegraphics[scale=0.22]{10kBasicC.png}
 \caption{First wave with non-pharmaceutical containment measures} 
@@ -454,7 +456,7 @@ std   &       368.49 &                  916.41 &    213.48 \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{Key points (Summer and Fall 2020)}
 
-\begin{figure}[t]
+\begin{figure}[H]
 \center
 \includegraphics[scale=0.25]{andamento900annotato.jpg}
 \caption{key points in epidemic dynamic in Summe and Fall 2020} 
@@ -488,7 +490,7 @@ std   &       368.49 &                  916.41 &    213.48 \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{Updated series, with a third wave (data until the beginning of June)}
 
-\begin{figure}[t]
+\begin{figure}[H]
 \center
 \includegraphics[scale=0.35]{andamento_iGSS.jpg}
 \caption{Data for Piedmont} 
@@ -512,7 +514,7 @@ std   &       368.49 &                  916.41 &    213.48 \\
 
 \textbf{170} {\tiny epidemics stable in Summer 2020 out of 10,000, rule: at Jun~1,~20 select if sym. (10, 70], actual v. 33.3 \& at Sep~20,~20 select if sym. (20, 90], actual value 37.5;} \textbf{140} {\tiny at Dec~15,~20, rule: sym.+asym.>Sep~20,~20, actual value: 200.0.}
 
-\begin{figure}[t]
+\begin{figure}[H]
 \center
 \includegraphics[scale=0.17]{10kSpontWave2.png}
 \caption{First wave with non-pharmaceutical containment measures, spontaneous second wave, without specific measures}
@@ -521,7 +523,7 @@ std   &       368.49 &                  916.41 &    213.48 \\
 
 %\vspace{-0.4cm}
 
-\begin{table}[t]
+\begin{table}[H]
 \center
 \tiny
 \begin{tabular}{p{0.4cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.4cm}}
@@ -550,7 +552,7 @@ std   &     16.4 &                       61.0 &     19.6 &                      
 
 \textbf{1407} {\tiny epidemics stable in Summer 2020 out of 10,000, rule: at Jun~1,~20 select if sym. (10, 70], actual v. 33.3 \& at Sep~20,~20 select if sym. (20, 90], actual value 37.5;} \textbf{1044} {\tiny at Dec~15,~20, rule: sym.+asym.>Sep~20,~20, actual value: 200.0.}
 
-\begin{figure}[t]
+\begin{figure}[H]
 \center
 \includegraphics[scale=0.17]{10kForceWave2.png}
 \caption{First wave with non-pharmaceutical containment measures, forcing the second wave, without specific measures}
@@ -559,7 +561,7 @@ std   &     16.4 &                       61.0 &     19.6 &                      
 
 %\vspace{-0.4cm}
 
-\begin{table}[t]
+\begin{table}[H]
 \center
 \tiny
 \begin{tabular}{p{0.4cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.4cm}}
@@ -588,7 +590,7 @@ std   &     14.1 &                       42.6 &     16.7 &                      
 
 \textbf{1407} {\tiny epidemics stable in Summer 2020 out of 10,000, rule: at Jun~1,~20 select if sym. (10, 70], actual v. 33.3 \& at Sep~20,~20 select if sym. (20, 90], actual value 37.5;} \textbf{874} {\tiny at Dec~15,~20, rule: sym.+asym.>Sep~20,~20, actual value: 200.0.}
 
-\begin{figure}[t]
+\begin{figure}[H]
 \center
 \includegraphics[scale=0.17]{10kForceWave2Contr2.png}
 \caption{First wave with non-ph. containment measures, forcing the second wave, \textbf{with new specific non-ph. containment measures}}
@@ -597,7 +599,7 @@ std   &     14.1 &                       42.6 &     16.7 &                      
 
 %\vspace{-0.4cm}
 
-\begin{table}[t]
+\begin{table}[H]
 \center
 \tiny
 \begin{tabular}{p{0.4cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.4cm}}
@@ -621,7 +623,7 @@ std   &     14.1 &                       42.6 &     16.7 &                      
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{Time factor}
 
-\begin{figure}[t]
+\begin{figure}[H]
 \center
 \includegraphics[scale=0.21]{RtEstimation3.jpg}
 \caption{In blue the $R_t$ values as reported by the Istituto Superiore di Sanit\`{a} and in red the calculation published regularly at \url{https://mondoeconomico.eu} by Stefano Terna\footnote{Methodology: \url{https://github.com/tomorrowdata/COVID-19/blob/main/notebooks/Rt_on_italian_national_data.ipynb}}.}
@@ -639,7 +641,7 @@ std   &     14.1 &                       42.6 &     16.7 &                      
 
 \textbf{1407} {\tiny epidemics stable in Summer 2020 out of 10,000, rule: at Jun~1,~20 select if sym. (10, 70], actual v. 33.3 \& at Sep~20,~20 select if sym. (20, 90], actual value 37.5;} \textbf{769} {\tiny at Dec~15,~20, rule: sym.+asym.>Sep~20,~20, actual value: 200.0.}
 
-\begin{figure}[t]
+\begin{figure}[H]
 \center
 \includegraphics[scale=0.17]{10kForceWave2Contr2M-20.png}
 \caption{First wave with non-ph. cont. meas., forcing the second wave, \textbf{with new specific non-ph. cont. meas., 20 day anticipation}}
@@ -648,7 +650,7 @@ std   &     14.1 &                       42.6 &     16.7 &                      
 
 %\vspace{-0.4cm}
 
-\begin{table}[t]
+\begin{table}[H]
 \center
 \tiny
 \begin{tabular}{p{0.4cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.4cm}}
@@ -696,7 +698,7 @@ We have also relevant social benefits, e.g., schooling, and economic benefits, a
 
 \textbf{1407} {\tiny epidemics stable in Summer 2020 out of 10,000, rule: at Jun~1,~20 select if sym. (10, 70], actual v. 33.3 \& at Sep~20,~20 select if sym. (20, 90], actual value 37.5;} \textbf{886} {\tiny at Dec~15,~20, rule: sym.+asym.>Sep~20,~20, actual value: 200.0.}
 
-\begin{figure}[t]
+\begin{figure}[H]
 \center
 \includegraphics[scale=0.17]{10kForceWave2NoFragOct5for60d.png}
 \caption{First wave with non-ph. cont. meas., forcing the sec. w.; \textbf{in sec. w., uniquely stop fragile people, including fragile workers}} 
@@ -705,7 +707,7 @@ We have also relevant social benefits, e.g., schooling, and economic benefits, a
 
 %\vspace{-0.4cm} 
 
-\begin{table}[t]
+\begin{table}[H]
 \center
 \tiny
 \begin{tabular}{p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.3cm}p{0.4cm}}
@@ -732,7 +734,7 @@ std   &     14.1 &                       42.6 &     16.7 &                      
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{To recap (all waves)}
 
-\begin{table}[t]
+\begin{table}[H]
 \center
 \footnotesize
 \begin{tabular}{p{1.8cm}p{0.5cm}p{0.5cm}p{0.5cm}p{0.5cm}p{0.5cm}p{0.5cm}}
@@ -845,7 +847,7 @@ We take into consideration seven groups in order of decreasing fragility but als
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{A specific realistic case}
 
-\begin{figure}[t]
+\begin{figure}[H]
 \center
 \includegraphics[scale=0.2]{CaseForGA_I_base.png}
 \caption{Crucial dates: blue line for the starting point of the vaccination campaign and red line for the start of the effectiveness of the initial vaccinations}
@@ -861,7 +863,7 @@ We take into consideration seven groups in order of decreasing fragility but als
 Considering the \emph{plain} option adopted in Table \ref{quotaTable1} and remembering that the time-sequence in daily actions is the priority, we will primarily vaccinate the left column groups to move gradually to other columns: (\emph{g1}) extra fragile people, (\emph{g2}) teachers, (\emph{g3}) fragile workers, (\emph{g4}) regular workers, (\emph{g5}) fragile people, (\emph{g6}) regular people, (\emph{g7}) young people.
 \end{small}
 
-\begin{table}[t]
+\begin{table}[H]
 \centering
 \begin{small} % or footnotesize, scriptsize, tiny, etc.
 \begin{tabular}{ccccccccc}
@@ -881,7 +883,7 @@ From day & \begin{tabular}[c]{@{}c@{}}Q. of \\ vaccines \\ (000)\end{tabular} & 
 \label{quotaTable1}
 \end{table}
 
-\begin{table}[t]
+\begin{table}[H]
 \centering
 \begin{small} % or footnotesize, scriptsize, tiny, etc.
 \begin{tabular}{lccccccc}
@@ -907,7 +909,7 @@ Considering the \emph{wise} option adopted in Table \ref{quotaTable2} and rememb
 \end{small}
 
 
-\begin{table}[t]
+\begin{table}[H]
 \centering
 \begin{small} % or footnotesize, scriptsize, tiny, etc.
 \begin{tabular}{ccccccccc}
@@ -927,7 +929,7 @@ From day & \begin{tabular}[c]{@{}c@{}}Q. of \\ vaccines \\ (000)\end{tabular} & 
 \label{quotaTable2}
 \end{table}
 
-\begin{table}[t]
+\begin{table}[H]
 \centering
 \begin{small} % or footnotesize, scriptsize, tiny, etc.
 \begin{tabular}{lccccccc}
@@ -950,7 +952,7 @@ Susc. at t = 0                   & 133 & 84 & 240 & 1560 & 1179 & 254 & 900 \\
 
 \medskip
 
-\begin{table}[t]
+\begin{table}[H]
 \centering
 \begin{small} % or footnotesize, scriptsize, tiny, etc.
 \begin{tabular}{lccccccc}
@@ -970,7 +972,7 @@ Susc. when\\vacc. starts & 124 & 81 & 162 & 1234 & 1032 & 245 & 891 \\
 Groups: (\emph{g1}) extra fragile people, (\emph{g2}) teachers, (\emph{g3}) fragile workers, (\emph{g4}) regular workers, (\emph{g5}) fragile people, (\emph{g6}) regular people, (\emph{g7}) young people.
 \end{small}
 
-\begin{table}[t]
+\begin{table}[H]
 \centering
 \begin{small} % or footnotesize, scriptsize, tiny, etc.
 \begin{tabular}{cclllllll}
@@ -1002,7 +1004,7 @@ From day & \begin{tabular}[c]{@{}c@{}}Q. of \\ vaccines \\ (000)\end{tabular} & 
 \begin{frame}{Time dynamics without vaccinations}
 
 % using contagionSeriesByGroups.ipynb on Experiment_I_base.csv 
-\begin{figure}[t]
+\begin{figure}[H]
 \center
 \includegraphics[scale=0.16]{Experiment_I_base_symptomatic_series.png} 
 
@@ -1017,7 +1019,7 @@ From day & \begin{tabular}[c]{@{}c@{}}Q. of \\ vaccines \\ (000)\end{tabular} & 
 
 \begin{frame}{Time dynamics with \emph{plain} vac. strategy, vac. people still spreading the infection}
 
-\begin{figure}[t]
+\begin{figure}[H]
 \center
 \includegraphics[scale=0.16]{Experiment_I_plainVaccinationSequence.png} % experiment_I_vaccination_plots.ipynb
 
@@ -1026,7 +1028,7 @@ From day & \begin{tabular}[c]{@{}c@{}}Q. of \\ vaccines \\ (000)\end{tabular} & 
 \end{figure}
 
 % using contagionSeriesByGroups.ipynb on Experiment_I_plain_1.csv 
-\begin{figure}[t]
+\begin{figure}[H]
 \center
 \includegraphics[scale=0.16]{Experiment_I_1_plain_symptomatic_series.png} 
 
@@ -1041,7 +1043,7 @@ From day & \begin{tabular}[c]{@{}c@{}}Q. of \\ vaccines \\ (000)\end{tabular} & 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{Time dynamics with \emph{wise} vac. strategy, vac. people still spreading the infection}
 
-\begin{figure}[t]
+\begin{figure}[H]
 \center
 \includegraphics[scale=0.16]{Experiment_I_wiseVaccinationSequence.png} % experiment_I_vaccination_plots.ipynb
 
@@ -1050,7 +1052,7 @@ From day & \begin{tabular}[c]{@{}c@{}}Q. of \\ vaccines \\ (000)\end{tabular} & 
 \end{figure}
 
 % using contagionSeriesByGroups.ipynb on Experiment_I_wise_1.csv 
-\begin{figure}[t]
+\begin{figure}[H]
 \center
 \includegraphics[scale=0.16]{Experiment_I_1_wise_symptomatic_series.png} 
 
@@ -1065,7 +1067,7 @@ From day & \begin{tabular}[c]{@{}c@{}}Q. of \\ vaccines \\ (000)\end{tabular} & 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{Time dynamics with best GAs strategy, vac, people still spreading the infection}
 
-\begin{figure}[t]
+\begin{figure}[H]
 \center
 \includegraphics[scale=0.16]{Experiment_I_GA_1_VaccinationSequence.png} % experiment_I_vaccination_plots.ipynb
 
@@ -1074,7 +1076,7 @@ From day & \begin{tabular}[c]{@{}c@{}}Q. of \\ vaccines \\ (000)\end{tabular} & 
 \end{figure}
 
 % using contagionSeriesByGroups.ipynb on Experiment_I_1bestGA.csv 
-\begin{figure}[t]
+\begin{figure}[H]
 \center
 \includegraphics[scale=0.16]{Experiment_I_1_GAs_symptomatic_series.png} 
 
@@ -1093,7 +1095,7 @@ From day & \begin{tabular}[c]{@{}c@{}}Q. of \\ vaccines \\ (000)\end{tabular} & 
 \center
 What if we increase quantities in \emph{plain} and \emph{wise} strategies?
 
-\begin{table}[t]
+\begin{table}[H]
 \centering
 \begin{small} % or footnotesize, scriptsize, tiny, etc.
 \begin{tabular}{ccc}
@@ -1120,7 +1122,7 @@ From day & Q. & Q. + \\
 
 \begin{frame}{Time dynamics with \emph{plain+} vac. strategy, v. people still spreading the infection}
 
-\begin{figure}[t]
+\begin{figure}[H]
 \center
 \includegraphics[scale=0.16]{Experiment_I_plainPlusVaccinationSequence.png} % experiment_I_vaccination_plots.ipynb
 
@@ -1129,7 +1131,7 @@ From day & Q. & Q. + \\
 \end{figure}
 
 % using contagionSeriesByGroups.ipynb on Experiment_I_plainPlus_1.csv 
-\begin{figure}[t]
+\begin{figure}[H]
 \center
 \includegraphics[scale=0.16]{Experiment_I_1_plainPlus_symptomatic_series.png} 
 
@@ -1144,7 +1146,7 @@ From day & Q. & Q. + \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{Time dynamics with \emph{wise+} vac. strategy, v. people still spreading the infection}
 
-\begin{figure}[t]
+\begin{figure}[H]
 \center
 \includegraphics[scale=0.16]{Experiment_I_wisePlusVaccinationSequence.png} % experiment_I_vaccination_plots.ipynb
 
@@ -1153,7 +1155,7 @@ From day & Q. & Q. + \\
 \end{figure}
 
 % using contagionSeriesByGroups.ipynb on Experiment_I_wisePlus_1.csv 
-\begin{figure}[t]
+\begin{figure}[H]
 \center
 \includegraphics[scale=0.16]{Experiment_I_1_wisePlus_symptomatic_series.png} 
 
@@ -1175,7 +1177,7 @@ Hypothesis: vaccinated people, if infected, are diffusing the contagion.
 
 \medskip
 
-\begin{table}[t]
+\begin{table}[H]
 \centering
 %\begin{scriptsize} % or footnotesize, scriptsize, tiny, etc.
 \begin{tabular}{llllllll}
@@ -1202,7 +1204,7 @@ I            & 197 & 325 & 236 & 263 & \textbf{200} & 210 & 207  \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{A new model: the map}
 
-\begin{figure}[t]
+\begin{figure}[H]
 \center
 \includegraphics[scale=0.25]{Piem1.png}~~~~~~~~~\includegraphics[scale=0.25]{Piem2.png} 
 
@@ -1234,6 +1236,10 @@ I            & 197 & 325 & 236 & 263 & \textbf{200} & 210 & 207  \\
 
 \end{itemize}
 
+Take also in consideration conditions as in \emph{Socioeconomic status determines COVID-19 incidence and related mortality in Santiago, Chile}, \\
+
+\cite{Menaeabg5298}.
+
 \end{frame}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -1241,7 +1247,7 @@ I            & 197 & 325 & 236 & 263 & \textbf{200} & 210 & 207  \\
 
 Scientific advertising: \url{https://terna.github.io/SLAPP/}
 
-\begin{figure}[t]
+\begin{figure}[H]
 \center
 \includegraphics[scale=0.26]{SLAPP.png}
 
@@ -1278,5 +1284,7 @@ The importance of High Performance Computing.
  
 \end{frame}
 
+\bibliographystyle{plainnatmm}
+\bibliography{bibliografiaGenerale}
 
 \end{document}

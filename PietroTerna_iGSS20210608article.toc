@@ -1,17 +1,17 @@
 \babel@toc {english}{}
 \contentsline {section}{\numberline {1}The model}{1}{section.1}%
 \contentsline {subsection}{\numberline {1.1}Introduction}{1}{subsection.1.1}%
-\contentsline {section}{\numberline {2}How the model works}{4}{section.2}%
-\contentsline {subsection}{\numberline {2.1}A circular scheme}{4}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Contagion representation}{4}{subsection.2.2}%
-\contentsline {section}{\numberline {3}Exploring cases}{5}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Simulation batches}{5}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Epidemics without and with control}{6}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Actual data}{7}{subsection.3.3}%
-\contentsline {section}{\numberline {4}Factual and counterfactual analyses}{8}{section.4}%
-\contentsline {section}{\numberline {5}Planning vaccination campaigns}{11}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Introduction}{11}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}An experiment with GA}{14}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}What if}{14}{subsection.5.3}%
-\contentsline {section}{\numberline {6}A new model}{15}{section.6}%
-\contentsline {section}{\numberline {7}Final remarks}{17}{section.7}%
+\contentsline {section}{\numberline {2}How the model works}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}A circular scheme}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Contagion representation}{6}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Exploring cases}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Simulation batches}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Epidemics without and with control}{8}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Actual data}{9}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Factual and counterfactual analyses}{10}{section.4}%
+\contentsline {section}{\numberline {5}Planning vaccination campaigns}{15}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Introduction}{15}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}An experiment with GA}{18}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}What if}{20}{subsection.5.3}%
+\contentsline {section}{\numberline {6}A new model}{22}{section.6}%
+\contentsline {section}{\numberline {7}Final remarks}{24}{section.7}%
