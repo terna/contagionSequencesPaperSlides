@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  29 OCT 2021 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  30 OCT 2021 12:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -762,26 +762,7 @@ File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count318
 \l__pdf_internal_box=\box73
 )
-(./PietroTerna_AccademiaAgricoltura20211110.aux
-
-LaTeX Warning: Label `workplacesNursingHomes' multiply defined.
-
-
-LaTeX Warning: Label `Experiment_I_plainSymptomaticSeries' multiply defined.
-
-
-LaTeX Warning: Label `Experiment_I_plainVaccinationSequence' multiply defined.
-
-
-LaTeX Warning: Label `Experiment_I_plainSymptomaticSeries' multiply defined.
-
-
-LaTeX Warning: Label `Experiment_I_wiseVaccinationSequence' multiply defined.
-
-
-LaTeX Warning: Label `Experiment_I_wiseSymptomaticSeries' multiply defined.
-
-)
+No file PietroTerna_AccademiaAgricoltura20211110.aux.
 \openout1 = `PietroTerna_AccademiaAgricoltura20211110.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
@@ -800,7 +781,6 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 69.
 LaTeX Font Info:    ... okay on input line 69.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 69.
 LaTeX Font Info:    ... okay on input line 69.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -884,8 +864,6 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 69.
 LaTeX Info: Redefining \pageref on input line 69.
 LaTeX Info: Redefining \nameref on input line 69.
- (./PietroTerna_AccademiaAgricoltura20211110.out)
-(./PietroTerna_AccademiaAgricoltura20211110.out)
 \@outlinefile=\write5
 \openout5 = `PietroTerna_AccademiaAgricoltura20211110.out'.
 
@@ -955,22 +933,22 @@ Dictionary: translator-theorem-dictionary, Language: English
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
  (./PietroTerna_AccademiaAgricoltura20211110.nav)
-Overfull \hbox (6.25897pt too wide) detected at line 69
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+Overfull \hbox (4.87386pt too wide) detected at line 69
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
-<logo2_unito.png, id=142, 131.692pt x 126.874pt>
+<logo2_unito.png, id=67, 131.692pt x 126.874pt>
 File: logo2_unito.png Graphic file (type png)
 <use logo2_unito.png>
 Package pdftex.def Info: logo2_unito.png  used on input line 80.
 (pdftex.def)             Requested size: 24.58374pt x 23.68427pt.
-<CCA_Logo2.png, id=144, 99.2508pt x 96.36pt>
+<CCA_Logo2.png, id=69, 99.2508pt x 96.36pt>
 File: CCA_Logo2.png Graphic file (type png)
 <use CCA_Logo2.png>
 Package pdftex.def Info: CCA_Logo2.png  used on input line 80.
 (pdftex.def)             Requested size: 24.58374pt x 23.86644pt.
-<A_agr.jpeg, id=145, 211.79124pt x 239.89626pt>
+<A_agr.jpeg, id=70, 211.79124pt x 239.89626pt>
 File: A_agr.jpeg Graphic file (type jpg)
 <use A_agr.jpeg>
 Package pdftex.def Info: A_agr.jpeg  used on input line 80.
@@ -992,2308 +970,2295 @@ LaTeX Font Info:    Trying to load font information for T1+pcr on input line 80
 (/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
 [1{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
  <./logo2_unito.png> <./CCA_Logo2.png> <./A_agr.jpeg>]
-(./PietroTerna_AccademiaAgricoltura20211110.toc)
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+No file PietroTerna_AccademiaAgricoltura20211110.toc.
+
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
 [2
 
 ]
-<abm1.png, id=381, 1001.7425pt x 704.6325pt>
+<abm1.png, id=278, 1001.7425pt x 704.6325pt>
 File: abm1.png Graphic file (type png)
 <use abm1.png>
 Package pdftex.def Info: abm1.png  used on input line 104.
 (pdftex.def)             Requested size: 270.47409pt x 190.25331pt.
 
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
 [3
 
  <./abm1.png>]
-<tools.png, id=465, 2117.9125pt x 1453.43pt>
+<tools.png, id=361, 2117.9125pt x 1453.43pt>
 File: tools.png Graphic file (type png)
 <use tools.png>
 Package pdftex.def Info: tools.png  used on input line 117.
 (pdftex.def)             Requested size: 296.50574pt x 203.4788pt.
 
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
 [4
 
  <./tools.png>]
-<scheme.png, id=547, 1067.99pt x 758.835pt>
+<scheme.png, id=441, 1067.99pt x 758.835pt>
 File: scheme.png Graphic file (type png)
 <use scheme.png>
 Package pdftex.def Info: scheme.png  used on input line 129.
 (pdftex.def)             Requested size: 277.67085pt x 197.29245pt.
 
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
 [5
 
  <./scheme.png>]
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
 [6
 
 ]
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
 [7
 
 ]
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
 [8
 
 ]
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
 [9
 
 ]
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
 [10
 
 ]
-<Piedmont.png, id=1036, 853.1875pt x 721.69624pt>
-File: Piedmont.png Graphic file (type png)
-<use Piedmont.png>
-Package pdftex.def Info: Piedmont.png  used on input line 241.
-(pdftex.def)             Requested size: 213.29636pt x 180.42361pt.
-
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
 [11
 
- <./Piedmont.png>]
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+]
+<world3D.png, id=991, 590.205pt x 351.3125pt>
+File: world3D.png Graphic file (type png)
+<use world3D.png>
+Package pdftex.def Info: world3D.png  used on input line 300.
+(pdftex.def)             Requested size: 324.61375pt x 193.22246pt.
+
+Overfull \hbox (17.32388pt too wide) in paragraph at lines 300--300
+ [] 
+ []
+
+
+Overfull \vbox (4.23016pt too high) detected at line 300
+ []
+
+
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
 [12
 
-]
-<world3D.png, id=1200, 590.205pt x 351.3125pt>
-File: world3D.png Graphic file (type png)
-<use world3D.png>
-Package pdftex.def Info: world3D.png  used on input line 312.
-(pdftex.def)             Requested size: 324.61375pt x 193.22246pt.
+ <./world3D.png>]
+<SIsaR_outline.png, id=1071, 2569.6pt x 1515.6625pt>
+File: SIsaR_outline.png Graphic file (type png)
+<use SIsaR_outline.png>
+Package pdftex.def Info: SIsaR_outline.png  used on input line 332.
+(pdftex.def)             Requested size: 308.3387pt x 181.87164pt.
 
-Overfull \hbox (17.32388pt too wide) in paragraph at lines 312--312
+Overfull \hbox (1.04883pt too wide) in paragraph at lines 332--332
  [] 
  []
 
 
-Overfull \vbox (4.29019pt too high) detected at line 312
- []
-
-
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
 [13
 
- <./world3D.png>]
-<SIsaR_outline.png, id=1284, 2569.6pt x 1515.6625pt>
-File: SIsaR_outline.png Graphic file (type png)
-<use SIsaR_outline.png>
-Package pdftex.def Info: SIsaR_outline.png  used on input line 344.
-(pdftex.def)             Requested size: 308.3387pt x 181.87164pt.
-
-Overfull \hbox (1.04883pt too wide) in paragraph at lines 344--344
- [] 
- []
-
-
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+ <./SIsaR_outline.png>]
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
 [14
 
- <./SIsaR_outline.png>]
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+]
+<with8b40.png, id=1233, 961.5925pt x 552.0625pt>
+File: with8b40.png Graphic file (type png)
+<use with8b40.png>
+Package pdftex.def Info: with8b40.png  used on input line 367.
+(pdftex.def)             Requested size: 276.559pt x 158.7799pt.
+
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
 [15
 
-]
-<with8b40.png, id=1448, 961.5925pt x 552.0625pt>
-File: with8b40.png Graphic file (type png)
-<use with8b40.png>
-Package pdftex.def Info: with8b40.png  used on input line 379.
-(pdftex.def)             Requested size: 276.559pt x 158.7799pt.
-
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
- []
-
-[16
-
  <./with8b40.png>]
-<with8a.png, id=1531, 984.67876pt x 552.0625pt>
+<with8a.png, id=1313, 984.67876pt x 552.0625pt>
 File: with8a.png Graphic file (type png)
 <use with8a.png>
-Package pdftex.def Info: with8a.png  used on input line 392.
+Package pdftex.def Info: with8a.png  used on input line 380.
 (pdftex.def)             Requested size: 276.559pt x 155.0566pt.
 pdfTeX warning (ext4): destination with the same identifier (name{workplacesNur
 singHomes}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.392 \end{frame}
+l.380 \end{frame}
                  
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
+ []
+
+[16
+
+ <./with8a.png>]
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
 [17
 
- <./with8a.png>]
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+]
+<10kNoControl.png, id=1471, 1069.9975pt x 633.36626pt>
+File: 10kNoControl.png Graphic file (type png)
+<use 10kNoControl.png>
+Package pdftex.def Info: 10kNoControl.png  used on input line 447.
+(pdftex.def)             Requested size: 235.40018pt x 139.341pt.
+
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
 [18
 
-]
-<10kNoControl.png, id=1693, 1069.9975pt x 633.36626pt>
-File: 10kNoControl.png Graphic file (type png)
-<use 10kNoControl.png>
-Package pdftex.def Info: 10kNoControl.png  used on input line 459.
+ <./10kNoControl.png>]
+<10kBasicC.png, id=1552, 1069.9975pt x 633.36626pt>
+File: 10kBasicC.png Graphic file (type png)
+<use 10kBasicC.png>
+Package pdftex.def Info: 10kBasicC.png  used on input line 480.
 (pdftex.def)             Requested size: 235.40018pt x 139.341pt.
 
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
 [19
 
- <./10kNoControl.png>]
-<10kBasicC.png, id=1777, 1069.9975pt x 633.36626pt>
-File: 10kBasicC.png Graphic file (type png)
-<use 10kBasicC.png>
-Package pdftex.def Info: 10kBasicC.png  used on input line 492.
-(pdftex.def)             Requested size: 235.40018pt x 139.341pt.
+ <./10kBasicC.png>]
+<andamento900annotato.jpg, id=1634, 1043.9pt x 642.4pt>
+File: andamento900annotato.jpg Graphic file (type jpg)
+<use andamento900annotato.jpg>
+Package pdftex.def Info: andamento900annotato.jpg  used on input line 497.
+(pdftex.def)             Requested size: 260.97435pt x 160.59961pt.
 
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
 [20
 
- <./10kBasicC.png>]
-<andamento900annotato.jpg, id=1861, 1043.9pt x 642.4pt>
-File: andamento900annotato.jpg Graphic file (type jpg)
-<use andamento900annotato.jpg>
-Package pdftex.def Info: andamento900annotato.jpg  used on input line 509.
-(pdftex.def)             Requested size: 260.97435pt x 160.59961pt.
-
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+ <./andamento900annotato.jpg>]
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
 [21
 
- <./andamento900annotato.jpg>]
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
- []
-
-[22
-
 ]
-<andamento_iGSS.jpg, id=2026, 939.51pt x 578.16pt>
-File: andamento_iGSS.jpg Graphic file (type jpg)
-<use andamento_iGSS.jpg>
-Package pdftex.def Info: andamento_iGSS.jpg  used on input line 543.
+<andamento900AA.jpg, id=1794, 939.51pt x 578.16pt>
+File: andamento900AA.jpg Graphic file (type jpg)
+<use andamento900AA.jpg>
+Package pdftex.def Info: andamento900AA.jpg  used on input line 531.
 (pdftex.def)             Requested size: 328.83342pt x 202.35902pt.
 
-Overfull \hbox (21.54355pt too wide) in paragraph at lines 543--543
+Overfull \hbox (21.54355pt too wide) in paragraph at lines 531--531
  [] 
  []
 
 
-Overfull \vbox (13.42676pt too high) detected at line 543
+Overfull \vbox (13.36673pt too high) detected at line 531
  []
 
 
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
-[23
+[22
 
- <./andamento_iGSS.jpg>]
-<10kSpontWave2.png, id=2108, 1084.05pt x 633.36626pt>
+ <./andamento900AA.jpg>]
+<10kSpontWave2.png, id=1873, 1084.05pt x 633.36626pt>
 File: 10kSpontWave2.png Graphic file (type png)
 <use 10kSpontWave2.png>
-Package pdftex.def Info: 10kSpontWave2.png  used on input line 587.
+Package pdftex.def Info: 10kSpontWave2.png  used on input line 575.
 (pdftex.def)             Requested size: 184.28606pt x 107.67084pt.
 
-Overfull \hbox (1.94904pt too wide) in paragraph at lines 587--587
+Overfull \hbox (1.94904pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 (1000)| 
  []
 
 
-Overfull \hbox (9.05907pt too wide) in paragraph at lines 587--587
+Overfull \hbox (9.05907pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 Jun 1, 20| 
  []
 
 
-Overfull \hbox (9.61406pt too wide) in paragraph at lines 587--587
+Overfull \hbox (9.61406pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 Sep 9, 20| 
  []
 
 
-Overfull \hbox (12.66405pt too wide) in paragraph at lines 587--587
+Overfull \hbox (12.66405pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 Dec 15, 20| 
  []
 
 
-Overfull \hbox (9.61406pt too wide) in paragraph at lines 587--587
+Overfull \hbox (9.61406pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 Feb 1, 21| 
  []
 
 
-Overfull \hbox (11.27904pt too wide) in paragraph at lines 587--587
+Overfull \hbox (11.27904pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 May 1, 21| 
  []
 
 
-Overfull \hbox (29.47403pt too wide) in paragraph at lines 587--587
+Overfull \hbox (29.47403pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 Dec 15, 20   to   end| 
  []
 
 
-Overfull \hbox (2.85405pt too wide) in paragraph at lines 587--587
+Overfull \hbox (2.85405pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 cum. v.| 
  []
 
 
-Overfull \hbox (1.04898pt too wide) in paragraph at lines 587--587
+Overfull \hbox (1.04898pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 sym.| 
  []
 
 
-Overfull \hbox (4.93892pt too wide) in paragraph at lines 587--587
+Overfull \hbox (4.93892pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 sympt.| 
  []
 
 
-Overfull \hbox (7.43384pt too wide) in paragraph at lines 587--587
+Overfull \hbox (7.43384pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 totalInf.| 
  []
 
 
-Overfull \hbox (4.93892pt too wide) in paragraph at lines 587--587
+Overfull \hbox (4.93892pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 sympt.| 
  []
 
 
-Overfull \hbox (7.43384pt too wide) in paragraph at lines 587--587
+Overfull \hbox (7.43384pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 totalInf.| 
  []
 
 
-Overfull \hbox (4.93892pt too wide) in paragraph at lines 587--587
+Overfull \hbox (4.93892pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 sympt.| 
  []
 
 
-Overfull \hbox (7.43384pt too wide) in paragraph at lines 587--587
+Overfull \hbox (7.43384pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 totalInf.| 
  []
 
 
-Overfull \hbox (4.93892pt too wide) in paragraph at lines 587--587
+Overfull \hbox (4.93892pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 sympt.| 
  []
 
 
-Overfull \hbox (7.43384pt too wide) in paragraph at lines 587--587
+Overfull \hbox (7.43384pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 totalInf.| 
  []
 
 
-Overfull \hbox (4.93892pt too wide) in paragraph at lines 587--587
+Overfull \hbox (4.93892pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 sympt.| 
  []
 
 
-Overfull \hbox (7.43384pt too wide) in paragraph at lines 587--587
+Overfull \hbox (7.43384pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 totalInf.| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 587--587
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 170.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 587--587
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 170.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 587--587
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 170.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 587--587
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 170.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 587--587
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 140.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 587--587
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 140.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 587--587
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 131.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 587--587
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 131.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 587--587
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 128.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 587--587
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 128.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 587--587
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 140.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 587--587
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 140.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 587--587
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 100.2| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 587--587
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 159.3| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 587--587
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 575--575
 []\T1/ptm/b/n/5 248.4| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 587--587
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 575--575
 []\T1/ptm/b/n/5 648.7| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 587--587
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 575--575
 []\T1/ptm/b/n/5 432.2| 
  []
 
 
-Overfull \hbox (5.2141pt too wide) in paragraph at lines 587--587
+Overfull \hbox (5.2141pt too wide) in paragraph at lines 575--575
 []\T1/ptm/b/n/5 1109.5| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 587--587
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 575--575
 []\T1/ptm/b/n/5 656.3| 
  []
 
 
-Overfull \hbox (5.2141pt too wide) in paragraph at lines 587--587
+Overfull \hbox (5.2141pt too wide) in paragraph at lines 575--575
 []\T1/ptm/b/n/5 1655.5| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 587--587
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 701.1| 
  []
 
 
-Overfull \hbox (5.2141pt too wide) in paragraph at lines 587--587
+Overfull \hbox (5.2141pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 1757.9| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 587--587
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 167.4| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 587--587
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 424.3| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 587--587
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 220.4| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 587--587
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 538.4| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 587--587
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 215.4| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 587--587
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 513.3| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 587--587
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 246.4| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 587--587
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 575--575
 []\T1/ptm/m/n/5 599.7| 
  []
 
 
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
-[24
+[23
 
  <./10kSpontWave2.png>]
-<10kForceWave2.png, id=2192, 1069.9975pt x 633.36626pt>
+<10kForceWave2.png, id=1955, 1069.9975pt x 633.36626pt>
 File: 10kForceWave2.png Graphic file (type png)
 <use 10kForceWave2.png>
-Package pdftex.def Info: 10kForceWave2.png  used on input line 625.
+Package pdftex.def Info: 10kForceWave2.png  used on input line 613.
 (pdftex.def)             Requested size: 181.89717pt x 107.67084pt.
 
-Overfull \hbox (1.94904pt too wide) in paragraph at lines 625--625
+Overfull \hbox (1.94904pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 (1000)| 
  []
 
 
-Overfull \hbox (9.05907pt too wide) in paragraph at lines 625--625
+Overfull \hbox (9.05907pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 Jun 1, 20| 
  []
 
 
-Overfull \hbox (9.61406pt too wide) in paragraph at lines 625--625
+Overfull \hbox (9.61406pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 Sep 9, 20| 
  []
 
 
-Overfull \hbox (12.66405pt too wide) in paragraph at lines 625--625
+Overfull \hbox (12.66405pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 Dec 15, 20| 
  []
 
 
-Overfull \hbox (9.61406pt too wide) in paragraph at lines 625--625
+Overfull \hbox (9.61406pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 Feb 1, 21| 
  []
 
 
-Overfull \hbox (11.27904pt too wide) in paragraph at lines 625--625
+Overfull \hbox (11.27904pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 May 1, 21| 
  []
 
 
-Overfull \hbox (29.47403pt too wide) in paragraph at lines 625--625
+Overfull \hbox (29.47403pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 Dec 15, 20   to   end| 
  []
 
 
-Overfull \hbox (2.85405pt too wide) in paragraph at lines 625--625
+Overfull \hbox (2.85405pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 cum. v.| 
  []
 
 
-Overfull \hbox (1.04898pt too wide) in paragraph at lines 625--625
+Overfull \hbox (1.04898pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 sym.| 
  []
 
 
-Overfull \hbox (4.93892pt too wide) in paragraph at lines 625--625
+Overfull \hbox (4.93892pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 sympt.| 
  []
 
 
-Overfull \hbox (7.43384pt too wide) in paragraph at lines 625--625
+Overfull \hbox (7.43384pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 totalInf.| 
  []
 
 
-Overfull \hbox (4.93892pt too wide) in paragraph at lines 625--625
+Overfull \hbox (4.93892pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 sympt.| 
  []
 
 
-Overfull \hbox (7.43384pt too wide) in paragraph at lines 625--625
+Overfull \hbox (7.43384pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 totalInf.| 
  []
 
 
-Overfull \hbox (4.93892pt too wide) in paragraph at lines 625--625
+Overfull \hbox (4.93892pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 sympt.| 
  []
 
 
-Overfull \hbox (7.43384pt too wide) in paragraph at lines 625--625
+Overfull \hbox (7.43384pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 totalInf.| 
  []
 
 
-Overfull \hbox (4.93892pt too wide) in paragraph at lines 625--625
+Overfull \hbox (4.93892pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 sympt.| 
  []
 
 
-Overfull \hbox (7.43384pt too wide) in paragraph at lines 625--625
+Overfull \hbox (7.43384pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 totalInf.| 
  []
 
 
-Overfull \hbox (4.93892pt too wide) in paragraph at lines 625--625
+Overfull \hbox (4.93892pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 sympt.| 
  []
 
 
-Overfull \hbox (7.43384pt too wide) in paragraph at lines 625--625
+Overfull \hbox (7.43384pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 totalInf.| 
  []
 
 
-Overfull \hbox (5.2141pt too wide) in paragraph at lines 625--625
+Overfull \hbox (5.2141pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 1407.0| 
  []
 
 
-Overfull \hbox (5.2141pt too wide) in paragraph at lines 625--625
+Overfull \hbox (5.2141pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 1407.0| 
  []
 
 
-Overfull \hbox (5.2141pt too wide) in paragraph at lines 625--625
+Overfull \hbox (5.2141pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 1407.0| 
  []
 
 
-Overfull \hbox (5.2141pt too wide) in paragraph at lines 625--625
+Overfull \hbox (5.2141pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 1407.0| 
  []
 
 
-Overfull \hbox (5.2141pt too wide) in paragraph at lines 625--625
+Overfull \hbox (5.2141pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 1044.0| 
  []
 
 
-Overfull \hbox (5.2141pt too wide) in paragraph at lines 625--625
+Overfull \hbox (5.2141pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 1044.0| 
  []
 
 
-Overfull \hbox (5.2141pt too wide) in paragraph at lines 625--625
+Overfull \hbox (5.2141pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 1005.0| 
  []
 
 
-Overfull \hbox (5.2141pt too wide) in paragraph at lines 625--625
+Overfull \hbox (5.2141pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 1005.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 625--625
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 980.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 625--625
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 980.0| 
  []
 
 
-Overfull \hbox (5.2141pt too wide) in paragraph at lines 625--625
+Overfull \hbox (5.2141pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 1044.0| 
  []
 
 
-Overfull \hbox (5.2141pt too wide) in paragraph at lines 625--625
+Overfull \hbox (5.2141pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 1044.0| 
  []
 
 
-Overfull \hbox (2.36908pt too wide) in paragraph at lines 625--625
+Overfull \hbox (2.36908pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 1044.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 625--625
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 613--613
 []\T1/ptm/b/n/5 180.4| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 625--625
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 613--613
 []\T1/ptm/b/n/5 462.1| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 625--625
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 613--613
 []\T1/ptm/b/n/5 354.1| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 625--625
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 613--613
 []\T1/ptm/b/n/5 900.4| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 625--625
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 613--613
 []\T1/ptm/b/n/5 623.8| 
  []
 
 
-Overfull \hbox (5.2141pt too wide) in paragraph at lines 625--625
+Overfull \hbox (5.2141pt too wide) in paragraph at lines 613--613
 []\T1/ptm/b/n/5 1563.3| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 625--625
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 726.6| 
  []
 
 
-Overfull \hbox (5.2141pt too wide) in paragraph at lines 625--625
+Overfull \hbox (5.2141pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 1810.9| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 625--625
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 134.6| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 625--625
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 354.6| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 625--625
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 213.8| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 625--625
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 535.4| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 625--625
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 217.9| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 625--625
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 527.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 625--625
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 221.9| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 625--625
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 613--613
 []\T1/ptm/m/n/5 544.0| 
  []
 
 
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
-[25
+[24
 
  <./10kForceWave2.png>]
-<10kForceWave2Contr2.png, id=2277, 1069.9975pt x 633.36626pt>
+<10kForceWave2Contr2.png, id=2036, 1069.9975pt x 633.36626pt>
 File: 10kForceWave2Contr2.png Graphic file (type png)
 <use 10kForceWave2Contr2.png>
-Package pdftex.def Info: 10kForceWave2Contr2.png  used on input line 663.
+Package pdftex.def Info: 10kForceWave2Contr2.png  used on input line 651.
 (pdftex.def)             Requested size: 181.89717pt x 107.67084pt.
 
-Overfull \hbox (1.94904pt too wide) in paragraph at lines 663--663
+Overfull \hbox (1.94904pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 (1000)| 
  []
 
 
-Overfull \hbox (9.05907pt too wide) in paragraph at lines 663--663
+Overfull \hbox (9.05907pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 Jun 1, 20| 
  []
 
 
-Overfull \hbox (9.61406pt too wide) in paragraph at lines 663--663
+Overfull \hbox (9.61406pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 Sep 9, 20| 
  []
 
 
-Overfull \hbox (12.66405pt too wide) in paragraph at lines 663--663
+Overfull \hbox (12.66405pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 Dec 15, 20| 
  []
 
 
-Overfull \hbox (9.61406pt too wide) in paragraph at lines 663--663
+Overfull \hbox (9.61406pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 Feb 1, 21| 
  []
 
 
-Overfull \hbox (11.27904pt too wide) in paragraph at lines 663--663
+Overfull \hbox (11.27904pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 May 1, 21| 
  []
 
 
-Overfull \hbox (29.47403pt too wide) in paragraph at lines 663--663
+Overfull \hbox (29.47403pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 Dec 15, 20   to   end| 
  []
 
 
-Overfull \hbox (2.85405pt too wide) in paragraph at lines 663--663
+Overfull \hbox (2.85405pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 cum. v.| 
  []
 
 
-Overfull \hbox (1.04898pt too wide) in paragraph at lines 663--663
+Overfull \hbox (1.04898pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 sym.| 
  []
 
 
-Overfull \hbox (4.93892pt too wide) in paragraph at lines 663--663
+Overfull \hbox (4.93892pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 sympt.| 
  []
 
 
-Overfull \hbox (7.43384pt too wide) in paragraph at lines 663--663
+Overfull \hbox (7.43384pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 totalInf.| 
  []
 
 
-Overfull \hbox (4.93892pt too wide) in paragraph at lines 663--663
+Overfull \hbox (4.93892pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 sympt.| 
  []
 
 
-Overfull \hbox (7.43384pt too wide) in paragraph at lines 663--663
+Overfull \hbox (7.43384pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 totalInf.| 
  []
 
 
-Overfull \hbox (4.93892pt too wide) in paragraph at lines 663--663
+Overfull \hbox (4.93892pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 sympt.| 
  []
 
 
-Overfull \hbox (7.43384pt too wide) in paragraph at lines 663--663
+Overfull \hbox (7.43384pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 totalInf.| 
  []
 
 
-Overfull \hbox (4.93892pt too wide) in paragraph at lines 663--663
+Overfull \hbox (4.93892pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 sympt.| 
  []
 
 
-Overfull \hbox (7.43384pt too wide) in paragraph at lines 663--663
+Overfull \hbox (7.43384pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 totalInf.| 
  []
 
 
-Overfull \hbox (4.93892pt too wide) in paragraph at lines 663--663
+Overfull \hbox (4.93892pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 sympt.| 
  []
 
 
-Overfull \hbox (7.43384pt too wide) in paragraph at lines 663--663
+Overfull \hbox (7.43384pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 totalInf.| 
  []
 
 
-Overfull \hbox (5.2141pt too wide) in paragraph at lines 663--663
+Overfull \hbox (5.2141pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 1407.0| 
  []
 
 
-Overfull \hbox (5.2141pt too wide) in paragraph at lines 663--663
+Overfull \hbox (5.2141pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 1407.0| 
  []
 
 
-Overfull \hbox (5.2141pt too wide) in paragraph at lines 663--663
+Overfull \hbox (5.2141pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 1407.0| 
  []
 
 
-Overfull \hbox (5.2141pt too wide) in paragraph at lines 663--663
+Overfull \hbox (5.2141pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 1407.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 663--663
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 874.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 663--663
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 874.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 663--663
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 719.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 663--663
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 719.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 663--663
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 523.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 663--663
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 523.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 663--663
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 874.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 663--663
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 874.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 663--663
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 651--651
 []\T1/ptm/b/n/5 130.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 663--663
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 651--651
 []\T1/ptm/b/n/5 340\T1/ptm/m/n/5 .6| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 663--663
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 651--651
 []\T1/ptm/b/n/5 194.4| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 663--663
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 651--651
 []\T1/ptm/b/n/5 512.8| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 663--663
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 651--651
 []\T1/ptm/b/n/5 295.7| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 663--663
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 651--651
 []\T1/ptm/b/n/5 791.2| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 663--663
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 252.7| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 663--663
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 666.4| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 663--663
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 232.6| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 663--663
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 104.1| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 663--663
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 276.9| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 663--663
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 119.1| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 663--663
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 300.6| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 663--663
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 156.8| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 663--663
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 651--651
 []\T1/ptm/m/n/5 416.4| 
  []
 
 
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
+ []
+
+[25
+
+ <./10kForceWave2Contr2.png>]
+<RtEstimation4.jpg, id=2118, 1204.5pt x 644.4075pt>
+File: RtEstimation4.jpg Graphic file (type jpg)
+<use RtEstimation4.jpg>
+Package pdftex.def Info: RtEstimation4.jpg  used on input line 664.
+(pdftex.def)             Requested size: 228.85738pt x 122.43869pt.
+
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
 [26
 
- <./10kForceWave2Contr2.png>]
-<RtEstimation3.jpg, id=2361, 1204.5pt x 602.25pt>
-File: RtEstimation3.jpg Graphic file (type jpg)
-<use RtEstimation3.jpg>
-Package pdftex.def Info: RtEstimation3.jpg  used on input line 676.
-(pdftex.def)             Requested size: 252.95247pt x 126.47623pt.
-
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
- []
-
-[27
-
- <./RtEstimation3.jpg>]
-<10kForceWave2Contr2M-20.png, id=2447, 1069.9975pt x 633.36626pt>
+ <./RtEstimation4.jpg>]
+<10kForceWave2Contr2M-20.png, id=2202, 1069.9975pt x 633.36626pt>
 File: 10kForceWave2Contr2M-20.png Graphic file (type png)
 <use 10kForceWave2Contr2M-20.png>
-Package pdftex.def Info: 10kForceWave2Contr2M-20.png  used on input line 714.
+Package pdftex.def Info: 10kForceWave2Contr2M-20.png  used on input line 702.
 (pdftex.def)             Requested size: 181.89717pt x 107.67084pt.
 
-Overfull \hbox (1.94904pt too wide) in paragraph at lines 714--714
+Overfull \hbox (1.94904pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 (1000)| 
  []
 
 
-Overfull \hbox (9.05907pt too wide) in paragraph at lines 714--714
+Overfull \hbox (9.05907pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 Jun 1, 20| 
  []
 
 
-Overfull \hbox (9.61406pt too wide) in paragraph at lines 714--714
+Overfull \hbox (9.61406pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 Sep 9, 20| 
  []
 
 
-Overfull \hbox (12.66405pt too wide) in paragraph at lines 714--714
+Overfull \hbox (12.66405pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 Dec 15, 20| 
  []
 
 
-Overfull \hbox (9.61406pt too wide) in paragraph at lines 714--714
+Overfull \hbox (9.61406pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 Feb 1, 21| 
  []
 
 
-Overfull \hbox (11.27904pt too wide) in paragraph at lines 714--714
+Overfull \hbox (11.27904pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 May 1, 21| 
  []
 
 
-Overfull \hbox (29.47403pt too wide) in paragraph at lines 714--714
+Overfull \hbox (29.47403pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 Dec 15, 20   to   end| 
  []
 
 
-Overfull \hbox (2.85405pt too wide) in paragraph at lines 714--714
+Overfull \hbox (2.85405pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 cum. v.| 
  []
 
 
-Overfull \hbox (1.04898pt too wide) in paragraph at lines 714--714
+Overfull \hbox (1.04898pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 sym.| 
  []
 
 
-Overfull \hbox (4.93892pt too wide) in paragraph at lines 714--714
+Overfull \hbox (4.93892pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 sympt.| 
  []
 
 
-Overfull \hbox (7.43384pt too wide) in paragraph at lines 714--714
+Overfull \hbox (7.43384pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 totalInf.| 
  []
 
 
-Overfull \hbox (4.93892pt too wide) in paragraph at lines 714--714
+Overfull \hbox (4.93892pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 sympt.| 
  []
 
 
-Overfull \hbox (7.43384pt too wide) in paragraph at lines 714--714
+Overfull \hbox (7.43384pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 totalInf.| 
  []
 
 
-Overfull \hbox (4.93892pt too wide) in paragraph at lines 714--714
+Overfull \hbox (4.93892pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 sympt.| 
  []
 
 
-Overfull \hbox (7.43384pt too wide) in paragraph at lines 714--714
+Overfull \hbox (7.43384pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 totalInf.| 
  []
 
 
-Overfull \hbox (4.93892pt too wide) in paragraph at lines 714--714
+Overfull \hbox (4.93892pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 sympt.| 
  []
 
 
-Overfull \hbox (7.43384pt too wide) in paragraph at lines 714--714
+Overfull \hbox (7.43384pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 totalInf.| 
  []
 
 
-Overfull \hbox (4.93892pt too wide) in paragraph at lines 714--714
+Overfull \hbox (4.93892pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 sympt.| 
  []
 
 
-Overfull \hbox (7.43384pt too wide) in paragraph at lines 714--714
+Overfull \hbox (7.43384pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 totalInf.| 
  []
 
 
-Overfull \hbox (5.2141pt too wide) in paragraph at lines 714--714
+Overfull \hbox (5.2141pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 1407.0| 
  []
 
 
-Overfull \hbox (5.2141pt too wide) in paragraph at lines 714--714
+Overfull \hbox (5.2141pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 1407.0| 
  []
 
 
-Overfull \hbox (5.2141pt too wide) in paragraph at lines 714--714
+Overfull \hbox (5.2141pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 1407.0| 
  []
 
 
-Overfull \hbox (5.2141pt too wide) in paragraph at lines 714--714
+Overfull \hbox (5.2141pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 1407.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 714--714
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 769.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 714--714
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 769.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 714--714
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 637.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 714--714
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 637.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 714--714
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 471.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 714--714
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 471.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 714--714
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 769.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 714--714
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 769.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 714--714
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 702--702
 [][]\T1/ptm/b/n/5 112.2[]| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 714--714
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 702--702
 [][]\T1/ptm/b/n/5 294.2[]| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 714--714
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 702--702
 []\T1/ptm/b/n/5 172.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 714--714
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 702--702
 []\T1/ptm/b/n/5 467.9| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 714--714
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 702--702
 []\T1/ptm/b/n/5 276.5| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 714--714
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 702--702
 []\T1/ptm/b/n/5 748.6| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 714--714
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 248.9| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 714--714
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 663.4| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 714--714
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 188.4| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 714--714
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 251.3| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 714--714
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 112.9| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 714--714
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 286.9| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 714--714
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 158.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 714--714
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 702--702
 []\T1/ptm/m/n/5 417.5| 
  []
 
 
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
+ []
+
+[27
+
+ <./10kForceWave2Contr2M-20.png>]
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
 [28
 
- <./10kForceWave2Contr2M-20.png>]
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
- []
-
-[29
-
 ]
-<10kForceWave2NoFragOct5for60d.png, id=2610, 1069.9975pt x 633.36626pt>
+<10kForceWave2NoFragOct5for60d.png, id=2359, 1069.9975pt x 633.36626pt>
 File: 10kForceWave2NoFragOct5for60d.png Graphic file (type png)
 <use 10kForceWave2NoFragOct5for60d.png>
 Package pdftex.def Info: 10kForceWave2NoFragOct5for60d.png  used on input line 
-771.
+759.
 (pdftex.def)             Requested size: 181.89717pt x 107.67084pt.
 
-Overfull \hbox (4.79405pt too wide) in paragraph at lines 771--771
+Overfull \hbox (4.79405pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 (1000)| 
  []
 
 
-Overfull \hbox (9.05907pt too wide) in paragraph at lines 771--771
+Overfull \hbox (9.05907pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 Jun 1, 20| 
  []
 
 
-Overfull \hbox (9.61406pt too wide) in paragraph at lines 771--771
+Overfull \hbox (9.61406pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 Sep 9, 20| 
  []
 
 
-Overfull \hbox (12.66405pt too wide) in paragraph at lines 771--771
+Overfull \hbox (12.66405pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 Dec 15, 20| 
  []
 
 
-Overfull \hbox (9.61406pt too wide) in paragraph at lines 771--771
+Overfull \hbox (9.61406pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 Feb 1, 21| 
  []
 
 
-Overfull \hbox (11.27904pt too wide) in paragraph at lines 771--771
+Overfull \hbox (11.27904pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 May 1, 21| 
  []
 
 
-Overfull \hbox (29.47403pt too wide) in paragraph at lines 771--771
+Overfull \hbox (29.47403pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 Dec 15, 20   to   end| 
  []
 
 
-Overfull \hbox (1.04898pt too wide) in paragraph at lines 771--771
+Overfull \hbox (1.04898pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 sym.| 
  []
 
 
-Overfull \hbox (4.93892pt too wide) in paragraph at lines 771--771
+Overfull \hbox (4.93892pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 sympt.| 
  []
 
 
-Overfull \hbox (7.43384pt too wide) in paragraph at lines 771--771
+Overfull \hbox (7.43384pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 totalInf.| 
  []
 
 
-Overfull \hbox (4.93892pt too wide) in paragraph at lines 771--771
+Overfull \hbox (4.93892pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 sympt.| 
  []
 
 
-Overfull \hbox (7.43384pt too wide) in paragraph at lines 771--771
+Overfull \hbox (7.43384pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 totalInf.| 
  []
 
 
-Overfull \hbox (4.93892pt too wide) in paragraph at lines 771--771
+Overfull \hbox (4.93892pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 sympt.| 
  []
 
 
-Overfull \hbox (7.43384pt too wide) in paragraph at lines 771--771
+Overfull \hbox (7.43384pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 totalInf.| 
  []
 
 
-Overfull \hbox (4.93892pt too wide) in paragraph at lines 771--771
+Overfull \hbox (4.93892pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 sympt.| 
  []
 
 
-Overfull \hbox (7.43384pt too wide) in paragraph at lines 771--771
+Overfull \hbox (7.43384pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 totalInf.| 
  []
 
 
-Overfull \hbox (4.93892pt too wide) in paragraph at lines 771--771
+Overfull \hbox (4.93892pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 sympt.| 
  []
 
 
-Overfull \hbox (7.43384pt too wide) in paragraph at lines 771--771
+Overfull \hbox (7.43384pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 totalInf.| 
  []
 
 
-Overfull \hbox (2.574pt too wide) in paragraph at lines 771--771
+Overfull \hbox (2.574pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 count| 
  []
 
 
-Overfull \hbox (5.2141pt too wide) in paragraph at lines 771--771
+Overfull \hbox (5.2141pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 1407.0| 
  []
 
 
-Overfull \hbox (5.2141pt too wide) in paragraph at lines 771--771
+Overfull \hbox (5.2141pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 1407.0| 
  []
 
 
-Overfull \hbox (5.2141pt too wide) in paragraph at lines 771--771
+Overfull \hbox (5.2141pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 1407.0| 
  []
 
 
-Overfull \hbox (5.2141pt too wide) in paragraph at lines 771--771
+Overfull \hbox (5.2141pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 1407.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 771--771
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 886.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 771--771
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 886.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 771--771
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 761.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 771--771
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 761.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 771--771
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 637.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 771--771
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 637.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 771--771
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 886.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 771--771
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 886.0| 
  []
 
 
-Overfull \hbox (2.29398pt too wide) in paragraph at lines 771--771
+Overfull \hbox (2.29398pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 mean| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 771--771
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 759--759
 [][]\T1/ptm/b/n/5 128.1[]| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 771--771
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 759--759
 [][]\T1/ptm/b/n/5 326.3[]| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 771--771
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 759--759
 []\T1/ptm/b/n/5 211.0| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 771--771
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 759--759
 []\T1/ptm/b/n/5 555.1| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 771--771
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 759--759
 []\T1/ptm/b/n/5 323.3| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 771--771
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 759--759
 []\T1/ptm/b/n/5 862.1| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 771--771
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 301.1| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 771--771
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 792.3| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 771--771
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 234.2| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 771--771
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 118.1| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 771--771
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 306.7| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 771--771
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 126.4| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 771--771
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 315.9| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 771--771
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 170.7| 
  []
 
 
-Overfull \hbox (2.7141pt too wide) in paragraph at lines 771--771
+Overfull \hbox (2.7141pt too wide) in paragraph at lines 759--759
 []\T1/ptm/m/n/5 450.2| 
  []
 
 
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
-[30
+[29
 
  <./10kForceWave2NoFragOct5for60d.png>]
-Overfull \hbox (15.45355pt too wide) in paragraph at lines 826--826
+Overfull \hbox (15.45355pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 Dec 15, 20| 
  []
 
 
-Overfull \hbox (38.98753pt too wide) in paragraph at lines 826--826
+Overfull \hbox (38.98753pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 Dec 15, 20   to   end| 
  []
 
 
-Overfull \hbox (4.63841pt too wide) in paragraph at lines 826--826
+Overfull \hbox (4.63841pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 sympt.| 
  []
 
 
-Overfull \hbox (8.13129pt too wide) in paragraph at lines 826--826
+Overfull \hbox (8.13129pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 totalInf.| 
  []
 
 
-Overfull \hbox (4.63841pt too wide) in paragraph at lines 826--826
+Overfull \hbox (4.63841pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 sympt.| 
  []
 
 
-Overfull \hbox (8.13129pt too wide) in paragraph at lines 826--826
+Overfull \hbox (8.13129pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 totalInf.| 
  []
 
 
-Overfull \hbox (1.32751pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.32751pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 count| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 140.0| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 140.0| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 140.0| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 140.0| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 140.0| 
  []
 
 
-Overfull \hbox (0.93547pt too wide) in paragraph at lines 826--826
+Overfull \hbox (0.93547pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 mean| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/b/n/7 248.4| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/b/n/7 648.7| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 701.1| 
  []
 
 
-Overfull \hbox (5.02364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (5.02364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 1757.9| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 594.2| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 167.4| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 424.3| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 246.4| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 599.7| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 118.9| 
  []
 
 
-Overfull \hbox (1.32751pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.32751pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 count| 
  []
 
 
-Overfull \hbox (5.02364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (5.02364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 1044.0| 
  []
 
 
-Overfull \hbox (5.02364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (5.02364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 1044.0| 
  []
 
 
-Overfull \hbox (5.02364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (5.02364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 1044.0| 
  []
 
 
-Overfull \hbox (5.02364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (5.02364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 1044.0| 
  []
 
 
-Overfull \hbox (5.02364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (5.02364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 1044.0| 
  []
 
 
-Overfull \hbox (0.93547pt too wide) in paragraph at lines 826--826
+Overfull \hbox (0.93547pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 mean| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/b/n/7 180.4| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/b/n/7 462.1| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 726.6| 
  []
 
 
-Overfull \hbox (5.02364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (5.02364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 1810.9| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 620.9| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 134.6| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 354.6| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 221.9| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 544.0| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 110.8| 
  []
 
 
-Overfull \hbox (1.32751pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.32751pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 count| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 874.0| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 874.0| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 874.0| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 874.0| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 874.0| 
  []
 
 
-Overfull \hbox (0.93547pt too wide) in paragraph at lines 826--826
+Overfull \hbox (0.93547pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 mean| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/b/n/7 130.0| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/b/n/7 340\T1/ptm/m/n/7 .6| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 252.7| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 666.4| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 494.1| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 232.6| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 156.8| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 416.4| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 122.7| 
  []
 
 
-Overfull \hbox (1.32751pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.32751pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 count| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 769.0| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 769.0| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 769.0| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 769.0| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 769.0| 
  []
 
 
-Overfull \hbox (0.93547pt too wide) in paragraph at lines 826--826
+Overfull \hbox (0.93547pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 mean| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 [][]\T1/ptm/b/n/7 112.2[]| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 [][]\T1/ptm/b/n/7 294.2[]| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 248.9| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 663.4| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 499.3| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 188.4| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 158.0| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 417.5| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 124.1| 
  []
 
 
-Overfull \hbox (1.32751pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.32751pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 count| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 886.0| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 886.0| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 886.0| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 886.0| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 886.0| 
  []
 
 
-Overfull \hbox (0.93547pt too wide) in paragraph at lines 826--826
+Overfull \hbox (0.93547pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 mean| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 [][]\T1/ptm/b/n/7 128.1[]| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 [][]\T1/ptm/b/n/7 326.3[]| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 301.1| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 792.3| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 515.5| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 234.2| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 170.7| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 450.2| 
  []
 
 
-Overfull \hbox (1.52364pt too wide) in paragraph at lines 826--826
+Overfull \hbox (1.52364pt too wide) in paragraph at lines 814--814
 []\T1/ptm/m/n/7 116.9| 
  []
 
 
-Overfull \vbox (13.11008pt too high) detected at line 826
+Overfull \vbox (13.05005pt too high) detected at line 814
  []
 
 
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
+ []
+
+[30
+
+]
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
 [31
 
 ]
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
 [32
 
 ]
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+<CaseForGA_I_base.png, id=2677, 982.67125pt x 552.0625pt>
+File: CaseForGA_I_base.png Graphic file (type png)
+<use CaseForGA_I_base.png>
+Package pdftex.def Info: CaseForGA_I_base.png  used on input line 887.
+(pdftex.def)             Requested size: 196.53076pt x 110.41054pt.
+
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
 [33
 
-]
-<CaseForGA_I_base.png, id=2939, 982.67125pt x 552.0625pt>
-File: CaseForGA_I_base.png Graphic file (type png)
-<use CaseForGA_I_base.png>
-Package pdftex.def Info: CaseForGA_I_base.png  used on input line 899.
-(pdftex.def)             Requested size: 196.53076pt x 110.41054pt.
+ <./CaseForGA_I_base.png>]
+<Experiment_I_base_symptomatic_series.png, id=2757, 972.63374pt x 568.1225pt>
+File: Experiment_I_base_symptomatic_series.png Graphic file (type png)
+<use Experiment_I_base_symptomatic_series.png>
+Package pdftex.def Info: Experiment_I_base_symptomatic_series.png  used on inpu
+t line 905.
+(pdftex.def)             Requested size: 155.62457pt x 90.90144pt.
 
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
 [34
 
- <./CaseForGA_I_base.png>]
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
- []
-
-[35
-
-]
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
- []
-
-[36
-
-]
-Overfull \vbox (5.44232pt too high) detected at line 1038
- []
-
-
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
- []
-
-[37
-
-]
-<Experiment_I_base_symptomatic_series.png, id=3271, 972.63374pt x 568.1225pt>
-File: Experiment_I_base_symptomatic_series.png Graphic file (type png)
-<use Experiment_I_base_symptomatic_series.png>
-Package pdftex.def Info: Experiment_I_base_symptomatic_series.png  used on inpu
-t line 1058.
-(pdftex.def)             Requested size: 155.62457pt x 90.90144pt.
-
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
- []
-
-[38
-
  <./Experiment_I_base_symptomatic_series.png>]
-<Experiment_I_plainVaccinationSequence.png, id=3354, 719.68875pt x 497.86pt>
+<Experiment_I_plainVaccinationSequence.png, id=2838, 719.68875pt x 497.86pt>
 File: Experiment_I_plainVaccinationSequence.png Graphic file (type png)
 <use Experiment_I_plainVaccinationSequence.png>
 Package pdftex.def Info: Experiment_I_plainVaccinationSequence.png  used on inp
-ut line 1083.
+ut line 930.
 (pdftex.def)             Requested size: 115.15254pt x 79.65923pt.
-<Experiment_I_1_plain_symptomatic_series.png, id=3355, 972.63374pt x 568.1225pt
+<Experiment_I_1_plain_symptomatic_series.png, id=2839, 972.63374pt x 568.1225pt
 >
 File: Experiment_I_1_plain_symptomatic_series.png Graphic file (type png)
 <use Experiment_I_1_plain_symptomatic_series.png>
 Package pdftex.def Info: Experiment_I_1_plain_symptomatic_series.png  used on i
-nput line 1083.
+nput line 930.
 (pdftex.def)             Requested size: 155.62457pt x 90.90144pt.
 pdfTeX warning (ext4): destination with the same identifier (name{Experiment_I_
 plainSymptomaticSeries}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1083 \end{frame}
-                  
-Overfull \vbox (12.88777pt too high) detected at line 1083
+l.930 \end{frame}
+                 
+Overfull \vbox (12.82774pt too high) detected at line 930
  []
 
 
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
-[39
+[35
 
  <./Experiment_I_plainVaccinationSequence.png> <./Experiment_I_1_plain_symptoma
 tic_series.png>]
-<Experiment_I_wiseVaccinationSequence.png, id=3439, 719.68875pt x 497.86pt>
+<Experiment_I_wiseVaccinationSequence.png, id=2920, 719.68875pt x 497.86pt>
 File: Experiment_I_wiseVaccinationSequence.png Graphic file (type png)
 <use Experiment_I_wiseVaccinationSequence.png>
 Package pdftex.def Info: Experiment_I_wiseVaccinationSequence.png  used on inpu
-t line 1107.
+t line 954.
 (pdftex.def)             Requested size: 115.15254pt x 79.65923pt.
-<Experiment_I_1_wise_symptomatic_series.png, id=3440, 972.63374pt x 568.1225pt>
+<Experiment_I_1_wise_symptomatic_series.png, id=2921, 972.63374pt x 568.1225pt>
 
 File: Experiment_I_1_wise_symptomatic_series.png Graphic file (type png)
 <use Experiment_I_1_wise_symptomatic_series.png>
 Package pdftex.def Info: Experiment_I_1_wise_symptomatic_series.png  used on in
-put line 1107.
+put line 954.
 (pdftex.def)             Requested size: 155.62457pt x 90.90144pt.
 
-Overfull \vbox (3.6784pt too high) detected at line 1107
+Overfull \vbox (3.61838pt too high) detected at line 954
  []
 
 
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
-[40
+[36
 
  <./Experiment_I_wiseVaccinationSequence.png> <./Experiment_I_1_wise_symptomati
 c_series.png>]
-<Experiment_I_GA_1_VaccinationSequence.png, id=3524, 719.68875pt x 497.86pt>
+<Experiment_I_GA_1_VaccinationSequence.png, id=3002, 719.68875pt x 497.86pt>
 File: Experiment_I_GA_1_VaccinationSequence.png Graphic file (type png)
 <use Experiment_I_GA_1_VaccinationSequence.png>
 Package pdftex.def Info: Experiment_I_GA_1_VaccinationSequence.png  used on inp
-ut line 1130.
+ut line 977.
 (pdftex.def)             Requested size: 115.15254pt x 79.65923pt.
-<Experiment_I_1_GAs_symptomatic_series.png, id=3525, 972.63374pt x 568.1225pt>
+<Experiment_I_1_GAs_symptomatic_series.png, id=3003, 972.63374pt x 568.1225pt>
 File: Experiment_I_1_GAs_symptomatic_series.png Graphic file (type png)
 <use Experiment_I_1_GAs_symptomatic_series.png>
 Package pdftex.def Info: Experiment_I_1_GAs_symptomatic_series.png  used on inp
-ut line 1130.
+ut line 977.
 (pdftex.def)             Requested size: 155.62457pt x 90.90144pt.
 
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
-[41
+[37
 
  <./Experiment_I_GA_1_VaccinationSequence.png> <./Experiment_I_1_GAs_symptomati
 c_series.png>]
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
-[42
+[38
 
 ]
-<Experiment_I_plainPlusVaccinationSequence.png, id=3691, 719.68875pt x 497.86pt
+<Experiment_I_plainPlusVaccinationSequence.png, id=3165, 719.68875pt x 497.86pt
 >
 File: Experiment_I_plainPlusVaccinationSequence.png Graphic file (type png)
 <use Experiment_I_plainPlusVaccinationSequence.png>
 Package pdftex.def Info: Experiment_I_plainPlusVaccinationSequence.png  used on
- input line 1186.
+ input line 1033.
 (pdftex.def)             Requested size: 115.15254pt x 79.65923pt.
 pdfTeX warning (ext4): destination with the same identifier (name{Experiment_I_
 plainVaccinationSequence}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1186 \end{frame}
+l.1033 \end{frame}
                   
-<Experiment_I_1_plainPlus_symptomatic_series.png, id=3692, 972.63374pt x 568.12
+<Experiment_I_1_plainPlus_symptomatic_series.png, id=3166, 972.63374pt x 568.12
 25pt>
 File: Experiment_I_1_plainPlus_symptomatic_series.png Graphic file (type png)
 <use Experiment_I_1_plainPlus_symptomatic_series.png>
 Package pdftex.def Info: Experiment_I_1_plainPlus_symptomatic_series.png  used 
-on input line 1186.
+on input line 1033.
 (pdftex.def)             Requested size: 155.62457pt x 90.90144pt.
 pdfTeX warning (ext4): destination with the same identifier (name{Experiment_I_
 plainSymptomaticSeries}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1186 \end{frame}
+l.1033 \end{frame}
                   
-Overfull \vbox (3.6784pt too high) detected at line 1186
+Overfull \vbox (3.61838pt too high) detected at line 1033
  []
 
 
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
-[43
+[39
 
  <./Experiment_I_plainPlusVaccinationSequence.png> <./Experiment_I_1_plainPlus_
 symptomatic_series.png>]
-<Experiment_I_wisePlusVaccinationSequence.png, id=3776, 719.68875pt x 497.86pt>
+<Experiment_I_wisePlusVaccinationSequence.png, id=3246, 719.68875pt x 497.86pt>
 
 File: Experiment_I_wisePlusVaccinationSequence.png Graphic file (type png)
 <use Experiment_I_wisePlusVaccinationSequence.png>
 Package pdftex.def Info: Experiment_I_wisePlusVaccinationSequence.png  used on 
-input line 1210.
+input line 1057.
 (pdftex.def)             Requested size: 115.15254pt x 79.65923pt.
 pdfTeX warning (ext4): destination with the same identifier (name{Experiment_I_
 wiseVaccinationSequence}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1210 \end{frame}
+l.1057 \end{frame}
                   
-<Experiment_I_1_wisePlus_symptomatic_series.png, id=3777, 972.63374pt x 568.122
+<Experiment_I_1_wisePlus_symptomatic_series.png, id=3247, 972.63374pt x 568.122
 5pt>
 File: Experiment_I_1_wisePlus_symptomatic_series.png Graphic file (type png)
 <use Experiment_I_1_wisePlus_symptomatic_series.png>
 Package pdftex.def Info: Experiment_I_1_wisePlus_symptomatic_series.png  used o
-n input line 1210.
+n input line 1057.
 (pdftex.def)             Requested size: 155.62457pt x 90.90144pt.
 pdfTeX warning (ext4): destination with the same identifier (name{Experiment_I_
 wiseSymptomaticSeries}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1210 \end{frame}
+l.1057 \end{frame}
                   
-Overfull \vbox (3.6784pt too high) detected at line 1210
+Overfull \vbox (3.61838pt too high) detected at line 1057
  []
 
 
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
+ []
+
+[40
+
+ <./Experiment_I_wisePlusVaccinationSequence.png> <./Experiment_I_1_wisePlus_sy
+mptomatic_series.png>]
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
+ []
+
+[41
+
+]
+<Piem1.png, id=3404, 488.82625pt x 474.77374pt>
+File: Piem1.png Graphic file (type png)
+<use Piem1.png>
+Package pdftex.def Info: Piem1.png  used on input line 1104.
+(pdftex.def)             Requested size: 122.20625pt x 118.69315pt.
+<Piem2.png, id=3405, 668.4975pt x 582.175pt>
+File: Piem2.png Graphic file (type png)
+<use Piem2.png>
+Package pdftex.def Info: Piem2.png  used on input line 1104.
+(pdftex.def)             Requested size: 167.12396pt x 145.5434pt.
+
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
+ []
+
+[42
+
+ <./Piem1.png> <./Piem2.png>]
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
+ []
+
+[43
+
+]
+<SLAPP.png, id=3567, 973.6375pt x 597.23125pt>
+File: SLAPP.png Graphic file (type png)
+<use SLAPP.png>
+Package pdftex.def Info: SLAPP.png  used on input line 1143.
+(pdftex.def)             Requested size: 253.13977pt x 155.27646pt.
+
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
 [44
 
- <./Experiment_I_wisePlusVaccinationSequence.png> <./Experiment_I_1_wisePlus_sy
-mptomatic_series.png>]
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+ <./SLAPP.png>]
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
 [45
 
 ]
-<Piem1.png, id=3940, 488.82625pt x 474.77374pt>
-File: Piem1.png Graphic file (type png)
-<use Piem1.png>
-Package pdftex.def Info: Piem1.png  used on input line 1257.
-(pdftex.def)             Requested size: 122.20625pt x 118.69315pt.
-<Piem2.png, id=3941, 668.4975pt x 582.175pt>
-File: Piem2.png Graphic file (type png)
-<use Piem2.png>
-Package pdftex.def Info: Piem2.png  used on input line 1257.
-(pdftex.def)             Requested size: 167.12396pt x 145.5434pt.
+<agr1.png, id=3724, 573.14125pt x 485.815pt>
+File: agr1.png Graphic file (type png)
+<use agr1.png>
+Package pdftex.def Info: agr1.png  used on input line 1168.
+(pdftex.def)             Requested size: 183.40894pt x 155.46397pt.
 
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
 [46
 
- <./Piem1.png> <./Piem2.png>]
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
+ <./agr1.png>]
+<agr2.png, id=3806, 645.41125pt x 558.085pt>
+File: agr2.png Graphic file (type png)
+<use agr2.png>
+Package pdftex.def Info: agr2.png  used on input line 1181.
+(pdftex.def)             Requested size: 206.53581pt x 178.59085pt.
+
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][]  
  []
 
 [47
 
-]
-<SLAPP.png, id=4107, 973.6375pt x 597.23125pt>
-File: SLAPP.png Graphic file (type png)
-<use SLAPP.png>
-Package pdftex.def Info: SLAPP.png  used on input line 1296.
-(pdftex.def)             Requested size: 253.13977pt x 155.27646pt.
-
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
- []
-
-[48
-
- <./SLAPP.png>]
-Overfull \hbox (6.25897pt too wide) has occurred while \output is active
-  [] [][][][] [][][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [
-][][][][][][][][][][][][][][] [][][][] [][]  
- []
-
-[49
-
-]
+ <./agr2.png>]
 \tf@nav=\write6
 \openout6 = `PietroTerna_AccademiaAgricoltura20211110.nav'.
 
@@ -3303,28 +3268,35 @@ Overfull \hbox (6.25897pt too wide) has occurred while \output is active
 \tf@snm=\write8
 \openout8 = `PietroTerna_AccademiaAgricoltura20211110.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1326.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1326.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1184.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1184.
  (./PietroTerna_AccademiaAgricoltura20211110.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1326.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1326.
-
-Package rerunfilecheck Info: File `PietroTerna_AccademiaAgricoltura20211110.out
-' has not changed.
-(rerunfilecheck)             Checksum: 43CC2C24C2A8E5F9540A3E1F167809C5;1125.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1184.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1184.
 
 
-LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Warning: File `PietroTerna_AccademiaAgricoltura20211110.
+out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `PietroTerna_AccademiaAgricoltura202
+11110.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  7D8EB475C4E68B4C4ED927C4D3C6CEF9;1126.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 20746 strings out of 480608
- 393182 string characters out of 5903631
- 714294 words of memory out of 5000000
- 35919 multiletter control sequences out of 15000+600000
- 589899 words of font info for 95 fonts, out of 8000000 for 9000
+ 20681 strings out of 480608
+ 391619 string characters out of 5903631
+ 705470 words of memory out of 5000000
+ 35873 multiletter control sequences out of 15000+600000
+ 585995 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 58i,19n,67p,807b,805s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 58i,19n,67p,807b,804s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texl
 ive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texliv
@@ -3332,14 +3304,13 @@ e/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/
 2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/20
 20/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2020/texmf
 -dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2020/texmf-dist/font
-s/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/u
-rw/times/utmr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/times/u
-tmri8a.pfb>
-Output written on PietroTerna_AccademiaAgricoltura20211110.pdf (49 pages, 53983
-69 bytes).
+s/type1/urw/times/utmr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/ur
+w/times/utmri8a.pfb>
+Output written on PietroTerna_AccademiaAgricoltura20211110.pdf (47 pages, 66831
+07 bytes).
 PDF statistics:
- 4343 PDF objects out of 5155 (max. 8388607)
- 4108 compressed objects within 42 object streams
- 159 named destinations out of 1000 (max. 500000)
- 373 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3951 PDF objects out of 4296 (max. 8388607)
+ 3724 compressed objects within 38 object streams
+ 150 named destinations out of 1000 (max. 500000)
+ 234 words of extra memory for PDF output out of 10000 (max. 10000000)
 

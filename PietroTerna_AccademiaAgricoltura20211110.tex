@@ -219,7 +219,7 @@ We use NetLogo, at \url{https://ccl.northwestern.edu/netlogo/}.
 S.I.s.a.R. is at \url{https://terna.to.it/simul/SIsaR.html} with information on model construction, and an online executable version.
 
 \item
- A short paper is published at \url{https://rofasss.org/2020/10/20/sisar/}
+ A paper is published at \url{https://arxiv.org/abs/2108.08885}
 
 \item 
 The model includes the structural data of Piedmont, an Italian region, but we can easily calibrate it for other areas. The simulation reproduces a realistic calendar (e.g., national or local government decisions) via a dedicated script interpreter.
@@ -227,18 +227,6 @@ The model includes the structural data of Piedmont, an Italian region, but we ca
 \end{itemize}
 \end{frame}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}{~}
-
-\begin{figure}[H]
-\center
-\includegraphics[scale=0.25]{Piedmont.png}
-
-\caption{Piedmont} 
-\label{Piedmont}
-\end{figure}
-
-\end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{The scale and the items}
 
@@ -534,7 +522,7 @@ std   &       368.49 &                  916.41 &    213.48 \\
 
 \begin{figure}[H]
 \center
-\includegraphics[scale=0.35]{andamento_iGSS.jpg}
+\includegraphics[scale=0.35]{andamento900AA.jpg}
 \caption{Data for Piedmont} 
 \label{dataP}
 \end{figure}
@@ -546,7 +534,7 @@ std   &       368.49 &                  916.41 &    213.48 \\
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Factual and counterfactual analyses}
+\section{Factual/counterfactual analyses}
 
 %1%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{Spontaneous second wave, without specific measures}
@@ -667,8 +655,8 @@ std   &     14.1 &                       42.6 &     16.7 &                      
 
 \begin{figure}[H]
 \center
-\includegraphics[scale=0.21]{RtEstimation3.jpg}
-\caption{In blue the $R_t$ values as reported by the Istituto Superiore di Sanit\`{a} and in red the calculation published regularly at \url{https://mondoeconomico.eu} by Stefano Terna\footnote{Methodology: \url{https://github.com/tomorrowdata/COVID-19/blob/main/notebooks/Rt_on_italian_national_data.ipynb}}.}
+\includegraphics[scale=0.19]{RtEstimation4.jpg}
+\caption{In blue the $R_t$ values as reported by the Istituto Superiore di Sanit\`{a} and in red the calculation published regularly at \url{https://mondoeconomico.eu} by Stefano Terna\footnote{Methodology: \url{https://github.com/tomorrowdata/COVID-19/blob/main/notebooks/Rt_on_italian_national_data.ipynb} and Section 5.4 at \url{https://arxiv.org/abs/2108.08885}}.}
 \label{Rt}
 \end{figure}
 
@@ -897,147 +885,6 @@ We take into consideration seven groups in order of decreasing fragility but als
 \end{figure}
 
 \end{frame}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}{Vaccination quotas, \emph{plain} strategy}
-
-\begin{small} % or footnotesize, scriptsize, tiny, etc.
-Considering the \emph{plain} option adopted in Table \ref{quotaTable1} and remembering that the time-sequence in daily actions is the priority, we will primarily vaccinate the left column groups to move gradually to other columns: (\emph{g1}) extra fragile people, (\emph{g2}) teachers, (\emph{g3}) fragile workers, (\emph{g4}) regular workers, (\emph{g5}) fragile people, (\emph{g6}) regular people, (\emph{g7}) young people.
-\end{small}
-
-\begin{table}[H]
-\centering
-\begin{small} % or footnotesize, scriptsize, tiny, etc.
-\begin{tabular}{ccccccccc}
-\toprule
-From day & \begin{tabular}[c]{@{}c@{}}Q. of \\ vaccines \\ (000)\end{tabular} & \emph{g1} & \emph{g2} & \emph{g3} & \emph{g4} & \emph{g5} & \emph{g6} & \emph{g7} \\
-\midrule
-373      & 5           & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        \\
-433      & 10         & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        \\
-493      & 10         & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        \\
-553      & 10         & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        \\
-613      & 20         & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        \\
-738      & end     \\ 
-\bottomrule  
-\end{tabular}
-\end{small}
-\caption{From the day of the first column, considering the quantity of the second column (000), the vaccination of each group follows the quota of the related columns}
-\label{quotaTable1}
-\end{table}
-
-\begin{table}[H]
-\centering
-\begin{small} % or footnotesize, scriptsize, tiny, etc.
-\begin{tabular}{lccccccc}
-\toprule
-(000) & \emph{g1} & \emph{g2} & \emph{g3} & \emph{g4} & \emph{g5} & \emph{g6} & \emph{g7} \\
-\midrule
-Susc. at t = 0                   & 133 & 84 & 240 & 1560 & 1179 & 254 & 900 \\
-\bottomrule  
-\end{tabular}
-\end{small}
-\caption{Susceptible persons at the beginning of the simulation}
-\label{susceptible}
-\end{table}
-
-
-\end{frame}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}{Vaccination quotas, \emph{wise} strategy}
-
-\begin{small} % or footnotesize, scriptsize, tiny, etc.
-Considering the \emph{wise} option adopted in Table \ref{quotaTable2} and remembering that the time-sequence in daily actions is the priority, we will primarily vaccinate the left column groups to move gradually to other columns, but postponing group \emph{g4} (regular workers), \emph{g6} (regular people), and \emph{g7} (young people).
-\end{small}
-
-
-\begin{table}[H]
-\centering
-\begin{small} % or footnotesize, scriptsize, tiny, etc.
-\begin{tabular}{ccccccccc}
-\toprule
-From day & \begin{tabular}[c]{@{}c@{}}Q. of \\ vaccines \\ (000)\end{tabular} & \emph{g1} & \emph{g2} & \emph{g3} & \emph{g4} & \emph{g5} & \emph{g6} & \emph{g7} \\
-\midrule
-373      & 5           & 0.1        & 0.1        & 0.1        & 0.0        & 0.1        & 0.0        & 0.0        \\
-433      & 10         & 0.1        & 0.1        & 0.1        & 0.0        & 0.1        & 0.0        & 0.0        \\
-493      & 10         & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        \\
-553      & 10         & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        \\
-613      & 20         & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        & 0.1        \\
-738      & end     \\ 
-\bottomrule  
-\end{tabular}
-\end{small}
-\caption{From the days of the first column, considering the quantity of the second column (000), the vaccination of each group follows the quota of the related columns}
-\label{quotaTable2}
-\end{table}
-
-\begin{table}[H]
-\centering
-\begin{small} % or footnotesize, scriptsize, tiny, etc.
-\begin{tabular}{lccccccc}
-\toprule
-(000) & \emph{g1} & \emph{g2} & \emph{g3} & \emph{g4} & \emph{g5} & \emph{g6} & \emph{g7} \\
-\midrule
-Susc. at t = 0                   & 133 & 84 & 240 & 1560 & 1179 & 254 & 900 \\
-\bottomrule  
-\end{tabular}
-\end{small}
-\caption{Susceptible persons at the beginning of the simulation}
-\label{susceptible2}
-\end{table}
-
-
-\end{frame}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}{GAs quotas in the experiment, with vac. people still spreading the infection}
-
-\medskip
-
-\begin{table}[H]
-\centering
-\begin{small} % or footnotesize, scriptsize, tiny, etc.
-\begin{tabular}{lccccccc}
-\toprule
-& \emph{g1} & \emph{g2} & \emph{g3} & \emph{g4} & \emph{g5} & \emph{g6} & \emph{g7} \\
-\midrule
-Susc. at t = 0                   & 133 & 84 & 240 & 1560 & 1179 & 254 & 900 \\
-Susc. when\\vacc. starts & 124 & 81 & 162 & 1234 & 1032 & 245 & 891 \\
-\bottomrule  
-\end{tabular}
-\end{small}
-\caption{Susceptible persons at the beginning of the simulation and when the vaccination campaign starts,  day 373, Feb. \nth{12}, 2021}
-\label{susceptibleCaseForGA_I}
-\end{table}
-
-\begin{small} % or footnotesize, scriptsize, tiny, etc.
-Groups: (\emph{g1}) extra fragile people, (\emph{g2}) teachers, (\emph{g3}) fragile workers, (\emph{g4}) regular workers, (\emph{g5}) fragile people, (\emph{g6}) regular people, (\emph{g7}) young people.
-\end{small}
-
-\begin{table}[H]
-\centering
-\begin{small} % or footnotesize, scriptsize, tiny, etc.
-\begin{tabular}{cclllllll}
-\toprule
-From day & \begin{tabular}[c]{@{}c@{}}Q. of \\ vaccines \\ (000)\end{tabular} & \emph{g1} & \emph{g2} & \emph{g3} & \emph{g4} & \emph{g5} & \emph{g6} & \emph{g7} \\
-\midrule
-373 & 5 & 0.01 & 0 & 0 & 0.79 & 0.18 & 0.38 & 0.19 \\
-433 & 10 & 0.94 & 0.06 & 0.32 & 0.54 & 0.19 & 0.83 & 0.5 \\
-493 & 10 & 0.97 & 0.97 & 0.74 & 0.79 & 0.2 & 0.14 & 0.52 \\
-553 & 10 & 0.98 & 0.83 & 0.02 & 0.39 & 0.99 & 0.04 & 0.48 \\
-613 & 20 & 0.52 & 0.01 & 0.83 & 0.6 & 1 & 0.27 & 0.9 \\
-738      & end   \\ 
-\bottomrule  
-\end{tabular}
-\end{small}
-\caption{GAs best strategy in case I, with \textbf{\emph{vaccinated people still spreading the infection}}: from the day of the first column, considering the quantity of the second column, the vaccination of each group follows the quota of the related columns}
-\label{quotaTableCaseForGA_I_1>413bestGA}
-\end{table}
-
-
-\end{frame}
-
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{An experiment with GA}
@@ -1294,32 +1141,43 @@ Scientific advertising: \url{https://terna.github.io/SLAPP/}
 \end{figure}
 
 \end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Final remarks}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}{Some final considerations}
+\section{Agricultural field}
 
-\begin{itemize}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Examples in agricultural field}
 
-\item
-The importance of High Performance Computing.
+An offer of cooperation.
 
+% https://scholar.google.it/scholar?hl=it&as_sdt=0%2C5&q=agent-based+model+Precision+agriculture&btnG=
 
-\item The S.I.s.a.R. model is a tool for comparative analyses, not for forecasting (the enormous standard deviation values are intrinsic to the problem).
+\end{frame}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Examples in agricultural field}
 
-\item The model is highly parametric and more it will be.
+\begin{figure}[H]
+\center
+\includegraphics[scale=0.32]{agr1.png}
+\label{agr1}
+\end{figure}
 
-\item A small progress in the direction of using AI and inverse construction in agent-based models.
+\href{https://www.mdpi.com/1424-8220/18/4/998}{ABS-SmartComAgri: An Agent-Based Simulator of Smart Communication Protocols in Wireless Sensor Networks for Debugging in Precision Agriculture}
 
-\end{itemize}
+\end{frame}
 
- \bigskip
- The slides are at \url{https://terna.to.it/simul/PietroTerna_iGSS20210608.pdf}.
- 
- My homepage \url{https://terna.to.it} and my mail address \url{pietro.terna@unito.it}.
- 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Examples in agricultural field}
+
+\begin{figure}[H]
+\center
+\includegraphics[scale=0.32]{agr2.png}
+\label{agr2}
+\end{figure}
+
+\href{https://ieeexplore.ieee.org/abstract/document/9177771}{Towards a layered agent-modeling of IoT devices to precision agriculture}
+
 \end{frame}
 
 
