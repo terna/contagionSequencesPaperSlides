@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  30 OCT 2021 12:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  5 NOV 2021 20:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -762,7 +762,26 @@ File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count318
 \l__pdf_internal_box=\box73
 )
-No file PietroTerna_AccademiaAgricoltura20211110.aux.
+(./PietroTerna_AccademiaAgricoltura20211110.aux
+
+LaTeX Warning: Label `workplacesNursingHomes' multiply defined.
+
+
+LaTeX Warning: Label `Experiment_I_plainSymptomaticSeries' multiply defined.
+
+
+LaTeX Warning: Label `Experiment_I_plainVaccinationSequence' multiply defined.
+
+
+LaTeX Warning: Label `Experiment_I_plainSymptomaticSeries' multiply defined.
+
+
+LaTeX Warning: Label `Experiment_I_wiseVaccinationSequence' multiply defined.
+
+
+LaTeX Warning: Label `Experiment_I_wiseSymptomaticSeries' multiply defined.
+
+)
 \openout1 = `PietroTerna_AccademiaAgricoltura20211110.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
@@ -781,6 +800,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 69.
 LaTeX Font Info:    ... okay on input line 69.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 69.
 LaTeX Font Info:    ... okay on input line 69.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -864,6 +884,8 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 69.
 LaTeX Info: Redefining \pageref on input line 69.
 LaTeX Info: Redefining \nameref on input line 69.
+ (./PietroTerna_AccademiaAgricoltura20211110.out)
+(./PietroTerna_AccademiaAgricoltura20211110.out)
 \@outlinefile=\write5
 \openout5 = `PietroTerna_AccademiaAgricoltura20211110.out'.
 
@@ -935,20 +957,20 @@ Package caption Info: End \AtBeginDocument code.
  (./PietroTerna_AccademiaAgricoltura20211110.nav)
 Overfull \hbox (4.87386pt too wide) detected at line 69
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
-<logo2_unito.png, id=67, 131.692pt x 126.874pt>
+<logo2_unito.png, id=144, 131.692pt x 126.874pt>
 File: logo2_unito.png Graphic file (type png)
 <use logo2_unito.png>
 Package pdftex.def Info: logo2_unito.png  used on input line 80.
 (pdftex.def)             Requested size: 24.58374pt x 23.68427pt.
-<CCA_Logo2.png, id=69, 99.2508pt x 96.36pt>
+<CCA_Logo2.png, id=146, 99.2508pt x 96.36pt>
 File: CCA_Logo2.png Graphic file (type png)
 <use CCA_Logo2.png>
 Package pdftex.def Info: CCA_Logo2.png  used on input line 80.
 (pdftex.def)             Requested size: 24.58374pt x 23.86644pt.
-<A_agr.jpeg, id=70, 211.79124pt x 239.89626pt>
+<A_agr.jpeg, id=147, 211.79124pt x 239.89626pt>
 File: A_agr.jpeg Graphic file (type jpg)
 <use A_agr.jpeg>
 Package pdftex.def Info: A_agr.jpeg  used on input line 80.
@@ -972,23 +994,22 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [1{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
  <./logo2_unito.png> <./CCA_Logo2.png> <./A_agr.jpeg>]
-No file PietroTerna_AccademiaAgricoltura20211110.toc.
-
+(./PietroTerna_AccademiaAgricoltura20211110.toc)
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [2
 
 ]
-<abm1.png, id=278, 1001.7425pt x 704.6325pt>
+<abm1.png, id=389, 1001.7425pt x 704.6325pt>
 File: abm1.png Graphic file (type png)
 <use abm1.png>
 Package pdftex.def Info: abm1.png  used on input line 104.
@@ -996,13 +1017,13 @@ Package pdftex.def Info: abm1.png  used on input line 104.
 
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [3
 
  <./abm1.png>]
-<tools.png, id=361, 2117.9125pt x 1453.43pt>
+<tools.png, id=475, 2117.9125pt x 1453.43pt>
 File: tools.png Graphic file (type png)
 <use tools.png>
 Package pdftex.def Info: tools.png  used on input line 117.
@@ -1010,13 +1031,13 @@ Package pdftex.def Info: tools.png  used on input line 117.
 
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [4
 
  <./tools.png>]
-<scheme.png, id=441, 1067.99pt x 758.835pt>
+<scheme.png, id=559, 1067.99pt x 758.835pt>
 File: scheme.png Graphic file (type png)
 <use scheme.png>
 Package pdftex.def Info: scheme.png  used on input line 129.
@@ -1024,7 +1045,7 @@ Package pdftex.def Info: scheme.png  used on input line 129.
 
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [5
@@ -1032,7 +1053,7 @@ Overfull \hbox (4.87386pt too wide) has occurred while \output is active
  <./scheme.png>]
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [6
@@ -1040,7 +1061,7 @@ Overfull \hbox (4.87386pt too wide) has occurred while \output is active
 ]
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [7
@@ -1048,7 +1069,7 @@ Overfull \hbox (4.87386pt too wide) has occurred while \output is active
 ]
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [8
@@ -1056,7 +1077,7 @@ Overfull \hbox (4.87386pt too wide) has occurred while \output is active
 ]
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [9
@@ -1064,7 +1085,7 @@ Overfull \hbox (4.87386pt too wide) has occurred while \output is active
 ]
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [10
@@ -1072,13 +1093,13 @@ Overfull \hbox (4.87386pt too wide) has occurred while \output is active
 ]
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [11
 
 ]
-<world3D.png, id=991, 590.205pt x 351.3125pt>
+<world3D.png, id=1143, 590.205pt x 351.3125pt>
 File: world3D.png Graphic file (type png)
 <use world3D.png>
 Package pdftex.def Info: world3D.png  used on input line 300.
@@ -1095,13 +1116,13 @@ Overfull \vbox (4.23016pt too high) detected at line 300
 
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [12
 
  <./world3D.png>]
-<SIsaR_outline.png, id=1071, 2569.6pt x 1515.6625pt>
+<SIsaR_outline.png, id=1228, 2569.6pt x 1515.6625pt>
 File: SIsaR_outline.png Graphic file (type png)
 <use SIsaR_outline.png>
 Package pdftex.def Info: SIsaR_outline.png  used on input line 332.
@@ -1114,7 +1135,7 @@ Overfull \hbox (1.04883pt too wide) in paragraph at lines 332--332
 
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [13
@@ -1122,13 +1143,13 @@ Overfull \hbox (4.87386pt too wide) has occurred while \output is active
  <./SIsaR_outline.png>]
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [14
 
 ]
-<with8b40.png, id=1233, 961.5925pt x 552.0625pt>
+<with8b40.png, id=1398, 961.5925pt x 552.0625pt>
 File: with8b40.png Graphic file (type png)
 <use with8b40.png>
 Package pdftex.def Info: with8b40.png  used on input line 367.
@@ -1136,13 +1157,13 @@ Package pdftex.def Info: with8b40.png  used on input line 367.
 
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [15
 
  <./with8b40.png>]
-<with8a.png, id=1313, 984.67876pt x 552.0625pt>
+<with8a.png, id=1482, 984.67876pt x 552.0625pt>
 File: with8a.png Graphic file (type png)
 <use with8a.png>
 Package pdftex.def Info: with8a.png  used on input line 380.
@@ -1155,7 +1176,7 @@ l.380 \end{frame}
                  
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [16
@@ -1163,13 +1184,13 @@ Overfull \hbox (4.87386pt too wide) has occurred while \output is active
  <./with8a.png>]
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [17
 
 ]
-<10kNoControl.png, id=1471, 1069.9975pt x 633.36626pt>
+<10kNoControl.png, id=1648, 1069.9975pt x 633.36626pt>
 File: 10kNoControl.png Graphic file (type png)
 <use 10kNoControl.png>
 Package pdftex.def Info: 10kNoControl.png  used on input line 447.
@@ -1177,13 +1198,13 @@ Package pdftex.def Info: 10kNoControl.png  used on input line 447.
 
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [18
 
  <./10kNoControl.png>]
-<10kBasicC.png, id=1552, 1069.9975pt x 633.36626pt>
+<10kBasicC.png, id=1734, 1069.9975pt x 633.36626pt>
 File: 10kBasicC.png Graphic file (type png)
 <use 10kBasicC.png>
 Package pdftex.def Info: 10kBasicC.png  used on input line 480.
@@ -1191,13 +1212,13 @@ Package pdftex.def Info: 10kBasicC.png  used on input line 480.
 
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [19
 
  <./10kBasicC.png>]
-<andamento900annotato.jpg, id=1634, 1043.9pt x 642.4pt>
+<andamento900annotato.jpg, id=1821, 1043.9pt x 642.4pt>
 File: andamento900annotato.jpg Graphic file (type jpg)
 <use andamento900annotato.jpg>
 Package pdftex.def Info: andamento900annotato.jpg  used on input line 497.
@@ -1205,7 +1226,7 @@ Package pdftex.def Info: andamento900annotato.jpg  used on input line 497.
 
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [20
@@ -1213,13 +1234,13 @@ Overfull \hbox (4.87386pt too wide) has occurred while \output is active
  <./andamento900annotato.jpg>]
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [21
 
 ]
-<andamento900AA.jpg, id=1794, 939.51pt x 578.16pt>
+<andamento900AA.jpg, id=1989, 939.51pt x 578.16pt>
 File: andamento900AA.jpg Graphic file (type jpg)
 <use andamento900AA.jpg>
 Package pdftex.def Info: andamento900AA.jpg  used on input line 531.
@@ -1236,13 +1257,13 @@ Overfull \vbox (13.36673pt too high) detected at line 531
 
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [22
 
  <./andamento900AA.jpg>]
-<10kSpontWave2.png, id=1873, 1084.05pt x 633.36626pt>
+<10kSpontWave2.png, id=2073, 1084.05pt x 633.36626pt>
 File: 10kSpontWave2.png Graphic file (type png)
 <use 10kSpontWave2.png>
 Package pdftex.def Info: 10kSpontWave2.png  used on input line 575.
@@ -1495,13 +1516,13 @@ Overfull \hbox (2.7141pt too wide) in paragraph at lines 575--575
 
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [23
 
  <./10kSpontWave2.png>]
-<10kForceWave2.png, id=1955, 1069.9975pt x 633.36626pt>
+<10kForceWave2.png, id=2160, 1069.9975pt x 633.36626pt>
 File: 10kForceWave2.png Graphic file (type png)
 <use 10kForceWave2.png>
 Package pdftex.def Info: 10kForceWave2.png  used on input line 613.
@@ -1749,13 +1770,13 @@ Overfull \hbox (2.7141pt too wide) in paragraph at lines 613--613
 
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [24
 
  <./10kForceWave2.png>]
-<10kForceWave2Contr2.png, id=2036, 1069.9975pt x 633.36626pt>
+<10kForceWave2Contr2.png, id=2246, 1069.9975pt x 633.36626pt>
 File: 10kForceWave2Contr2.png Graphic file (type png)
 <use 10kForceWave2Contr2.png>
 Package pdftex.def Info: 10kForceWave2Contr2.png  used on input line 651.
@@ -1993,13 +2014,13 @@ Overfull \hbox (2.7141pt too wide) in paragraph at lines 651--651
 
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [25
 
  <./10kForceWave2Contr2.png>]
-<RtEstimation4.jpg, id=2118, 1204.5pt x 644.4075pt>
+<RtEstimation4.jpg, id=2333, 1204.5pt x 644.4075pt>
 File: RtEstimation4.jpg Graphic file (type jpg)
 <use RtEstimation4.jpg>
 Package pdftex.def Info: RtEstimation4.jpg  used on input line 664.
@@ -2007,13 +2028,13 @@ Package pdftex.def Info: RtEstimation4.jpg  used on input line 664.
 
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [26
 
  <./RtEstimation4.jpg>]
-<10kForceWave2Contr2M-20.png, id=2202, 1069.9975pt x 633.36626pt>
+<10kForceWave2Contr2M-20.png, id=2422, 1069.9975pt x 633.36626pt>
 File: 10kForceWave2Contr2M-20.png Graphic file (type png)
 <use 10kForceWave2Contr2M-20.png>
 Package pdftex.def Info: 10kForceWave2Contr2M-20.png  used on input line 702.
@@ -2246,7 +2267,7 @@ Overfull \hbox (2.7141pt too wide) in paragraph at lines 702--702
 
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [27
@@ -2254,13 +2275,13 @@ Overfull \hbox (4.87386pt too wide) has occurred while \output is active
  <./10kForceWave2Contr2M-20.png>]
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [28
 
 ]
-<10kForceWave2NoFragOct5for60d.png, id=2359, 1069.9975pt x 633.36626pt>
+<10kForceWave2NoFragOct5for60d.png, id=2589, 1069.9975pt x 633.36626pt>
 File: 10kForceWave2NoFragOct5for60d.png Graphic file (type png)
 <use 10kForceWave2NoFragOct5for60d.png>
 Package pdftex.def Info: 10kForceWave2NoFragOct5for60d.png  used on input line 
@@ -2504,7 +2525,7 @@ Overfull \hbox (2.7141pt too wide) in paragraph at lines 759--759
 
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [29
@@ -2956,7 +2977,7 @@ Overfull \vbox (13.05005pt too high) detected at line 814
 
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [30
@@ -2964,7 +2985,7 @@ Overfull \hbox (4.87386pt too wide) has occurred while \output is active
 ]
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [31
@@ -2972,13 +2993,13 @@ Overfull \hbox (4.87386pt too wide) has occurred while \output is active
 ]
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [32
 
 ]
-<CaseForGA_I_base.png, id=2677, 982.67125pt x 552.0625pt>
+<CaseForGA_I_base.png, id=2926, 982.67125pt x 552.0625pt>
 File: CaseForGA_I_base.png Graphic file (type png)
 <use CaseForGA_I_base.png>
 Package pdftex.def Info: CaseForGA_I_base.png  used on input line 887.
@@ -2986,13 +3007,13 @@ Package pdftex.def Info: CaseForGA_I_base.png  used on input line 887.
 
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [33
 
  <./CaseForGA_I_base.png>]
-<Experiment_I_base_symptomatic_series.png, id=2757, 972.63374pt x 568.1225pt>
+<Experiment_I_base_symptomatic_series.png, id=3010, 972.63374pt x 568.1225pt>
 File: Experiment_I_base_symptomatic_series.png Graphic file (type png)
 <use Experiment_I_base_symptomatic_series.png>
 Package pdftex.def Info: Experiment_I_base_symptomatic_series.png  used on inpu
@@ -3001,19 +3022,19 @@ t line 905.
 
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [34
 
  <./Experiment_I_base_symptomatic_series.png>]
-<Experiment_I_plainVaccinationSequence.png, id=2838, 719.68875pt x 497.86pt>
+<Experiment_I_plainVaccinationSequence.png, id=3095, 719.68875pt x 497.86pt>
 File: Experiment_I_plainVaccinationSequence.png Graphic file (type png)
 <use Experiment_I_plainVaccinationSequence.png>
 Package pdftex.def Info: Experiment_I_plainVaccinationSequence.png  used on inp
 ut line 930.
 (pdftex.def)             Requested size: 115.15254pt x 79.65923pt.
-<Experiment_I_1_plain_symptomatic_series.png, id=2839, 972.63374pt x 568.1225pt
+<Experiment_I_1_plain_symptomatic_series.png, id=3096, 972.63374pt x 568.1225pt
 >
 File: Experiment_I_1_plain_symptomatic_series.png Graphic file (type png)
 <use Experiment_I_1_plain_symptomatic_series.png>
@@ -3032,20 +3053,20 @@ Overfull \vbox (12.82774pt too high) detected at line 930
 
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [35
 
  <./Experiment_I_plainVaccinationSequence.png> <./Experiment_I_1_plain_symptoma
 tic_series.png>]
-<Experiment_I_wiseVaccinationSequence.png, id=2920, 719.68875pt x 497.86pt>
+<Experiment_I_wiseVaccinationSequence.png, id=3182, 719.68875pt x 497.86pt>
 File: Experiment_I_wiseVaccinationSequence.png Graphic file (type png)
 <use Experiment_I_wiseVaccinationSequence.png>
 Package pdftex.def Info: Experiment_I_wiseVaccinationSequence.png  used on inpu
 t line 954.
 (pdftex.def)             Requested size: 115.15254pt x 79.65923pt.
-<Experiment_I_1_wise_symptomatic_series.png, id=2921, 972.63374pt x 568.1225pt>
+<Experiment_I_1_wise_symptomatic_series.png, id=3183, 972.63374pt x 568.1225pt>
 
 File: Experiment_I_1_wise_symptomatic_series.png Graphic file (type png)
 <use Experiment_I_1_wise_symptomatic_series.png>
@@ -3059,20 +3080,20 @@ Overfull \vbox (3.61838pt too high) detected at line 954
 
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [36
 
  <./Experiment_I_wiseVaccinationSequence.png> <./Experiment_I_1_wise_symptomati
 c_series.png>]
-<Experiment_I_GA_1_VaccinationSequence.png, id=3002, 719.68875pt x 497.86pt>
+<Experiment_I_GA_1_VaccinationSequence.png, id=3270, 719.68875pt x 497.86pt>
 File: Experiment_I_GA_1_VaccinationSequence.png Graphic file (type png)
 <use Experiment_I_GA_1_VaccinationSequence.png>
 Package pdftex.def Info: Experiment_I_GA_1_VaccinationSequence.png  used on inp
 ut line 977.
 (pdftex.def)             Requested size: 115.15254pt x 79.65923pt.
-<Experiment_I_1_GAs_symptomatic_series.png, id=3003, 972.63374pt x 568.1225pt>
+<Experiment_I_1_GAs_symptomatic_series.png, id=3271, 972.63374pt x 568.1225pt>
 File: Experiment_I_1_GAs_symptomatic_series.png Graphic file (type png)
 <use Experiment_I_1_GAs_symptomatic_series.png>
 Package pdftex.def Info: Experiment_I_1_GAs_symptomatic_series.png  used on inp
@@ -3081,7 +3102,7 @@ ut line 977.
 
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [37
@@ -3090,13 +3111,13 @@ Overfull \hbox (4.87386pt too wide) has occurred while \output is active
 c_series.png>]
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [38
 
 ]
-<Experiment_I_plainPlusVaccinationSequence.png, id=3165, 719.68875pt x 497.86pt
+<Experiment_I_plainPlusVaccinationSequence.png, id=3441, 719.68875pt x 497.86pt
 >
 File: Experiment_I_plainPlusVaccinationSequence.png Graphic file (type png)
 <use Experiment_I_plainPlusVaccinationSequence.png>
@@ -3109,7 +3130,7 @@ plainVaccinationSequence}) has been already used, duplicate ignored
                    \relax 
 l.1033 \end{frame}
                   
-<Experiment_I_1_plainPlus_symptomatic_series.png, id=3166, 972.63374pt x 568.12
+<Experiment_I_1_plainPlus_symptomatic_series.png, id=3442, 972.63374pt x 568.12
 25pt>
 File: Experiment_I_1_plainPlus_symptomatic_series.png Graphic file (type png)
 <use Experiment_I_1_plainPlus_symptomatic_series.png>
@@ -3128,14 +3149,14 @@ Overfull \vbox (3.61838pt too high) detected at line 1033
 
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [39
 
  <./Experiment_I_plainPlusVaccinationSequence.png> <./Experiment_I_1_plainPlus_
 symptomatic_series.png>]
-<Experiment_I_wisePlusVaccinationSequence.png, id=3246, 719.68875pt x 497.86pt>
+<Experiment_I_wisePlusVaccinationSequence.png, id=3527, 719.68875pt x 497.86pt>
 
 File: Experiment_I_wisePlusVaccinationSequence.png Graphic file (type png)
 <use Experiment_I_wisePlusVaccinationSequence.png>
@@ -3148,7 +3169,7 @@ wiseVaccinationSequence}) has been already used, duplicate ignored
                    \relax 
 l.1057 \end{frame}
                   
-<Experiment_I_1_wisePlus_symptomatic_series.png, id=3247, 972.63374pt x 568.122
+<Experiment_I_1_wisePlus_symptomatic_series.png, id=3528, 972.63374pt x 568.122
 5pt>
 File: Experiment_I_1_wisePlus_symptomatic_series.png Graphic file (type png)
 <use Experiment_I_1_wisePlus_symptomatic_series.png>
@@ -3167,7 +3188,7 @@ Overfull \vbox (3.61838pt too high) detected at line 1057
 
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [40
@@ -3176,18 +3197,18 @@ Overfull \hbox (4.87386pt too wide) has occurred while \output is active
 mptomatic_series.png>]
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [41
 
 ]
-<Piem1.png, id=3404, 488.82625pt x 474.77374pt>
+<Piem1.png, id=3696, 488.82625pt x 474.77374pt>
 File: Piem1.png Graphic file (type png)
 <use Piem1.png>
 Package pdftex.def Info: Piem1.png  used on input line 1104.
 (pdftex.def)             Requested size: 122.20625pt x 118.69315pt.
-<Piem2.png, id=3405, 668.4975pt x 582.175pt>
+<Piem2.png, id=3697, 668.4975pt x 582.175pt>
 File: Piem2.png Graphic file (type png)
 <use Piem2.png>
 Package pdftex.def Info: Piem2.png  used on input line 1104.
@@ -3195,7 +3216,7 @@ Package pdftex.def Info: Piem2.png  used on input line 1104.
 
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [42
@@ -3203,13 +3224,13 @@ Overfull \hbox (4.87386pt too wide) has occurred while \output is active
  <./Piem1.png> <./Piem2.png>]
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [43
 
 ]
-<SLAPP.png, id=3567, 973.6375pt x 597.23125pt>
+<SLAPP.png, id=3868, 973.6375pt x 597.23125pt>
 File: SLAPP.png Graphic file (type png)
 <use SLAPP.png>
 Package pdftex.def Info: SLAPP.png  used on input line 1143.
@@ -3217,7 +3238,7 @@ Package pdftex.def Info: SLAPP.png  used on input line 1143.
 
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [44
@@ -3225,13 +3246,13 @@ Overfull \hbox (4.87386pt too wide) has occurred while \output is active
  <./SLAPP.png>]
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [45
 
 ]
-<agr1.png, id=3724, 573.14125pt x 485.815pt>
+<agr1.png, id=4034, 573.14125pt x 485.815pt>
 File: agr1.png Graphic file (type png)
 <use agr1.png>
 Package pdftex.def Info: agr1.png  used on input line 1168.
@@ -3239,13 +3260,13 @@ Package pdftex.def Info: agr1.png  used on input line 1168.
 
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [46
 
  <./agr1.png>]
-<agr2.png, id=3806, 645.41125pt x 558.085pt>
+<agr2.png, id=4121, 645.41125pt x 558.085pt>
 File: agr2.png Graphic file (type png)
 <use agr2.png>
 Package pdftex.def Info: agr2.png  used on input line 1181.
@@ -3253,12 +3274,62 @@ Package pdftex.def Info: agr2.png  used on input line 1181.
 
 Overfull \hbox (4.87386pt too wide) has occurred while \output is active
   [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
-][][][][][][][][][][] [][][][] [][][]  
+][][][][][][][][][][] [][][][] [][][][][][][][]  
  []
 
 [47
 
  <./agr2.png>]
+<agr3.png, id=4207, 1149.29375pt x 699.61375pt>
+File: agr3.png Graphic file (type png)
+<use agr3.png>
+Package pdftex.def Info: agr3.png  used on input line 1194.
+(pdftex.def)             Requested size: 287.32274pt x 174.903pt.
+
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][][][][][][]  
+ []
+
+[48
+
+ <./agr3.png>]
+<agr4.png, id=4294, 551.05875pt x 348.30125pt>
+File: agr4.png Graphic file (type png)
+<use agr4.png>
+Package pdftex.def Info: agr4.png  used on input line 1207.
+(pdftex.def)             Requested size: 198.38098pt x 125.38835pt.
+
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][][][][][][]  
+ []
+
+[49
+
+ <./agr4.png>]
+<agr5.png, id=4382, 1144.275pt x 632.3625pt>
+File: agr5.png Graphic file (type png)
+<use agr5.png>
+Package pdftex.def Info: agr5.png  used on input line 1220.
+(pdftex.def)             Requested size: 286.06804pt x 158.09024pt.
+
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][][][][][][]  
+ []
+
+[50
+
+ <./agr5.png>]
+Overfull \hbox (4.87386pt too wide) has occurred while \output is active
+  [] [][][][] [][][][][][][][] [][][][][] [][][][][][][] [][][][][][][][][] [][
+][][][][][][][][][][] [][][][] [][][][][][][][]  
+ []
+
+[51
+
+]
 \tf@nav=\write6
 \openout6 = `PietroTerna_AccademiaAgricoltura20211110.nav'.
 
@@ -3268,35 +3339,28 @@ Overfull \hbox (4.87386pt too wide) has occurred while \output is active
 \tf@snm=\write8
 \openout8 = `PietroTerna_AccademiaAgricoltura20211110.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1184.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1184.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1236.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1236.
  (./PietroTerna_AccademiaAgricoltura20211110.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1184.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1184.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1236.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1236.
+
+Package rerunfilecheck Info: File `PietroTerna_AccademiaAgricoltura20211110.out
+' has not changed.
+(rerunfilecheck)             Checksum: 7D8EB475C4E68B4C4ED927C4D3C6CEF9;1126.
 
 
-
-Package rerunfilecheck Warning: File `PietroTerna_AccademiaAgricoltura20211110.
-out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `PietroTerna_AccademiaAgricoltura202
-11110.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  7D8EB475C4E68B4C4ED927C4D3C6CEF9;1126.
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 20681 strings out of 480608
- 391619 string characters out of 5903631
- 705470 words of memory out of 5000000
- 35873 multiletter control sequences out of 15000+600000
+ 20774 strings out of 480608
+ 393358 string characters out of 5903631
+ 716266 words of memory out of 5000000
+ 35944 multiletter control sequences out of 15000+600000
  585995 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 58i,19n,67p,807b,804s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 58i,19n,67p,807b,805s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texl
 ive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texliv
@@ -3306,11 +3370,11 @@ e/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/
 -dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2020/texmf-dist/font
 s/type1/urw/times/utmr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/ur
 w/times/utmri8a.pfb>
-Output written on PietroTerna_AccademiaAgricoltura20211110.pdf (47 pages, 66831
-07 bytes).
+Output written on PietroTerna_AccademiaAgricoltura20211110.pdf (51 pages, 10874
+532 bytes).
 PDF statistics:
- 3951 PDF objects out of 4296 (max. 8388607)
- 3724 compressed objects within 38 object streams
- 150 named destinations out of 1000 (max. 500000)
- 234 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 4617 PDF objects out of 5155 (max. 8388607)
+ 4369 compressed objects within 44 object streams
+ 161 named destinations out of 1000 (max. 500000)
+ 393 words of extra memory for PDF output out of 10000 (max. 10000000)
 
