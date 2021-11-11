@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  9 NOV 2021 16:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.4)  11 NOV 2021 12:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -3356,7 +3356,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  20774 strings out of 480608
  393358 string characters out of 5903631
- 716267 words of memory out of 5000000
+ 716269 words of memory out of 5000000
  35944 multiletter control sequences out of 15000+600000
  585995 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -3371,7 +3371,7 @@ e/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/
 s/type1/urw/times/utmr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/ur
 w/times/utmri8a.pfb>
 Output written on PietroTerna_AccademiaAgricoltura20211110.pdf (51 pages, 10889
-140 bytes).
+136 bytes).
 PDF statistics:
  4618 PDF objects out of 5155 (max. 8388607)
  4370 compressed objects within 44 object streams
